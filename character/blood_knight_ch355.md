@@ -1,4 +1,4 @@
-# Blood Knight
+# Blood Knight (Chevalier de sang)
 
 | | |
 |---|---|
@@ -9,6 +9,7 @@ Chevalier d'Orculus en armure pourpre, natif de Bifron, meurtrier de l'ancien ca
 
 ### Évolutions
 - **ch. 359** : Vieux chevalier d'Orculus, perd un bras contre Bjorn ; Arua Raven était l'une de ses cibles.
+- **ch. 627** : [Chevalier de sang] Chevalier de mort en armure rouge sang d'Orculis, qui tua jadis le commandant des chevaliers royaux.
 
 ## Description
 
@@ -17,3 +18,4 @@ Chevalier d'Orculus en armure pourpre, natif de Bifron, meurtrier de l'ancien ca
 ## Apparitions
 - ch. 355
 - ch. 359
+- ch. 627

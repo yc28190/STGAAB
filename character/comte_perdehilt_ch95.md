@@ -11,6 +11,7 @@ Comte organisant le banquet ; s'intéresse étrangement à Bjorn et l'invite au 
 - **ch. 234** : veut parrainer Bjorn et lui offre sa fille Arabella en mariage (avec maîtresses autorisées) ; Bjorn refuse.
 - **ch. 242** : vient saluer Bjorn avec Arabella et le met en garde contre l'héritier Kudo.
 - **ch. 444** : présent au banquet de promotion ; regrette de ne pas avoir marié sa fille à Bjorn.
+- **ch. 788** : tente toujours de marier sa fille à Bjorn (cérémonie).
 
 ## Description
 
@@ -21,3 +22,4 @@ Comte organisant le banquet ; s'intéresse étrangement à Bjorn et l'invite au 
 - ch. 234
 - ch. 242
 - ch. 444
+- ch. 788

@@ -21,6 +21,10 @@ Fée, 20 ans, archère ; a une petite sœur en ville ; night friend de Bjorn (ch
 - **ch. 518** : (Elwen) passe niveau 8 ; la Table Ronde apprend que le clan fée prépare son sauvetage ; perce la porte du village et achève Hippermachant et Milayel ; se confie à Ainar sur son frère cadet qui lui en veut depuis la mort de Daria.
 - **ch. 558** : tire le Focused Shot qui sauve Bjorn contre Kashan ; cheveux coupés par le sort d'un mage, porte ensuite un heaume ; surprend la déclaration de Misha et demande l'aide d'Amelia ; membre de l'équipe de 5 dans la faille, rôle « Fille » (enfant de 8 puis ~11 ans, stats à 10 %) ; devient étrangement silencieuse (graphie : Elwen Fornaci)
 - **ch. 598** : (traduite « Elwen ») rajeunie en enfant dans le rôle de la sorcière, immunisée contre le malus mental ; refuse l'expédition au-delà du fleuve ; reçoit une essence sur mesure ; garde sa haine envers Orculis ; prouve à l'arc l'existence du cercle protecteur.
+- **ch. 637** : orthographiée « Elwen Fornaci di Tersia » ; protégée par les représentants elfes ; se retient face au Doom Scholar, meurtrier de sa sœur Daria ; Misha s'est excusée auprès d'elle sans réponse.
+- **ch. 681** : Ruinjeness révèle qu'elle portait le plus de « destin » après Bjorn, qu'il a voulu la tuer et qu'elle est devenue la « Blood Duchess » ; arrive avec le clan au secours de Bjorn et arrache le bras d'Aures avec [Burst] ; hait Ruinjeness ; reçoit sans doute le No. 696 Raindress's Imperial Palace
+- **ch. 741** : [Elwen Fornaci di Tersia] combat en état « bloodshade » à la porte du sanctuaire, accueille Bjorn avec effusion ; [Spirit Form] du vent combiné au [Sweep] de Bjorn ; tue Red Axe Jack d'une flèche.
+- **ch. 772** : survivante (n° 777) ; méprisée au sanctuaire des fées (« Marquise Bloodshade ») ; présente Bjorn à sa famille ; Équipe 2 (proteste) ; abat le Roi Squelette et inflige un tir chargé géant à Sniktura.
 
 ## Description
 
@@ -41,3 +45,7 @@ Fée, 20 ans, archère ; a une petite sœur en ville ; night friend de Bjorn (ch
 - ch. 518
 - ch. 558
 - ch. 598
+- ch. 637
+- ch. 681
+- ch. 741
+- ch. 772

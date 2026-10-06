@@ -10,6 +10,7 @@ Fée, sœur aînée d'Erwen, aventurière niveau 6 ; rachète l'essence et repre
 ### Évolutions
 - **ch. 210** : mercenaire de la 4e équipe du clan Blue Wall, 5e grade ; propose une alliance à Bjorn ; meurt au ch. 229 en se téléportant devant l'explosion pour protéger Erwen ; dernière volonté : que Bjorn veille sur sa sœur.
 - **ch. 408** : rappel de sa mort, attribuée au Ruin Scholar ; elle avait appris le maniement de la dague à Erwen.
+- **ch. 784** : Beleg avait gardé son corps conservé dans un cercueil pour une éventuelle résurrection.
 
 ## Description
 
@@ -19,3 +20,4 @@ Fée, sœur aînée d'Erwen, aventurière niveau 6 ; rachète l'essence et repre
 - ch. 16
 - ch. 210
 - ch. 408
+- ch. 784

@@ -21,6 +21,10 @@ Barbare, 2e fille de Penelin ; choisit une épée ; Bjorn l'aide à trouver le l
 - **ch. 518** : (Ainar/Ainard Fnelin, 2e fille de sa famille) se fait des amis natifs ; absorbe l'essence d'Hippermachant ([Crouch]) avec un malus d'esprit combatif qui la rend pacifique ; passe niveau 8 ; tire le n° 3 Wall of Aegis au gacha de Garphas pour Bjorn ; reçoit le n° 7 Shinrokgeochang et devient lancière (abandonne l'essence de Semura), puis l'essence de Speardipper ([Trident]) ; sa sœur aînée lancière est morte.
 - **ch. 557** : dort pendant les briefings, sauve Raven de Flame of Doom, a perdu son ardeur au combat ; invente le heaume pour Erwen (graphies : Ainard, Ainar Frenlin/Pnelin/Fnelin)
 - **ch. 608** : Ainard Pnellin (Fnelin/Pneline), désormais lancier ; entraîné par Amelia ; obtient deux essences sur mesure ([Indomitable Spirit], [Focused Strike], [War Machine], [Endurance]) et retrouve son esprit combatif ; surnommé le « New Spear » ; sait lire mais pas écrire.
+- **ch. 637** : appelé « Ainard » par le traducteur ; son essence d'Hiphramagent a pour capacité latente [Best Friend] (buff à deux, affection maximale requise) ; veut entraîner le futur fils de Bjorn ; s'entraîne avec Misha ; fan des concours de construction.
+- **ch. 693** : rejoint l'expédition de sauvetage hors des murs ; veut être vice-capitaine, mais Bjorn l'écarte ; seul membre du clan à porter une charm (No. 9999 Beginner's Luck)
+- **ch. 739** : nom complet Ainard Prnelin (« divine spear »), glaive vert et ailes ; défend la porte du sanctuaire, ouvre la voie à la charrette de Rotmiller puis est vaincue et capturée par Roland Banossant ; retenue au coffre de la banque d'Alminus comme appât ; libérée par Amelia et Bjorn ; reçoit calmement la mort de Rotmiller.
+- **ch. 766** : (Ainard Prnelin) rabroue Hyeonbyeol ; écrit ses « mémoires » ; organise au festival les duels « 3 maisons » et le duel de boisson ; Équipe 2 ; trouve le coffre du Roi Squelette ; foudroyée à répétition par [The Last Day].
 
 ## Description
 
@@ -41,3 +45,7 @@ Barbare, 2e fille de Penelin ; choisit une épée ; Bjorn l'aide à trouver le l
 - ch. 518
 - ch. 557
 - ch. 608
+- ch. 637
+- ch. 693
+- ch. 739
+- ch. 766

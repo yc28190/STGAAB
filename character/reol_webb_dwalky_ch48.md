@@ -14,6 +14,9 @@ Mage humain de rang 8 (fonctionnaire royal), vantard, prétend être lié à la 
 - **ch. 287** : (Liol Wobu Dwarkey) enfant timide de l'orphelinat de Leathlas dans le passé. Bjorn tente de le décourager de devenir explorateur. Sa mère biologique Wobu Emiren vient le reprendre (d'où son 2e nom). Bjorn comprend qu'il est à l'origine du rêve de mer qui mènera Dwarkey à la mort.
 - **ch. 408** : vengé ; Bjorn tue son meurtrier Regal Vagos (ch. 429).
 - **ch. 627** : Banossant affirme que le Dragon Slayer l'a tué et insinue l'implication des Chevaliers de la Rose dans les événements.
+- **ch. 703** : (Riol Warb Dwalki) cité par Amelia parmi les compagnons déjà perdus
+- **ch. 742** : Rotmiller, face à la mort, comprend enfin le sacrifice de son ami mage, qui n'avait pas fui et avait sauvé tout le monde.
+- **ch. 782** : (Riol Worb Dwalke) Bjorn repense à son vœu (veiller sur Misha) devant les tombes.
 
 ## Description
 
@@ -27,3 +30,6 @@ Mage humain de rang 8 (fonctionnaire royal), vantard, prétend être lié à la 
 - ch. 287
 - ch. 408
 - ch. 627
+- ch. 703
+- ch. 742
+- ch. 782

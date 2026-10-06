@@ -21,6 +21,10 @@ Magicienne niveau 6, passionnée de recherche, sensible aux compliments ; coéqu
 - **ch. 539** : vice-commandante du 3e bataillon royal de mages ; espère que Bjorn est vivant ; reçoit un ordre royal et rejoint l'armée de Saintred ; retrouvailles gênées avec Erwen et Misha.
 - **ch. 558** : vice-capitaine du 3e corps des mages ; examinatrice des candidats aux failles du sous-sol 1 ; tue des gardiens du 5e étage en duo avec Bjorn (sort grade 3 Blooming Snowflake) ; apprend le vrai nom de Bjorn (Lee Han-soo) et s'intéresse à la Terre ; remarque que Cambormere ne parle plus
 - **ch. 604** : chef de la recherche ; étudie en secret la couronne, invente l'appellation « Secret Numbers » et le nom « Crown of Agony » ; sauvée in extremis de l'usine à pierres de mana ; théorie liant pierres de mana, pierre philosophale et homoncules (genre fluctuant dans la traduction).
+- **ch. 638** : mage ; poursuit ses recherches à la tour (pillée par Noark) ; reçoit les essences secrètement détournées du 1er sous-sol ; identifie [Best Friend] ; héberge Bjorn une nuit (indices qu'elle est une femme ; « elle » au ch. 673).
+- **ch. 690** : a forgé le terme « Secret Numbers » ; affectée à l'escouade de recherche spéciale de Bjorn (ch. 710) ; vient le chercher en prison, refuse de le laisser seul face à Orculis, tombe avec lui au sous-sol 6 secret, active le cercle et l'accompagne jusqu'au roi, qui la fait sortir
+- **ch. 725** : retrouve Bjorn au palais, l'accompagne (incendie du district 8 avec [Water Cannon] + conversion en huile) ; Vivian l'accuse d'être une traîtresse d'après une vision de [Future Sight] ; perdue de vue après l'Underworld, rejoint Bjorn à Karnon, terrifiée par sa soif de sang.
+- **ch. 776** : « mage dorée », vice-commandante du corps des mages ; son maître est mort à la guerre ; quitte l'armée pour rejoindre Anabada et se venger d'un nouveau membre d'Orkulis ; Équipe 1 ; téléportation de masse, [White Tone] contre la Bête ; s'intéresse à la magi-technologie avec l'Arta humain.
 
 ## Description
 
@@ -41,3 +45,7 @@ Magicienne niveau 6, passionnée de recherche, sensible aux compliments ; coéqu
 - ch. 539
 - ch. 558
 - ch. 604
+- ch. 638
+- ch. 690
+- ch. 725
+- ch. 776

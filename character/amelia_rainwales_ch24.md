@@ -21,6 +21,10 @@ La « pillarde » du 8e étage (cheveux roux, oreille droite coupée, aura, veni
 - **ch. 518** : (« Emily », Rainwells) niveau 8, chef de la sécurité ; découvre le poignard du Silver Lion, s'infiltre dans la maison gardée, est capturée par l'Ancien puis rendue inconsciente ; menace de tuer Bjorn s'il refait le « mode samouraï ».
 - **ch. 556** : (alias Emily Raines) attend toujours Bjorn au retour de la communauté ; l'aide à affronter le problème Misha ; consomme l'essence de gardien de Herja (Wave Link), niv. 8 ; demande à Bjorn s'il aime les hommes et suggère que la polygamie est acceptable pour un noble
 - **ch. 604** : alias Emily (Raines) ; chef des éclaireurs ; convertie en pierre de mana puis libérée seule (sans doute grâce à [Dual Dominion] de Twin Hydra) ; gêne autour de son cache-œil ; moment ambigu puis coup de poing à Bjorn ; essence sur mesure ; découvre la porte secrète.
+- **ch. 637** : orthographiée « Amelia Rainwells », alias « Emily Raines » ; gère la maisonnée comme une mère ; trouve le moyen de sortir des murs et accompagne Bjorn dans les égouts jusqu'à la forteresse de Noark.
+- **ch. 685** : (Emily Rains) mène les recherches en ville, trouve comment sortir et arrive la première au secours de Bjorn ; il lui confie le record des « trois compagnons perdus » ; elle refuse le poste de vice-capitaine
+- **ch. 728** : cachée au district 4 avec Auyen (qu'elle a sauvé d'une flèche), y redit son vrai nom ; essences scellées par Ricardo, bras droit fendu lors de la fuite ; infiltre seule la banque d'Alminus pour sauver Ainard, valide Eltora comme esprit maléfique et l'accepte après qu'il la qualifie de future femme de Yandel ; repart avec Bjorn.
+- **ch. 766** : surnommée « Emily Raines » par les guerriers (autorité redoutée, « zone calme ») ; force Bjorn à se reposer (menace de quitter le clan), lui prête la Crimson Formalwear ; guide de l'Équipe 2 ; garde le n° 444 Deadrius's Invitation ; espionne Golden Tree avec le n° 16 Ebony Emblem ; reçoit l'essence de 1er rang de Sniktura et déclenche par erreur [The Last Day].
 
 ## Description
 
@@ -41,3 +45,7 @@ La « pillarde » du 8e étage (cheveux roux, oreille droite coupée, aura, veni
 - ch. 518
 - ch. 556
 - ch. 604
+- ch. 637
+- ch. 685
+- ch. 728
+- ch. 766

@@ -14,6 +14,9 @@ Humain, 34 ans, 8 ans d'expérience, rang 7, éclaireur/guide (essence olfactive
 - **ch. 295** : vient avec Murad au domicile de Bjorn après sa mort.
 - **ch. 449** : écrit « Lotmiller » ; son académie de pistage a fait faillite, il est sans emploi ; embauché par Bjorn pour enseigner le pistage aux barbares.
 - **ch. 634** : forme les jeunes guerriers barbares au sanctuaire et aide Shabin à l'administration ; romance apparente avec elle.
+- **ch. 651** : objet de l'amour secret de Shabin, qui semble réciproque ; sort avec Misha et Hikurod.
+- **ch. 739** : instructeur au sanctuaire, amoureux de Shabin Emuer ; reprend les armes, sauvé une première fois par Bjorn, puis transporte Bjorn inconscient dans une charrette à travers le district 4 jusqu'au rempart de Karnon ; meurt en retenant les poursuivants (ch. 753), sa tête prise comme trophée ; dernier message sur la paume de Bjorn : bien traiter Shabin ; Auril Gavis jugeait son legs futur plus précieux que celui de Sven.
+- **ch. 773** : mort pendant la guerre ; dernier message écrit sur la main de Bjorn (« Sois gentil avec Mlle Shabin ») ; enterré au Sanctuaire.
 
 ## Description
 
@@ -27,3 +30,6 @@ Humain, 34 ans, 8 ans d'expérience, rang 7, éclaireur/guide (essence olfactive
 - ch. 295
 - ch. 449
 - ch. 634
+- ch. 651
+- ch. 739
+- ch. 773

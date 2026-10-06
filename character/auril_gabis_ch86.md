@@ -16,6 +16,9 @@ Nom du développeur de Dungeon and Stone, retrouvé comme auteur du Compendium o
 - **ch. 440** : confirmé comme le « Maître » de la Round Table (révélé par Queen) ; Wolf le présente comme l'allié des joueurs, Bjorn le déclare « ennemi des joueurs » ; serait arrivé par magie dimensionnelle (selon Black).
 - **ch. 500** : aurait cru à la prophétie de la Record Stone ; Lee Baekho pense qu'il vit hors des murs. Selon Wolf, il n'a pas créé la version « cheat » du jeu.
 - **ch. 571** : (« Le Maître » de la Table Ronde) vit hors des murs ; écoutait toute la Table Ronde ; a repris son autorité au GM et provoque la fermeture de Ghost Busters ; démasque les membres, organise un quiz-révélation avec un « retour sur Terre » comme prix (gagné par Loup) ; sait que Bjorn est l'Investigator/Nibels Enche ; veut savoir où Bjorn a rencontré la Sorcière de la Terre ; conseille de se méfier de Lee Baekho (graphie : Gavis)
+- **ch. 656** : (Auril Gavis) rencontré en personne par Ibaekho ; a découvert et sait seul ouvrir les portails vers le labyrinthe ; dans le rêve, apparaît comme le créateur de Dungeon and Stone, affirme que la Terre du rêve est un monde parallèle réel, fait libérer Bjorn de l'hôpital et dit vouloir son retour ; évoque « une autre lui-même » et « cette enfant ».
+- **ch. 695** : (Auril Gavis) attend le groupe dans une grotte hors des murs ; « maître » de Ruinjeness ; menace de « disposer » d'Ibaekho, qu'il qualifie de second rôle défectueux ; possède des centaines de Fragments de Records et en montre deux à Bjorn (trois compagnons perdus ; trahison le jour où Karnon brûle) ; appelle Bjorn Lee Hansoo ; met en garde contre Ibaekho, absent de tous les Records
+- **ch. 738** : l'« aîné » qui manipule les destins via ses disciples de Hirkmuta ; voulait que Bjorn sauve Rotmiller (qui aurait laissé un grand legs) plutôt que Sven, qui serait mort au district 7 ; estime que le Jester vivant aurait aidé Bjorn.
 
 ## Description
 
@@ -31,3 +34,6 @@ Nom du développeur de Dungeon and Stone, retrouvé comme auteur du Compendium o
 - ch. 440
 - ch. 500
 - ch. 571
+- ch. 656
+- ch. 695
+- ch. 738

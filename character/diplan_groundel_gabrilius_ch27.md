@@ -12,6 +12,7 @@
 - **ch. 284** : (« Gavrilius ») le Fragment of Records est un legs de l'archimage, transmis de seigneur en seigneur à Noark ; « Gavrilius' Arrangement » est une récompense cachée des failles.
 - **ch. 486** : écrit « Diflun Groundel Gavrilius » ; il a créé la Stone of Honor, ouvert les portails du 2e étage, et ses compagnons incluent Brugrid.
 - **ch. 630** : le cercle protecteur de Lapdonia, encore actif autour de Viphron, est son héritage.
+- **ch. 694** : (Diphlun Groundel Gavrilius, le « Mage en blanc ») ses disciples ont fondé Hirkmuta, la confrérie du « Loup blanc », dont Briot était membre
 
 ## Description
 
@@ -23,3 +24,4 @@
 - ch. 284
 - ch. 486
 - ch. 630
+- ch. 694

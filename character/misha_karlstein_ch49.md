@@ -21,6 +21,9 @@ Beastkin (chat), 25 ans, 5e année d'aventurière, « princesse » du clan Red C
 - **ch. 518** : (Carlstain/Kalstein) tente de renouer avec Bjorn, qui était son ex ; Butterfly affirme à la Table Ronde qu'elle a rejoint l'équipe « sur instruction » (Bjorn soupçonne Lee Baekho) ; niveau 8, épées jumelles de glace ; maniée comme une épée par Bjorn contre l'Hippermachant ; chef de la cuisine de l'expédition.
 - **ch. 559** : détenait la Pierre de Résurrection de Lee Baekho contre la promesse de l'informer ; Bjorn lui dit ne plus la croire, elle s'isole ; sous Broken Trust, avoue qu'elle l'aime toujours (elle l'avait repoussé en apprenant qu'il était joueur et parce qu'elle ne peut lui donner d'enfant barbare) ; Bjorn répond qu'il ne sait pas, ils restent amis ; tente de se rapprocher d'Erwen (graphie : Kalstein)
 - **ch. 606** : nommée « secrétaire générale » (apporte thé et en-cas) ; essence sur mesure ; s'interroge sur la logique de l'invasion de Noark ; inquiète pour le 13e district.
+- **ch. 638** : (Kalstein) Bjorn l'affirme « simple camarade » au conseil des races ; retrouve sa bonne humeur, peint, sort avec Amelia, se rapproche du clan ; fait les boutiques à Commelby avec Bjorn.
+- **ch. 693** : fait partie de l'expédition de sauvetage ; vote pour Bersil
+- **ch. 772** : survivante (n° 606) ; emmène Bjorn en sortie « nostalgique » ; rappelle qu'ils sont des « camarades, pas des enfants » ; défend Avman avec [Frozen Soul] ; Bjorn commençait à lui avouer « la vérité » avant le salut de Reatlas.
 
 ## Description
 
@@ -41,3 +44,6 @@ Beastkin (chat), 25 ans, 5e année d'aventurière, « princesse » du clan Red C
 - ch. 518
 - ch. 559
 - ch. 606
+- ch. 638
+- ch. 693
+- ch. 772

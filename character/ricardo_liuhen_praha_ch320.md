@@ -1,4 +1,4 @@
-# Ricardo Liuhen Praha
+# Ricardo Liuhen Praha (Rühenpraha)
 
 | | |
 |---|---|
@@ -11,6 +11,8 @@
 - **ch. 321** : « Le Traître », ex-« Sword Saint », capitaine d'Orculus ; essence du Lord of Silence ([Flameless Spirit] : annule les compétences dans 30 m, passif Silent Control) ; maîtrise de l'épée exceptionnelle ; dans le passé, croit qu'Amelia est du Rose Knight Order et la traque ; vaincu temporairement par Bjorn grâce au sort Bond, il fuit ; c'est lui qui transperce Laura comme dans les souvenirs d'Amelia ; veut tuer le roi.
 - **ch. 360** : « Le Traître », criminel allié d'Orculus/Noark, assassin du vicomte Lamreond.
 - **ch. 410** : Capitaine (chef) d'Orculus, craint même de Vagos.
+- **ch. 601** : [Ricardo Rühenpraha] « Le traître », ancien adversaire de Bjorn qui possédait l'essence de Silriat (mentionné).
+- **ch. 724** : Commandant d'Orkulis (« The Traitor », ancien maître d'épée), essence unique [Silent Spell] qui scelle les essences ; traque Amelia au district 4, provoqué par radio par Bjorn (sa mère, les Rose Knights), lui trouve une voix familière ; affronte ensuite Astarotta.
 
 ## Description
 
@@ -21,3 +23,5 @@
 - ch. 321
 - ch. 360
 - ch. 410
+- ch. 601
+- ch. 724

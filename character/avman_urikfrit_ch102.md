@@ -15,6 +15,8 @@ Archer beastkin du clan Ours noir, explorateur de rang 5, arbalète géante et f
 - **ch. 312** : membre du clan de Bjorn, présent à la réunion sur l'héritage.
 - **ch. 338** : a rejoint un clan pour gagner sa vie ; a revendu tout ce qu'il a reçu de l'héritage de Bjorn (dont l'anneau subspatial).
 - **ch. 442** : « Bear » / « Abman », restaurateur sous le nom de Mr. Siegfried ; sa femme attend leur 2e enfant ; refuse de reprendre l'exploration avec Bjorn mais boit avec lui ; avait gardé une partie de l'équipement de Bjorn.
+- **ch. 744** : explorateur de rang 3 beastkin (ours), perd toujours son chemin ; vient sauver sa femme avec Hikurod, surgit sur son ours Iradun du passage secret pour sauver Sven.
+- **ch. 776** : (« Abet », l'homme-ours) serveur au restaurant d'un ami pendant le festival ; membre du clan Golden Tree, endetté au point de devoir 23 expéditions ; maltraité par ses coéquipiers ; refuse l'aide de Misha ; Bjorn échoue à le racheter.
 
 ## Description
 
@@ -29,3 +31,5 @@ Archer beastkin du clan Ours noir, explorateur de rang 5, arbalète géante et f
 - ch. 312
 - ch. 338
 - ch. 442
+- ch. 744
+- ch. 776

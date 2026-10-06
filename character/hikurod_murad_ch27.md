@@ -14,6 +14,9 @@ Nain bavard, aventurier de 3e année, marteau ; coéquipier auto-attribué dans 
 - **ch. 366** : propriétaire de la forge prospère « Carsia Lomne », devenu homme d'affaires cupide ; ne reconnaît pas Bjorn.
 - **ch. 449** : forge prospère, parraine deux orphelinats ; signe un contrat de fournisseur exclusif d'Anabada ; écoule le butin de Noark (5 %) et refond le mithril des Rose Knights.
 - **ch. 539** : cité parmi les compagnons chanceux de Bjorn.
+- **ch. 649** : sa forge (ancienne maison de Dwalky) est détruite, actifs sauvés ; envisage de rouvrir à Commelby ; Bjorn lui conseille le District 7 et lui apprend la mort de Rigal Baggos.
+- **ch. 752** : forgeron menacé de tout perdre par la guerre, ami d'Avman, l'accompagne pour sauver sa femme ; ignore encore la mort de Rotmiller.
+- **ch. 774** : boit seul sur la tombe de Rotmiller et se souvient de Dwalky avec Bjorn.
 
 ## Description
 
@@ -27,3 +30,6 @@ Nain bavard, aventurier de 3e année, marteau ; coéquipier auto-attribué dans 
 - ch. 366
 - ch. 449
 - ch. 539
+- ch. 649
+- ch. 752
+- ch. 774

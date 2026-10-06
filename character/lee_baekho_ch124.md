@@ -20,6 +20,10 @@ Joueur coréen arrivé le jour de sa démobilisation, dans ce monde depuis plus 
 - **ch. 499** : avoue connaître la Record Stone (il a vu 3 fragments) et sait que Bjorn est « Elfnunna ». Il voulait le manipuler ; le Ruin Scholar est son « plan B ». Devenu « collaborateur » de Bjorn, il part hors des murs chercher Auril Gabis et lui envoie la méthode pour quitter la ville.
 - **ch. 519** : sort des murs pour chercher Auril Gabis chez les gens de Noark ; découvre qu'on peut y cultiver ; révèle à Hyunbyul qu'il est un joueur ; Bjorn soupçonne qu'il a envoyé Misha.
 - **ch. 565** : a donné la Pierre de Résurrection à Misha pour qu'elle reste auprès de Bjorn et l'utilise (la pierre efface la mémoire) ; l'assume devant Bjorn et propose un « plan B » ; Bjorn promet de le tuer (« exaucer son vœu ») ; Auril Gavis conseille de s'en méfier (graphie : Ibaekho)
+- **ch. 638** : (Ibaekho) organise l'attentat contre Terserion (sort du Doom Scholar) pour tester sa résurrection et faire sortir le roi ; a rencontré Auril Gavis, vécu hors des murs et chez Noark ; annonce un grand événement dans un an ; donne à Bjorn une fausse incantation ; coincé avec lui hors des murs quand le cercle de retour est saboté ; possède l'essence de Deadred ([Star's Extinction]) ; sauve Bjorn de la noyade sur la Cascade onirique. Dans le rêve, une version terrestre est retrouvée par Hyunbyul.
+- **ch. 681** : (appelé « Ibaekho ») mène une équipe de vétérans hors des murs ; niveau 10 ; son essence de tier est scellée à Yonggol Mountain ; tire Bjorn hors du souffle du Bone Dragon ; prépare un « Plan B » ; révèle que Noark prévoit d'attaquer Karnon et de tuer le roi dans environ un an ; joue la folie pour débusquer Briot, puis le torture ; Auril Gabis le menace de le « disposer » et lui interdit le palais ; selon Auril, il n'apparaît dans aucun Record ; affronte Bjorn 4 h à 4 contre 1, recule devant le clan Anabada, s'excuse à genoux et paie avec son équipe 2 milliards de stones de compensation
+- **ch. 731** : apparaît au district 4 avec Rek Aures, Jaina, le vieil homme de la Destruction et des dizaines d'hommes encapuchonnés ; impose un duel Bjorn/Roland en menaçant de rompre le pacte avec Orkulis ; prend fébrilement des notes sur l'équipement de Bjorn ; ses intentions restent obscures.
+- **ch. 767** : (Ibaekho) assassine James Carla pour « accomplir » la prophétie des trois camarades morts, tue Versil Gowland ; abandonne son « rôle de rival », se pense peut-être protagoniste ; blesse Bjorn avec [Star's Extinction] et disparaît ; devient l'ennemi prioritaire de Bjorn ; envoie une lettre anonyme « Hehe » à Beleg sur la Pierre de Résurrection.
 
 ## Description
 
@@ -39,3 +43,7 @@ Joueur coréen arrivé le jour de sa démobilisation, dans ce monde depuis plus 
 - ch. 499
 - ch. 519
 - ch. 565
+- ch. 638
+- ch. 681
+- ch. 731
+- ch. 767

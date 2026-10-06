@@ -1,4 +1,4 @@
-# Wolf
+# Wolf (masque de Loup)
 
 | | |
 |---|---|
@@ -9,6 +9,7 @@ Ancien membre de la Round Table de retour ; probablement envoyé par Auril Gabis
 
 ### Évolutions
 - **ch. 521** : Membre de la Table Ronde ; mène la séance du ch. 544.
+- **ch. 571** : [Loup] Membre de la Table Ronde, dévoué à Auril Gavis ; chef de clan vivant au district 7, homme d'âge moyen ; gagne par défaut le « ticket de retour » de Gavis
 
 ## Description
 
@@ -17,3 +18,4 @@ Ancien membre de la Round Table de retour ; probablement envoyé par Auril Gabis
 ## Apparitions
 - ch. 471
 - ch. 521
+- ch. 571
