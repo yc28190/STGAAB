@@ -43,3 +43,36 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Julianne Urbans](julianne_urbans_ch38.md) | Fille du chef régional Nile Urbans, prise en otage par Bjorn à la Guilde. | 38 |
 | [Robert](robert_ch38.md) | Secrétaire du chef d'agence de la Guilde ; mâchoire brisée par Bjorn. | 38 |
 | [Nile Urbans](nile_urbans_ch40.md) | Chef régional de la Guilde des aventuriers (un des 13) ; indemnise Bjorn de 5 millions de stones. | 40 |
+| [Patsran](patsran_ch41.md) | Aventurier expérimenté contacté par Raven par cristal ; explique qu'une essence non voulue mérite 15 millions de compensation. | 41 |
+| [Deian Tveherion](deian_tveherion_ch42.md) | Maître de l'école Artemion (Tour des mages), professeur de Raven ; donne l'anneau n° 9425 à Bjorn, s'intéresse à lui pour une raison cachée. | 42 |
+| [Hans (aventurier de taverne)](hans_ch44.md) | Aventurier rencontré à l'auberge (homonyme du premier Hans) ; conseille d'utiliser le recrutement de la Guilde. | 44 |
+| [Terbes](terbes_ch45.md) | Employé de la Guilde au service de recrutement, très (trop) aimable avec Bjorn. | 45 |
+| [Ellen Bornev](ellen_bornev_ch45.md) | Aventurière du 3e étage, cheffe d'une équipe dans la liste de recrutement. | 45 |
+| [Tarikan, fils de Lien](tarikan_ch45.md) | Barbare sans arme, en réalité un autre « esprit maléfique » (joueur transmigré) récemment arrivé. | 45 |
+| [Reol Webb Dwalky](reol_webb_dwalky_ch48.md) | Mage humain de rang 8 (fonctionnaire royal), vantard, prétend être lié à la noblesse ; membre de l'équipe Murad. Surnommé « Dwalky l'idiot ». | 48 |
+| [Baron Martoine](baron_martoine_ch48.md) | Noble dont la belle-sœur est la tante de Dwalky (mentionné). | 48 |
+| [Tante Enka](tante_enka_ch48.md) | Tante de Dwalky, épouse du 3e frère du baron Martoine (mentionnée). | 48 |
+| [Misha Karlstein](misha_karlstein_ch49.md) | Beastkin (chat), 25 ans, 5e année d'aventurière, « princesse » du clan Red Cat ; dagues ; membre de l'équipe Murad. | 49 |
+| [Brown Rotmiller](brown_rotmiller_ch49.md) | Humain, 34 ans, 8 ans d'expérience, rang 7, éclaireur/guide (essence olfactive, arbalète) ; membre de l'équipe Murad. | 49 |
+| [Tailon Kaltstein (Karlstein)](tailon_kaltstein_ch52.md) | Frère de Misha, beastkin du clan Red Cat, explorateur de rang 5 du clan Dzarwi ; méprise Misha (« demi-sang »), refuse de la sauver (ch70). | 52 |
+| [Hans Argoda](hans_argoda_ch54.md) | Pillard moustachu, complice d'Elisa ; tué puis relevé en mort-vivant. | 54 |
+| [Irita Tason](irita_tason_ch54.md) | Lancier, complice d'Elisa ; vidé de sa vie et relevé en mort-vivant. | 54 |
+| [Elisa Behenk](elisa_behenk_ch54.md) | Fausse prêtresse de Reatlas, en réalité prêtresse de Karui (dieu des ténèbres) ; survit à un crâne fracassé et s'enfuit en jurant vengeance. | 54 |
+| [Reatlas (Leathlas)](reatlas_ch54.md) | Dieu de l'exploration (bon alignement). | 54 |
+| [Karui](karui_ch55.md) | Dieu des ténèbres ; ses prêtres sont exécutés s'ils sont découverts. | 55 |
+| [Davis](davis_ch57.md) | Chef fanatique d'une équipe de six aventuriers, dévot de Reatlas, manipulé par Elisa pour traquer l'équipe de Bjorn. | 57 |
+| [Skadi (bête de glace)](skadi_ch60.md) | Bête d'âme libérée de l'anneau n° 9425 ; pactise avec Misha (renforcement, attribut glace). | 60 |
+| [Hans Stov](hans_stov_ch62.md) | Éclaireur, chef d'une équipe de cinq croisée dans la Witch's Forest ; blessé par une mine de cannibalo. | 62 |
+| [Anuman Bate](anuman_bate_ch63.md) | Archère d'âge mûr, prétend tenir un bazar avec son mari ; tente de tuer Bjorn et Misha pour leur équipement. | 63 |
+| [Anderson](anderson_ch64.md) | Éclaireur de l'équipe de Davis ; tué par la lance de glace de Dwalky. | 64 |
+| [Riakis, Seigneur du Chaos](riakis_ch65.md) | Maître d'étage du 3e étage, invoqué par sept offrandes dans les Cabanes de la Sorcière ; érode tout l'étage. | 65 |
+| [Jack Reacher](jack_reacher_ch66.md) | Aventurier qui attise l'émeute contre le clan Dzarwi et entraîne ~100 personnes à la mort dans la Crack of Evil. | 66 |
+| [Iraz McGrane](iraz_mcgrane_ch68.md) | Vice-chef du clan Dzarwi, très pragmatique (compétence « Survival Instinct ») ; donne l'essence d'Orc Hero à Bjorn. | 68 |
+| [Humain « qui sait tout »](humain_qui_sait_tout_ch68.md) | Petit humain (~1,60 m) qui connaît des secrets du labyrinthe, défendu par une fée coéquipière ; possible autre transmigré ❓. | 68 |
+| [Danish, Belta, Tarugas (Orc Heroes)](danish_ch69.md) | Les trois « frères » Orc Hero, monstres nommés de grade 5 ; l'essence verte de Tarugas (Gigantification) va à Bjorn. | 69 |
+| [Aaron Diflane](aaron_diflane_ch69.md) | Membre du clan Dzarwi, soutien (bénédictions). | 69 |
+| [Tarotes Pian](tarotes_pian_ch69.md) | Membre du clan Dzarwi, soutien (Coffin of Sacrifice). | 69 |
+| [Anton Hernesion](anton_hernesion_ch70.md) | Mage de l'équipe 7 du clan Dzarwi. | 70 |
+| [Balkan](balkan_ch70.md) | Ancien « héros des barbares » légendaire, auquel Hernesion compare Bjorn. | 70 |
+| [Daniel Carmine](daniel_carmine_ch71.md) | Membre du clan Dzarwi (soutien, Blessing of Wind). | 71 |
+| [Chasseur d'esprits maléfiques (faux « joueur américain »)](chasseur_d_esprits_malefiques_ch74.md) | Agent anti-esprits maléfiques qui teste Bjorn en se faisant passer pour un joueur ; tabassé par Bjorn. | 74 |
