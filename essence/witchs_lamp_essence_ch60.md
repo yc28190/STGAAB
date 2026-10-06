@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Source monster** | [Witch's Lamp](../Bestiary/witch_s_lamp_ch60.md) |
-| **Grade** | 9 |
 | **First detailed source** | Ch. 60 |
 
-## Ability
+## Documented mechanics
 
-### Active
-- **Witch's Lamp** — Allows the user to summon and control Witch's Lamps.
+- Rank 9. Active Witch's Lamp allows the user to summon and control Witch's Lamps.
+
+> This entry records only mechanics identified during the reviewed chapter pass; it does not infer undocumented properties from the essence's name or market value.

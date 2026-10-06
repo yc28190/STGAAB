@@ -1,12 +1,12 @@
-# Essence: Iron Knight
+# Essence: Hop Goblin
 
 | | |
 |---|---|
-| **Source monster** | [Iron Knight](../Bestiary/iron_knight_ch107.md) |
+| **Source monster** | [Hop Goblin](../Bestiary/hop_goblin_ch107.md) |
 | **First detailed source** | Ch. 107 |
 
 ## Documented mechanics
 
-- Rank 6. Active Equipment Transformation instantly changes the user's equipment set to another set.
+- Rank 7. Active Poison Infliction applies a poison effect to the target.
 
 > This entry records only mechanics identified during the reviewed chapter pass; it does not infer undocumented properties from the essence's name or market value.

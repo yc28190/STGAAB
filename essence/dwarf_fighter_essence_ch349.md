@@ -1,12 +1,12 @@
-# Essence: Elatrek
+# Essence: Dwarf Fighter
 
 | | |
 |---|---|
-| **Source monster** | [Elatrek](../Bestiary/elatrek_ch35.md) |
-| **First detailed source** | Ch. 35 |
+| **Source monster** | [Dwarf Fighter](../Bestiary/dwarf_fighter_ch349.md) |
+| **First detailed source** | Ch. 349 |
 
 ## Documented mechanics
 
-- Rank 7. Active Lightning.
+- Rank 4. Increases Bone Density and reduces the user's size.
 
 > This entry records only mechanics identified during the reviewed chapter pass; it does not infer undocumented properties from the essence's name or market value.

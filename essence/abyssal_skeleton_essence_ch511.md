@@ -1,12 +1,12 @@
-# Essence: Elatrek
+# Essence: Abyssal Skeleton
 
 | | |
 |---|---|
-| **Source monster** | [Elatrek](../Bestiary/elatrek_ch35.md) |
-| **First detailed source** | Ch. 35 |
+| **Source monster** | [Abyssal Skeleton](../Bestiary/abyssal_skeleton_ch511.md) |
+| **First detailed source** | Ch. 511 |
 
 ## Documented mechanics
 
-- Rank 7. Active Lightning.
+- The essence provides Beginner's Luck.
 
 > This entry records only mechanics identified during the reviewed chapter pass; it does not infer undocumented properties from the essence's name or market value.
