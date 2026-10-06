@@ -446,7 +446,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Hoppfish](hoppfish_ch685.md) | Grade 5, poisson ; mer du 6e étage et Dreamfall Waterfall (9e étage) | 685 | 1 |
 | [Bartanus](bartanus_ch686.md) | grade 3 ou plus ; Star Grave (9e étage), Bjorn et Jaina le fuient | 686 | 1 |
 | [Makairo](makairo_ch688.md) | Grade 4, mid-boss caché de la faille Golden Ruins (4e étage), sort d'un cercueil doré ; trouvé déjà mort (squelette sans mana, mort depuis peut-être 4 000… | 688 | 4 |
-| [? (monstre terrifiant hors des murs)](_ch703.md) | sans nom ; apparaît partout hors des murs, a tué des milliers de Noark ; entravé aux pieds, couvert d'yeux, entouré d'âmes ; plus de mana qu'un grade 1 ; le… | 703 | 2 |
+| [? (monstre terrifiant hors des murs)](inconnu_ch703.md) | sans nom ; apparaît partout hors des murs, a tué des milliers de Noark ; entravé aux pieds, couvert d'yeux, entouré d'âmes ; plus de mana qu'un grade 1 ; le… | 703 | 2 |
 | [Pomplura](pomplura_ch704.md) | spores servant de matériau (stabilisation du mana) pour réparer le cercle magique | 704 | 1 |
 | [Rapion](rapion_ch704.md) | Wind Crystals, substitut des spores de Pomplura | 704 | 1 |
 | [Corpse (undead, cadavres invoqués)](corpse_ch726.md) | Armée de cadavres modifiés du Corpse Collector (Abet Nekrapeto) ; explosent en poison ([Corpse Explosion]) ; ressuscités via [Puppet]/[Modification] (traits… | 726 | 6 |
