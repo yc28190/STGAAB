@@ -81,7 +81,7 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Shabin Emuer](shabin_emuer_ch79.md) | Secrétaire de 7e grade à l'administration de Ravigion, amie de Ragna ; confie à Bjorn la patrouille des égouts. | 79 |
 | [Ragna Ritaniyel Peprok](ragna_ritaniyel_peprok_ch79.md) | La bibliothécaire somnolente (mage), dont le passé est mystérieux ; recommande Bjorn pour une mission. | 79 |
 | [Hans Marcom](hans_marcom_ch80.md) | Criminel tatoué et marqué (vol, meurtre), réfugié dans les égouts ; guide l'équipe vers le repaire d'Elisa et meurt dans un piège de Karui (ch81). | 80 |
-| [Amelia Rainwales](amelia_rainwales_ch24.md) | La « pillarde » du 8e étage (cheveux roux, oreille droite coupée, aura, venin de basilic) ; épargne Bjorn deux fois (ch26, ch84) ; liée à la cité cachée de Noark ; essence de Doppelgänger (Self-Replication). Nommée au ch83. | 24 |
+| [Amelia Rainwales](amelia_rainwales_ch24.md) | La « pillarde » du 8e étage (cheveux roux, oreille droite coupée, aura, venin de basilic) ; épargne Bjorn deux fois (ch26, ch84) ; liée à la cité cachée de Noark ; essence de Doppelgänger (Self-Replication). Nommée… | 24 |
 | [Vice-chef de Noark](vice_chef_de_noark_ch81.md) | Dirigeant de la cité cachée de Noark sous les égouts ; envoie Amelia s'occuper des intrus. | 81 |
 | [Auril Gabis](auril_gabis_ch86.md) | Nom du développeur de Dungeon and Stone, retrouvé comme auteur du Compendium of Rifts II écrit il y a 150 ans. | 86 |
 | [Tirba](tirba_ch86.md) | 3e frère de la baronne Martoan, père adoptif « de papier » de Dwalky. | 86 |
