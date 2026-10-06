@@ -9,6 +9,8 @@ Chef régional de la Guilde des aventuriers (un des 13) ; indemnise Bjorn de 5 m
 
 ### Évolutions
 - **ch. 131** : Bjorn enfonce la porte de son siège du 7e district et le menace de révéler l'enregistrement de la tentative de corruption de Raven. Il le met en garde et plie sa table en deux. Urbans renonce par lettre aux frais de réparation : c'est la réconciliation.
+- **ch. 257** : régulièrement humilié par Bjorn devenu vicomte (« Salue-moi »), lui suggère un candidat nommé Hans.
+- **ch. 367** : (« Nail Urbanes ») a démissionné de son poste de chef de guilde du 7e district après la mort de sa fille.
 
 ## Description
 
@@ -17,3 +19,5 @@ Chef régional de la Guilde des aventuriers (un des 13) ; indemnise Bjorn de 5 m
 ## Apparitions
 - ch. 40
 - ch. 131
+- ch. 257
+- ch. 367

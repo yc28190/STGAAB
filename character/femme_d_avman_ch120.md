@@ -9,6 +9,7 @@ Tient une taverne en difficulté (mentionnée).
 
 ### Évolutions
 - **ch. 151** : elle tient le bar avec Avman, découvre ses mensonges et est enceinte (« notre enfant à naître »).
+- **ch. 252** : enceinte, terme proche ; tient encore le bar.
 
 ## Description
 
@@ -17,3 +18,4 @@ Tient une taverne en difficulté (mentionnée).
 ## Apparitions
 - ch. 120
 - ch. 151
+- ch. 252
