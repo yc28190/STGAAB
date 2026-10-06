@@ -68,7 +68,7 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Riakis, Seigneur du Chaos](riakis_ch65.md) | Maître d'étage du 3e étage, invoqué par sept offrandes dans les Cabanes de la Sorcière ; érode tout l'étage. | 65 |
 | [Jack Reacher](jack_reacher_ch66.md) | Aventurier qui attise l'émeute contre le clan Dzarwi et entraîne ~100 personnes à la mort dans la Crack of Evil. | 66 |
 | [Iraz McGrane](iraz_mcgrane_ch68.md) | Vice-chef du clan Dzarwi, très pragmatique (compétence « Survival Instinct ») ; donne l'essence d'Orc Hero à Bjorn. | 68 |
-| [Humain « qui sait tout »](humain_qui_sait_tout_ch68.md) | Petit humain (~1,60 m) qui connaît des secrets du labyrinthe, défendu par une fée coéquipière ; possible autre transmigré ❓. | 68 |
+| [Hans Krisen](hans_krisen_ch68.md) | Petit invocateur humain bègue (~1,60 m) qui « sait tout » (Crack of Evil, stèle du Death Knight) ; probablement un joueur ; a mené ~100 personnes à la mort au ch68 ; nommé au ch114. | 68 |
 | [Danish, Belta, Tarugas (Orc Heroes)](danish_ch69.md) | Les trois « frères » Orc Hero, monstres nommés de grade 5 ; l'essence verte de Tarugas (Gigantification) va à Bjorn. | 69 |
 | [Aaron Diflane](aaron_diflane_ch69.md) | Membre du clan Dzarwi, soutien (bénédictions). | 69 |
 | [Tarotes Pian](tarotes_pian_ch69.md) | Membre du clan Dzarwi, soutien (Coffin of Sacrifice). | 69 |
@@ -102,3 +102,28 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Sir Quartean](sir_quartean_ch97.md) | Apprenti chevalier (baronnie Serphia), l'un des trois insolents ; battu en 3 secondes au tournoi. | 97 |
 | [Sir Albatross](sir_albatross_ch98.md) | Apprenti chevalier du comte Perdehilt, très équipé ; fuit l'arène en finale face à Bjorn. | 98 |
 | [Dkart, fils de Kafen](dkart_ch99.md) | Jeune barbare engagé par un noble pour imiter Bjorn ; avoue qu'il n'est qu'un « guerrier ordinaire ». | 99 |
+| [Hanst Ivan](hanst_ivan_ch101.md) | Aventurier du 1er étage au regard envieux, ancien « Hans » ayant changé de nom ; Bjorn le surnomme Hans G. | 101 |
+| [Kalson](kalson_ch102.md) | Épéiste au bouclier, coéquipier novice dans la faille Glacier Cave. | 102 |
+| [Avman Urikfrit](avman_urikfrit_ch102.md) | Archer beastkin du clan Ours noir, explorateur de rang 5, arbalète géante et flèches explosives ; bête d'âme Iradun (ours de fer) ; poignardé par Jensia (ch105). | 102 |
+| [Jensia Nayfrin](jensia_nayfrin_ch102.md) | Épéiste aux couettes noires se disant novice ; en réalité une joueuse pillarde recherchée qui a ouvert la faille ; poignarde Avman ; exécutée par Bjorn (ch107), premier joueur qu'il tue. | 102 |
+| [Katumba, Seigneur des neiges](katumba_ch103.md) | Yeti nommé (high variant), mi-boss de la Glacier Cave ; tué par Avman. | 103 |
+| [Tyran Tarunbas](tyran_tarunbas_ch104.md) | Lycanthrope géant, gardien de la faille Glacier Cave. | 104 |
+| [Iradun (ours de fer)](iradun_ch105.md) | Bête d'âme invoquée par Avman Urikfrit. | 105 |
+| [Royce](royce_ch111.md) | Archer d'un trio de pillards qui « escorte » Karon pour son cœur ; décapité par Karon (ch112). | 111 |
+| [Victor](victor_ch111.md) | Lancier du trio de pillards ; tué par Bjorn. | 111 |
+| [Briol](briol_ch111.md) | Chef du trio de pillards (marteau) ; tué par Misha. | 111 |
+| [Karon, fils de Tarson](karon_ch111.md) | Jeune barbare trahi par ses coéquipiers humains ; sauvé par Bjorn, devient un « chasseur de pillards » et diffuse ses méthodes aux jeunes barbares (ch114). | 111 |
+| [Meilin](meilin_ch113.md) | Fée archère, coéquipière de Hans Krisen, méfiante envers les barbares. | 113 |
+| [Partslan](partslan_ch113.md) | Mage de l'équipe de Hans Krisen (sorts de feu). | 113 |
+| [Odrian](odrian_ch119.md) | Employé de la Guilde des aventuriers qui escorte Bjorn jusqu'au chef d'agence. | 119 |
+| [Femme d'Avman](femme_d_avman_ch120.md) | Tient une taverne en difficulté (mentionnée). | 120 |
+| [Peta](peta_ch123.md) | Prénom du chef d'agence moustachu de la Guilde (celui que Bjorn avait assommé au ch38). | 123 |
+| [Lee Baekho (« Sergeant Lee »)](lee_baekho_ch124.md) | Joueur coréen arrivé le jour de sa démobilisation, dans ce monde depuis plus de 10 ans ; « petit frère » de Lee Han-soo ; en « retraite » ; l'introduit aux Watchers of the Round Table. | 124 |
+| [Clown jaune](clown_jaune_ch125.md) | Membre masqué des Watchers of the Round Table, bien informé sur la cour. | 125 |
+| [Masque de renard](masque_de_renard_ch125.md) | Membre féminin des Watchers of the Round Table ; tente d'intimider Bjorn et se fait dominer. | 125 |
+| [Croissant de lune](croissant_de_lune_ch125.md) | Membre des Watchers of the Round Table, probablement une fée. | 125 |
+| [Masque à bois de cerf](masque_a_bois_de_cerf_ch125.md) | Membre des Watchers of the Round Table. | 125 |
+| [« Le Maître » des Watchers](le_maitre_des_watchers_ch125.md) | Fondateur disparu du club de vétérans Watchers of the Round Table. | 125 |
+| [Albreniv Kaltstein](albreniv_kaltstein_ch129.md) | Chef du clan beastkin Red Cat, « père » de Misha (qui n'est pas de son sang) ; ancien explorateur du 8e étage ; manipulateur, cherche l'objet du pacte avec Skadi. | 129 |
+| [Brante](brante_ch128.md) | Portier de la maison Kaltstein, méprisant envers Misha ; assommé par Bjorn. | 128 |
+| [Veros](veros_ch128.md) | Assistant d'Albreniv Kaltstein. | 128 |
