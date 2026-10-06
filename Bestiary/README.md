@@ -6,12 +6,12 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 
 ## Index
 
-491 entrées, triées par première mention.
+461 entrées, triées par première mention.
 
 | Page | Résumé | 1re mention | Nb ch. |
 |---|---|---|---|
 | [Goblin](goblin_ch4.md) | Grade 9, 1er étage (zone nord, Crystal Cave) et 2e étage (Goblin Forest, groupes de ~10) ; pose des pièges, dague ; pierre de mana grade 9 (~1 pain, 20… | 4 | 71 |
-| [Fire Spirit (esprit de feu)](fire_spirit_ch10.md) | Esprit élémentaire contracté par Erwen (flamme pour éclairer, flèches enflammées) | 10 | 8 |
+| [Fire Spirit (esprit de feu)](fire_spirit_ch10.md) | Esprit élémentaire contracté par Erwen (flamme pour éclairer, flèches enflammées) | 10 | 10 |
 | [Ghoul](ghoul_ch11.md) | Grade 9, 1er étage (zone ouest) et Deadlands (2e étage) ; invoqué par le deathfiend (Call of the Dead) ; aussi dans le Blood Citadel | 11 | 12 |
 | [Blade Wolf (blade wolves)](blade_wolf_ch11.md) | Grade 9, 1er étage (zone est) ; son essence donnerait un odorat de pisteur | 11 | 7 |
 | [Orc](orc_ch11.md) | Mention en passant (« sauter dans l'antre des orcs ») | 11 | 13 |
@@ -19,7 +19,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Goblin Swordsman](goblin_swordsman_ch12.md) | Variante du gobelin (cimeterre), 2e étage (Goblin Forest) | 12 | 5 |
 | [Wind Spirit (esprit du vent)](wind_spirit_ch19.md) | Nouvel esprit contracté par Erwen via spirit stone (dévie/accélère les flèches) | 19 | 5 |
 | [Elder Ghoul](elder_ghoul_ch23.md) | Deux fois plus grand qu'une goule, Deadlands ; escorte du Ghoul Lord | 23 | 2 |
-| [Deathfiend](deathfiend_ch23.md) | Grade 8, Deadlands (2e étage) et Blood Citadel ; mort-vivant de 3 m, lame/bouclier protéens, régénération (Preservation of the Flesh), invoque 10 goules ;… | 23 | 9 |
+| [Deathfiend](deathfiend_ch23.md) | Grade 8, Deadlands (2e étage) et Blood Citadel ; mort-vivant de 3 m, lame/bouclier protéens, régénération (Preservation of the Flesh), invoque 10 goules ;… | 23 | 19 |
 | [Skeleton](skeleton_ch23.md) | Deadlands (2e étage) et Blood Citadel ; noyau entre les côtes | 23 | 9 |
 | [Skeleton Warrior](skeleton_warrior_ch23.md) | Variante du squelette, Deadlands | 23 | 1 |
 | [Skeleton Archer](skeleton_archer_ch23.md) | Variante du squelette, Deadlands, Blood Citadel | 23 | 2 |
@@ -29,7 +29,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Stone Golem](stone_golem_ch25.md) | Grade 8, Blackrock Mountain ; compétence active Suppression (paralysie levée par un dégât) | 25 | 9 |
 | [Basilisk](basilisk_ch26.md) | Mention : venin paralysant utilisé par la pillarde du 8e étage ; extrait de basilic proposé à boire par Raven | 26 | 6 |
 | [Kobold](kobold_ch27.md) | Blackrock Mountain, 2e étage (route sud), mentionné | 27 | 3 |
-| [Frostlord](frostlord_ch27.md) | Boss du rift du 8e étage (Frostlord's Palace) ; essence convoitée par Bjorn dans le jeu | 27 | 1 |
+| [Frostlord](frostlord_ch27.md) | Boss du rift du 8e étage (Frostlord's Palace) ; essence convoitée par Bjorn dans le jeu | 27 | 2 |
 | [Skeleton Mage](skeleton_mage_ch29.md) | Blood Citadel (ville extérieure) | 29 | 1 |
 | [Gargoyle](gargoyle_ch29.md) | Grade 8, entrée et sanctuaire du Blood Citadel (rift du 1er étage) ; pétrification | 29 | 5 |
 | [Deadman (deadmen)](deadman_ch29.md) | Sans grade, Blood Citadel ; pas de pierre ni d'EXP, le corps reste | 29 | 4 |
@@ -37,19 +37,19 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Deadman Commander](deadman_commander_ch29.md) | Blood Citadel, mini-chef du poste de garde ; donne le cor qui abaisse le pont-levis | 29 | 1 |
 | [Ghoul Lord](ghoul_lord_ch30.md) | Grade 8, donjon du Blood Citadel, escorté de ~30 elder ghouls | 30 | 3 |
 | [Skull Rat](skull_rat_ch30.md) | Sans grade, donjon du Blood Citadel | 30 | 2 |
-| [Chimeric Wolf](chimeric_wolf_ch30.md) | Grade 8, donjon et sanctuaire du Blood Citadel ; 4 têtes ; essence (force musculaire) envisagée par Bjorn | 30 | 3 |
+| [Chimeric Wolf](chimeric_wolf_ch30.md) | Grade 8, donjon et sanctuaire du Blood Citadel ; 4 têtes ; essence (force musculaire) envisagée par Bjorn | 30 | 5 |
 | [Corpse Golem](corpse_golem_ch30.md) | Grade 7, monstre rare, boss intermédiaire du Blood Citadel ; bombes de cadavres acides, puis « bone golem » ; essence (sang acide, Flesh Explosion) absorbée… | 30 | 48 |
 | [Gachabon](gachabon_ch32.md) | Grade 7, sanctuaire du Blood Citadel ; types haine/chagrin/nostalgie (Soul Slash fait perdre des niveaux) ; essence (Drain Life, taille réduite) absorbée… | 32 | 17 |
 | [Death Knight](death_knight_ch32.md) | Gardien normal du Blood Citadel (remplacé cette fois par le vampire) | 32 | 9 |
 | [Vampire](vampire_ch32.md) | Espèce ; faiblesse au soleil et au cœur ; variantes Yellow/Red Vampire (voir lignes séparées) | 32 | 49 |
-| [Cambormere](cambormere_ch32.md) | High variant, difficulté grade 5, gardien variant du Blood Citadel (1er étage) ; magie noire, corbeaux explosifs, Mark of Sacrifice, Eternal Life, Pain… | 32 | 20 |
+| [Cambormere](cambormere_ch32.md) | High variant, difficulté grade 5, gardien variant du Blood Citadel (1er étage) ; magie noire, corbeaux explosifs, Mark of Sacrifice, Eternal Life, Pain… | 32 | 25 |
 | [Nightflier](nightflier_ch33.md) | Grade 8, essence Pain Sharing (possédée par le vampire), stats faibles | 33 | 1 |
 | [Mimic](mimic_ch33.md) | Espèce rare des zones générales (mention dans la classification) | 33 | 14 |
 | [Ogre](ogre_ch33.md) | Mention (peau épaisse), exemple de classification | 33 | 67 |
 | [Troll](troll_ch33.md) | Mention (régénération), exemple de classification | 33 | 37 |
 | [Iron Troll](iron_troll_ch34.md) | Grade 7, essence de Hikurod (Counterweight, immunité au recul) | 34 | 1 |
 | [Living Armor](living_armor_ch34.md) | Essence de Hikurod (Emergency Restoration, auto-réparation de l'équipement) | 34 | 3 |
-| [Elatrek](elatrek_ch35.md) | Grade 7, essence de Hikurod (Lightning) | 35 | 1 |
+| [Elatrek](elatrek_ch35.md) | Grade 7, essence de Hikurod (Lightning) | 35 | 2 |
 | [Yellow Vampire](yellow_vampire_ch44.md) | Variante dont l'essence donne Mark of Sacrifice (mention) | 44 | 1 |
 | [Red Vampire](red_vampire_ch44.md) | Variante dont l'essence donne Master of Blood (mention) | 44 | 1 |
 | [Giant Blade Wolf](giant_blade_wolf_ch50.md) | Beasts Lair, EXP +1 | 50 | 1 |
@@ -60,7 +60,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Werewolf](werewolf_ch50.md) | Beasts Lair, EXP +2 | 50 | 3 |
 | [Vulkar](vulkar_ch50.md) | Beasts Lair | 50 | 1 |
 | [Half-Moon Rock Bear](half_moon_rock_bear_ch50.md) | Rang 9, Beasts Lair | 50 | 1 |
-| [Irontro (Aiantro)](irontro_ch50.md) | Grade 7, 3e étage (Pilgrims' Path) ; sanglier géant à défenses d'acier ; essence Counterweight (immunité au recul), la même que Hikurod | 50 | 1 |
+| [Irontro (Aiantro)](irontro_ch50.md) | Grade 7, 3e étage (Pilgrims' Path) ; sanglier géant à défenses d'acier ; essence Counterweight (immunité au recul), la même que Hikurod | 50 | 2 |
 | [Lizardman Skirmisher](lizardman_skirmisher_ch51.md) | Essence avec Thermal Colouring (vision thermique), possédée par Rotmiller | 51 | 1 |
 | [Wormstone](wormstone_ch51.md) | 3e étage (Steel Rock Hill), EXP +2 | 51 | 3 |
 | [Iron Falcon](iron_falcon_ch51.md) | 3e étage (Steel Rock Hill), EXP +2 | 51 | 2 |
@@ -69,7 +69,6 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Orc Archer](orc_archer_ch51.md) | Orc Colony, 3e étage | 51 | 1 |
 | [Orc Shaman](orc_shaman_ch51.md) | Orc Colony ; lance [Frenzy] (résistance physique x3 aux guerriers) | 51 | 4 |
 | [Orc Warlord](orc_warlord_ch51.md) | Grade 7, Orc Colony ; le Dzarwi Clan voulait son essence | 51 | 3 |
-| [Death Fiend](death_fiend_ch55.md) | Mort-vivant dont le noyau est le cerveau | 55 | 10 |
 | [Shadow Guard](shadow_guard_ch55.md) | Soldats d'ombre invoqués par Elisa Behenk (prêtresse de Karui) | 55 | 2 |
 | [Iron Ant](iron_ant_ch57.md) | Grade 7, Steel Rock Hill ; monstre de meute | 57 | 2 |
 | [Fairy](fairy_ch57.md) | Grade 9, Witch's Forest ; poudre toxique narcotique, immunisée aux dégâts physiques, non agressive ; essence rare | 57 | 1 |
@@ -87,7 +86,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Hound](hound_ch61.md) | Chiens sauvages invoqués par le Cannibalo | 61 | 1 |
 | [Dryad](dryad_ch61.md) | Grade 8, rare dans la Witch's Forest ; [Charm] (illusion très réaliste) | 61 | 1 |
 | [Floor Master du 1er étage (Crystal Cave)](floor_master_du_1er_etage_ch65.md) | Nom non donné ; peut apparaître après le 3e jour pour une équipe de 5+ ; raid de 30 explorateurs du 4e étage minimum ; Bjorn vend sa stratégie (92) | 65 | 3 |
-| [Lord of Chaos Riakis](lord_of_chaos_riakis_ch65.md) | Floor Master du 3e étage, invoqué par 7 offrandes (corps brûlés) dans les Witch's Cabins ; Rain of Despair, Dark Orbs, Crack of Evil, marque [Prey] ; bête… | 65 | 8 |
+| [Riakis](riakis_ch65.md) | Floor Master du 3e étage, invoqué par 7 offrandes (corps brûlés) dans les Witch's Cabins ; Rain of Despair, Dark Orbs, Crack of Evil, marque [Prey] ; bête… | 65 | 40 |
 | [Chaos Spirit](chaos_spirit_ch65.md) | Sans rang, ni pierre magique ni essence ; poursuit sans relâche, érode le sol en mourant | 65 | 5 |
 | [Orc Hero](orc_hero_ch68.md) | Grade 5, boss caché de l'Orc Encampment (3e étage) ; trois variantes nommées ; essence verte (Gigantification, Hero's Path) absorbée par Bjorn | 68 | 40 |
 | [Clone de Riakis](clone_de_riakis_ch68.md) | Mini-clones autodestructeurs dans [Crack of Evil] (Riakis's Hatred) | 68 | 2 |
@@ -96,7 +95,6 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Belta](belta_ch69.md) | Orc Hero nommé ; essence bleue avec [Banner of Struggle] | 69 | 1 |
 | [Tarugas](tarugas_ch69.md) | Orc Hero nommé ; essence verte (cœur du build barbare au bouclier) ; c'est celle que Bjorn obtient | 69 | 1 |
 | [Orc Lord](orc_lord_ch69.md) | Apparition très rare à l'invocation de l'Orc Hero, impossible à battre pour le Dzarwi Clan | 69 | 3 |
-| [Vampire Duke Cambormier](vampire_duke_cambormier_ch77.md) | Gardien vampire du Crimson Fortress, tué par Bjorn (essence obtenue) | 77 | 3 |
 | [Necramia](necramia_ch80.md) | Grade 7 ; son essence donne des squelettes | 80 | 1 |
 | [Gardien de la faille Doppelganger Forest](gardien_de_la_faille_doppelganger_forest_ch83.md) | 4e étage ; essence super rare [Self-Replication] (Amelia Rainwales) | 83 | 1 |
 | [Corrupted Gnome](corrupted_gnome_ch89.md) | Grade 9, 2e étage (Rock Desert), variante de gnome | 89 | 1 |
@@ -105,7 +103,6 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Sandman](sandman_ch89.md) | Rock Desert | 89 | 1 |
 | [Vitol](vitol_ch89.md) | 4e étage (Tower of Heaven), EXP +4 (grade 6 probable) | 89 | 2 |
 | [Lizardman Scout](lizardman_scout_ch89.md) | 4e étage (Tower of Heaven), EXP +2 | 89 | 1 |
-| [Ilatrek](ilatrek_ch89.md) | 4e étage (Tower of Heaven), EXP +3 | 89 | 1 |
 | [Drake](drake_ch89.md) | 4e étage (Tower of Heaven), EXP +4 | 89 | 14 |
 | [Steel Hill Stalker](steel_hill_stalker_ch90.md) | Grade 8 ; essence absorbée par Erwen (stats incluant Obsession moyenne ; Piercing Arrow, Terrain Eruption, Weakness Detection) | 90 | 1 |
 | [Ancient Dragon](ancient_dragon_ch92.md) | Boss de fin de jeu, mentionné | 92 | 4 |
@@ -122,18 +119,16 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Katumba (Lord of the Snowfields)](katumba_ch103.md) | Yeti « higher variant » (nommé), mi-boss de la Glacier Cave ; [Suppression] (skill du Stone Golem), [Blizzard] ; tué par la flèche explosive d'Avman | 103 | 1 |
 | [Floor Master](floor_master_ch103.md) | Maîtres d'étage ; celui du 1er étage invoqué (110), vaincu par le clan Jagun (125) | 103 | 7 |
 | [Lycanthrope](lycanthrope_ch104.md) | Grade 7 ; base du gardien Tarunbas ; essence de gardien absorbée par Misha (Cutting Power, Cold Affinity ; passif [Blood of the Snowfields], [Ice Crush],… | 104 | 5 |
-| [Tyrant Tarunbas](tyrant_tarunbas_ch104.md) | Gardien de la Glacier Cave (Lycanthrope géant, massue de glace) ; [Ice Crush], [Indomitable] ; faible à la foudre ; tué en ~10 s, essence pour Misha | 104 | 4 |
+| [Tyrant Tarunbas](tyrant_tarunbas_ch104.md) | Gardien de la Glacier Cave (Lycanthrope géant, massue de glace) ; [Ice Crush], [Indomitable] ; faible à la foudre ; tué en ~10 s, essence pour Misha | 104 | 7 |
 | [Ice Orc](ice_orc_ch105.md) | Grade 7 ; mi-boss de la Glacier Cave (2 guerriers + 1 chaman), forte résistance au froid | 105 | 4 |
 | [Ice Orc Warrior](ice_orc_warrior_ch105.md) | Grade 7 ; hache/marteau (cité aussi comme « Orc Warrior » en 112) | 105 | 3 |
 | [Ice Orc Shaman](ice_orc_shaman_ch105.md) | Grade 7 ; [Steel Ice Wall] | 105 | 1 |
-| [Iron Bear Iradun](iron_bear_iradun_ch105.md) | Bête spirituelle-tank (ours gris) invoquée par Avman Urikfrit | 105 | 6 |
+| [Iron Bear](iron_bear_ch105.md) | Bête spirituelle-tank (ours gris) invoquée par Avman Urikfrit | 105 | 19 |
 | [Frozen Breath](frozen_breath_ch106.md) | Essence que Jensia comptait obtenir dans la Glacier Cave | 106 | 1 |
 | [Iron Knight](iron_knight_ch107.md) | Essence de Jensia ([Equipment Transformation]) | 107 | 1 |
 | [Dinictis](dinictis_ch107.md) | Essence de Jensia ([Beast Walk], furtivité) | 107 | 1 |
 | [Saint Assassin](saint_assassin_ch107.md) | Grade 5 ; essence de Jensia ([Vengeance]) | 107 | 1 |
 | [Hop Goblin](hop_goblin_ch107.md) | Essence de Jensia et de Misha ([Poison Infliction]) | 107 | 1 |
-| [Riakis (Lord of Chaos)](riakis_ch110.md) | Floor Master du 3e étage ; skill [Crack of Evil] | 110 | 32 |
-| [Chimera Wolf](chimera_wolf_ch110.md) | Grade 8 ; skill d'incapacité | 110 | 2 |
 | [Wyvern](wyvern_ch110.md) | Cuir de Wyvern (rang 2) de l'armure de Jensia donnée à Misha | 110 | 5 |
 | [Frogman](frogman_ch115.md) | Grade 8, 3e étage (Pitch-black Estuary) ; harpon ; [Slimy Mucus] (esquive absolue vs armes contondantes) | 115 | 5 |
 | [Frogman Shaman](frogman_shaman_ch115.md) | Quête : 2 yeux (récompense 2 M) ; cadavre obtenu et disséqué par Rotmiller | 115 | 3 |
@@ -153,7 +148,6 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Guardian Dragon (Ancient Dragon)](guardian_dragon_ch148.md) | dragon gardien des Dragonkin, tué par Regal Vagos, qui a été maudit par lui ; transmettait Dragonsword | 148 | 2 |
 | [Vampire Guardian](vampire_guardian_ch155.md) | sujet du mémoire de recherche de Raven | 155 | 1 |
 | [Hobgoblin](hobgoblin_ch163.md) | bord extérieur de la Goblin Forest (2e étage) | 163 | 2 |
-| [Iron Bear (Iradun, « Woongie »)](iron_bear_ch163.md) | Spirit Beast invoqué par Avman Urikfrit, tank, haute résistance magique | 163 | 12 |
 | [Hell Hound](hell_hound_ch168.md) | 6e grade, 5e étage (Hellfire Canyon), chien à quatre yeux couvert de flammes noires | 168 | 1 |
 | [Millarodden](millarodden_ch168.md) | 7e grade, espèce rare (écureuil invisible, mange la mousse noire) ; fourrure, tendons et miroir (accès au Mirror of Fire) après High-Grade Distortion | 168 | 5 |
 | [Salamander](salamander_ch169.md) | 6e grade, type nature, Mirror of Fire (5e étage) | 169 | 1 |
@@ -178,9 +172,8 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Red Mud](red_mud_ch191.md) | 5e étage ; EXP +3 | 191 | 1 |
 | [Hellflame](hellflame_ch191.md) | 5e étage ; EXP +5 | 191 | 1 |
 | [Medusa](medusa_ch209.md) | Monstre de 4e grade ; son essence donne au Corpse Collector [Stone Curse] (pétrification) | 209 | 2 |
-| [Dreadfear](dreadfear_ch212.md) | Invoqué à partir du jour 3 (5 personnes ou plus réunies), réapparaît toutes les 6 h ; ~30 explorateurs de 7e grade suffisent ; ne lâche pas d'essence ; le… | 212 | 8 |
-| [Esprit du feu (fire spirit)](esprit_du_feu_ch214.md) | Esprit invoqué par Erwen pour éclairer ; forme élémentaire feu du contrat | 214 | 2 |
-| [Verzak (Lord of the Abyss)](verzak_ch219.md) | Floor Master caché du 1er étage ; moins puissant que Riakis mais bien plus difficile ; champ [Abyssal Fog] (compétences actives et effets d'usage scellés,… | 219 | 7 |
+| [Dreadfear](dreadfear_ch212.md) | Invoqué à partir du jour 3 (5 personnes ou plus réunies), réapparaît toutes les 6 h ; ~30 explorateurs de 7e grade suffisent ; ne lâche pas d'essence ; le… | 212 | 29 |
+| [Verzak (Lord of the Abyss)](verzak_ch219.md) | Floor Master caché du 1er étage ; moins puissant que Riakis mais bien plus difficile ; champ [Abyssal Fog] (compétences actives et effets d'usage scellés,… | 219 | 14 |
 | [Abyssal Blade Wolf](abyssal_blade_wolf_ch221.md) | Blade Wolf évolué par l'Abyssal Fog, 5e grade (EXP +5) ; [Inner Madness] (défense sacrifiée pour l'attaque) ; stats de base élevées, Bjorn convoite l'essence | 221 | 1 |
 | [Abyssal Watcher](abyssal_watcher_ch222.md) | Monstre-jeton de 9e grade invoqué par Verzak (EXP +1) ; partage sa vision (rayon ~2 km) ; le tuer attire l'attention de Verzak | 222 | 4 |
 | [Abyssal Goblin](abyssal_goblin_ch222.md) | Gobelin évolué de 5e grade (EXP +5), plus pénible qu'un troll ; [Random Trap] (sort offensif aléatoire de grade ≤5) indétectable ; lance des Monster Pouches… | 222 | 4 |
@@ -189,9 +182,9 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Earth Spirit](earth_spirit_ch227.md) | Esprit de terre fusionné à Bjorn via le contrat d'Erwen : immunité au poison, dégâts de feu réduits de moitié, eau doublée, agilité réduite | 227 | 2 |
 | [Death Lord](death_lord_ch228.md) | Monstre de 3e grade ; essence cachée du Corpse Collector : [Momentary Immortality] (immortel 1 min, stats mentales/capacité converties en physique,… | 228 | 2 |
 | [Venom Hydra](venom_hydra_ch229.md) | Passif du Corpse Collector : sang acide bien plus puissant qu'[Acidic Fluid] ; il aveugle Bjorn | 229 | 1 |
-| [Dark Lord Deathred](dark_lord_deathred_ch235.md) | Essence obtenue en secret par Lee Baekho : [Extinction of Stars] (orbe qui absorbe le mana puis explose sur 100 m) | 235 | 1 |
+| [Deadred](deadred_ch235.md) | Essence obtenue en secret par Lee Baekho : [Extinction of Stars] (orbe qui absorbe le mana puis explose sur 100 m) | 235 | 3 |
 | [Bellarios](bellarios_ch242.md) | Dragon oriental (genre Imoogi), grade 3 ; essence du Golden Treasury, stats axées Résistance magique, passif [Cycle of Reincarnation], actif [Scales of… | 242 | 27 |
-| [Vol-Herchan](vol_herchan_ch242.md) | Grade 3, monstre géant à carapace vivant en groupes, facile à trouver ; essence défensive contre l'Aura, forte Force ; écartée par Bjorn | 242 | 19 |
+| [Vol-Herchan](vol_herchan_ch242.md) | Grade 3, monstre géant à carapace vivant en groupes, facile à trouver ; essence défensive contre l'Aura, forte Force ; écartée par Bjorn | 242 | 20 |
 | [Bion](bion_ch242.md) | Grade 3, seul petit monstre de grade 3, humanoïde mort-vivant (héros antiques ressuscités, combattent avec des essences), champ « Land of Immortality » ;… | 242 | 16 |
 | [Istoltos](istoltos_ch263.md) | 5e étage (Great Magical Forest), rôde librement faute de clans | 263 | 1 |
 | [Specter](specter_ch264.md) | Spectres hurlants de la Specter Canyon (5e étage, un des quatre chemins vers le 6e étage) | 264 | 1 |
@@ -215,7 +208,7 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Naga Archer](naga_archer_ch273.md) | Vague de Parune Island ; EXP +5 | 273 | 1 |
 | [Serpent of Palpus](serpent_of_palpus_ch273.md) | Vague de Parune Island | 273 | 1 |
 | [Guano Sea Serpent (« Shit Lizard »)](guano_sea_serpent_ch274.md) | Grade 4, boss de la 2e vague (Parune, sous la pluie) ; lézard à quatre pattes couvert de mousse ; passif [Stench] (essence clé des builds chaman de… | 274 | 2 |
-| [Stormgush](stormgush_ch278.md) | Grade 3, « Ogre de la mer », crustacé bipède de 5 m à harpon, boss final de la 4e vague (Parune) ; skills [Eye of the Storm], [Dragon Vein], [Tyrant's… | 278 | 26 |
+| [Stormgush](stormgush_ch278.md) | Grade 3, « Ogre de la mer », crustacé bipède de 5 m à harpon, boss final de la 4e vague (Parune) ; skills [Eye of the Storm], [Dragon Vein], [Tyrant's… | 278 | 29 |
 | [Skadia](skadia_ch279.md) | Esprit-bête de givre de Misha (via le Frost Spirit Ring), capacité [Absolute Zero] | 279 | 1 |
 | [Blue Armored Giant Soldier](blue_armored_giant_soldier_ch299.md) | Mid-boss bipède ~5 m, rift du 3e étage (Hundred Colors Temple) ; EXP de 6e grade, combat inférieur à un 5e grade | 299 | 2 |
 | [White Armored Guardian](white_armored_guardian_ch300.md) | Monstre du Hundred Colors Temple (rift 3e étage) | 300 | 1 |
@@ -225,17 +218,16 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Knight of Doom](knight_of_doom_ch300.md) | Gardien (boss) du Hundred Colors Temple, 5e grade High-Grade Variant ; 3 phases, passif [Chivalry], ici avec l'essence Orc Hero ([Gigantification]) ; a… | 300 | 1 |
 | [Spirit Horse](spirit_horse_ch300.md) | Monstre bête de 7e grade, monture invoquée ([Servant]) du Knight of Doom, partage ses stats en salle de boss | 300 | 1 |
 | [Sea Merchant](sea_merchant_ch315.md) | Espèce rare 4e grade, monstre « neutre » du Great Ocean (6e étage) ; donne de la Blue Stone contre des magic stones ; essence [Unfair Contract] (Pelic Barker) | 315 | 2 |
-| [Lord of Silence](lord_of_silence_ch320.md) | Floor Master (maître du 5e étage) ; essence [Flameless Spirit] (silence de zone 30 m, sans effet sur monstres), passif Silent Control ; détenue par Ricardo… | 320 | 3 |
+| [Silriat](silriat_ch320.md) | Floor Master (maître du 5e étage) ; essence [Flameless Spirit] (silence de zone 30 m, sans effet sur monstres), passif Silent Control ; détenue par Ricardo… | 320 | 8 |
 | [Grabanich](grabanich_ch321.md) | Monstre de 4e grade ; essence d'Amelia : [Abyssal Power] (Aura noire, ressources converties en Soul Power x2) | 321 | 1 |
-| [Lord of the Abyss (Verzak)](lord_of_the_abyss_ch325.md) | Floor Master ; essence « of the Abyss » | 325 | 1 |
 | [Eblus](eblus_ch327.md) | Nom d'essence que Bjorn soupçonne chez Auril Gabis (corps dissous en lumière, renvoi au palais) ; nature exacte incertaine | 327 | 5 |
-| [Dicloe, the Dark Spirit King (Ninth Spirit King)](dicloe_the_dark_spirit_king_ch337.md) | Spirit King contracté par Erwen (origine du surnom Blood Spirit Marquis) ; invoqué 5 s, anéantit la moitié des morts-vivants | 337 | 14 |
+| [Dicloe, the Dark Spirit King (Ninth Spirit King)](dicloe_the_dark_spirit_king_ch337.md) | Spirit King contracté par Erwen (origine du surnom Blood Spirit Marquis) ; invoqué 5 s, anéantit la moitié des morts-vivants | 337 | 18 |
 | [Darkness Spirit](darkness_spirit_ch339.md) | Esprit d'Erwen (extinction de lumière, dissimulation) | 339 | 10 |
 | [Devil Wolf](devil_wolf_ch340.md) | Grade 5, bête vivant en meute, 7e étage (Dark Continent) ; tué par Misha | 340 | 1 |
 | [Twin Hydra](twin_hydra_ch341.md) | Essence donnant la synergie Dual Control (clone indépendant d'Amelia) | 341 | 4 |
 | [Steel Hill Chaser](steel_hill_chaser_ch345.md) | Ancienne essence d'Erwen (stat Obsession) | 345 | 2 |
 | [Cannibal](cannibal_ch345.md) | Ancienne essence d'Erwen (stat Obsession) | 345 | 1 |
-| [Patrol Golem Ertes](patrol_golem_ertes_ch345.md) | Golem Island, 6e étage ; essence d'Erwen (+45 Defense Mechanism) | 345 | 1 |
+| [Patrol Ertes](patrol_ertes_ch345.md) | Golem Island, 6e étage ; essence d'Erwen (+45 Defense Mechanism) | 345 | 4 |
 | [Kalban](kalban_ch345.md) | Loup qui n'attaque que la nuit ; essence d'Erwen (+30 Impulse, +30 Distrust) | 345 | 3 |
 | [Metcrow](metcrow_ch345.md) | Grade 4 ; essence d'Erwen (+24 Possessiveness) | 345 | 3 |
 | [Imp](imp_ch349.md) | Grade 7 ; essence donnant un peu de Magic Resistance (proposée à Bjorn) | 349 | 1 |
@@ -309,13 +301,11 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Minum](minum_ch409.md) | Gray Plains, EXP +5 | 409 | 1 |
 | [Hell Ghoul](hell_ghoul_ch409.md) | Gray Plains, EXP +4 | 409 | 1 |
 | [Zambet](zambet_ch409.md) | Gray Plains | 409 | 1 |
-| [Glacier Witch, Kariadaea (Elder Lich)](glacier_witch_kariadaea_ch418.md) | Elder Lich, grade 3, high-variant Named ; boss de l'Eye of the Glacier, ~10 % de chances d'apparaître 10 à 5 jours avant la fermeture du 7e étage ; [Soul… | 418 | 5 |
+| [Glacier Witch, Kariadaea (Elder Lich)](glacier_witch_kariadaea_ch418.md) | Elder Lich, grade 3, high-variant Named ; boss de l'Eye of the Glacier, ~10 % de chances d'apparaître 10 à 5 jours avant la fermeture du 7e étage ; [Soul… | 418 | 6 |
 | [Abyss Lord](abyss_lord_ch419.md) | Incident du Crystal Cave (souvenir) | 419 | 2 |
 | [Flora](flora_ch427.md) | Grade 5 ; essence d'[Elemental Barbarian] | 427 | 1 |
-| [Patrol Ertes](patrol_ertes_ch428.md) | Essence d'Erwen (capacité [Harmony] du « scout ») | 428 | 3 |
 | [Executioner](executioner_ch428.md) | Invocation du prêtre du Dieu maléfique (Karui) Bogus Lichmont ; vaincue par le sacrifice de deux prêtres | 428 | 2 |
-| [Hellsmith](hellsmith_ch450.md) | Monstre de 3e grade ; sa compétence [Hammering] (buff de feu) est utilisée par le chef Gudnulf Olga | 450 | 2 |
-| [Frost Lord](frost_lord_ch450.md) | Seulement via « Frost Lord's Palace », faille du 8e étage raidée jadis par le chef Gudnulf Olga | 450 | 1 |
+| [Hellsmith](hellsmith_ch450.md) | Monstre de 3e grade ; sa compétence [Hammering] (buff de feu) est utilisée par le chef Gudnulf Olga | 450 | 4 |
 | [Sandworm](sandworm_ch456.md) | 2e étage (Rocky Desert) ; à tuer en boucle pour faire apparaître le Deathworm | 456 | 1 |
 | [Deathworm](deathworm_ch456.md) | 5e grade, 2e étage (Rocky Desert), toujours high-variant ; tué en un coup par Erwen et Amelia (EXP +5, +1) ; essence utile pour Ainar, pas de drop | 456 | 2 |
 | [Smug](smug_ch456.md) | Essence de 5e grade d'Ainar (passif [Mandel Oil]) | 456 | 2 |
@@ -325,11 +315,10 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Guardian's Eye](guardian_s_eye_ch456.md) | Steel Tomb (EXP +2) | 456 | 1 |
 | [Iron Lizardman](iron_lizardman_ch456.md) | Steel Tomb (EXP +3) | 456 | 1 |
 | [Riddlekeeper](riddlekeeper_ch456.md) | Steel Tomb | 456 | 1 |
-| [Iron Golem Ildium](iron_golem_ildium_ch456.md) | Gardien/boss de la faille Steel Tomb (1er étage), high-variant (EXP +4 +1 +3) ; a lâché No. 9999 Beginner's Luck | 456 | 1 |
+| [Iron Golem Ildium](iron_golem_ildium_ch456.md) | Gardien/boss de la faille Steel Tomb (1er étage), high-variant (EXP +4 +1 +3) ; a lâché No. 9999 Beginner's Luck | 456 | 2 |
 | [Guardian (Beast's Lair)](guardian_ch457.md) | Gardien de la faille Beast's Lair (2e étage) ; essence à ~33 % de drop, destinée à Erwen ; les essences de Guardian peuvent donner jusqu'à 5 actifs | 457 | 2 |
 | [Orc Arch Shaman](orc_arch_shaman_ch457.md) | Raid de l'Orc Encampment ; lance [Regeneration Mark] | 457 | 1 |
-| [Lithcannon](lithcannon_ch463.md) | Essence de 4e grade d'Erwen (Soul Regeneration -40, passif [Absolute Focus]) | 463 | 2 |
-| [Dreadfear, the Lord of Terror](dreadfear_the_lord_of_terror_ch467.md) | Floor Lord du 1er étage (Crystal Cave), invoqué par 5 explorateurs après le 3e jour ; ~1,63 m, couvert d'asticots, épée en os ; auras [Gnawing… | 467 | 21 |
+| [Lithcannon](lithcannon_ch463.md) | Essence de 4e grade d'Erwen (Soul Regeneration -40, passif [Absolute Focus]) | 463 | 3 |
 | [Heavenly Judge](heavenly_judge_ch468.md) | Essence de 3e grade d'Erwen, offerte par la tribu des fées (passif [Food Chain]) | 468 | 1 |
 | [Giant maggot](giant_maggot_ch480.md) | Monstres-jetons (asticots géants) de la phase 1 du raid de Dreadfear | 480 | 1 |
 | [Zombie](zombie_ch480.md) | Mentionné comme exemple de monstre humanoïde | 480 | 1 |
@@ -337,13 +326,11 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Dark Cultist](dark_cultist_ch484.md) | grade 7 ; skill actif [Blooming Flesh] (soin) utilisé par Bersil au Pilgrim's Cave | 484 | 1 |
 | [Centurion Dreadfear (Argarsil Dreadfear)](centurion_dreadfear_ch485.md) | boss de la phase cachée (Pilgrim's Cave) ; chevalier impérial à Aura ; [Persuasion], [Ownership Revocation], [Hour of Execution], [Eternal Nightmare] (soin… | 485 | 5 |
 | [Nameless Pilgrim](nameless_pilgrim_ch489.md) | origine de Dreadfear (pèlerin traître transformé) ; offre le choix des deux portes ; disparaît du labyrinthe après le clear parfait ; donne No. 12 Trust | 489 | 2 |
-| [Cambormere, the Vampire Duke](cambormere_the_vampire_duke_ch490.md) | Blood Citadel ; monstre ayant parlé à Bjorn ; « le vampire du Blood Citadel » (510) partage une capacité avec Nightfla | 490 | 2 |
 | [Knight of the Apocalypse](knight_of_the_apocalypse_ch490.md) | White Temple ; monstre parlant | 490 | 2 |
 | [Abyssal Tongue](abyssal_tongue_ch499.md) | (nom d'essence) grade 9, trouvée dans un rift du 9e étage ; essence de grade 9 la plus chère jamais vendue | 499 | 1 |
 | [Sky Lord](sky_lord_ch502.md) | Floor Lord ; vaincu en solo, on peut choisir l'effet actif (info de Bjorn à la Round Table) | 502 | 1 |
 | [Lord of Hope](lord_of_hope_ch502.md) | Lord dont Clown voulait parler (sans détails) | 502 | 1 |
 | [Harmonizer Gregory](harmonizer_gregory_ch503.md) | boss caché du 5e étage (faible probabilité) ; vaincu par Armella → Larkaz's Labyrinth | 503 | 1 |
-| [Verzak, the Lord of the Abyss](verzak_the_lord_of_the_abyss_ch505.md) | boss de champ caché du 1er étage, apparaît après le 9e Dreadfear tué ; Abyssal Fog (objets désactivés, magie à 1/4, monstres évolués) | 505 | 5 |
 | [Lizardman](lizardman_ch505.md) | Greentail Marshes (3e étage) | 505 | 1 |
 | [Nameless Statue](nameless_statue_ch505.md) | grade 7, Sculpture Temple (3e étage) ; [Unanswered Prayer] (gagne une essence < grade 5 au hasard) ; tué sous Distortion : Magic Crystal ou Nameless… | 505 | 1 |
 | [Tol-Lapufa](tol_lapufa_ch508.md) | grade 1, normalement 10e étage (champs cachés) ; non hostile ; croisé en mer au 1st Basement Floor (Archives) | 508 | 7 |
@@ -374,14 +361,12 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Ritule Talisman Caster (Riture Talismanist)](ritule_talisman_caster_ch529.md) | Tombé pendant la saison des pluies (EXP +4) ; aussi invoqué à la bibliothèque | 529 | 2 |
 | [Akeltas](akeltas_ch529.md) | Tombé pendant la saison des pluies (EXP +5) | 529 | 1 |
 | [Underground Dragon](underground_dragon_ch529.md) | Tombé pendant la saison des pluies (EXP +4) | 529 | 1 |
-| [Aiantro](aiantro_ch529.md) | Tombé pendant la saison des pluies | 529 | 1 |
 | [Archipelago Guardian](archipelago_guardian_ch529.md) | Tombé pendant la saison des pluies | 529 | 1 |
 | [Colossal Giant (Ultra-Giant, géant colossal de Giant Island)](colossal_giant_ch529.md) | Boss présumé de Giant Island, apparaît quand le groupe quitte l'île ; lié à la stèle-portail | 529 | 7 |
 | [Bone Drake](bone_drake_ch530.md) | Essence de grade 4 tombée pendant la saison des pluies | 530 | 2 |
 | [Lakrelle](lakrelle_ch530.md) | Essence remise à l'expédition Armin | 530 | 1 |
 | [Malacca](malacca_ch530.md) | Essence remise à l'expédition Armin | 530 | 1 |
 | [Demon Tracker](demon_tracker_ch530.md) | Essence remise à l'expédition Armin | 530 | 1 |
-| [Dark Spirit King Dichloe](dark_spirit_king_dichloe_ch534.md) | Esprit invoqué par Elwen (orbes de ténèbres) | 534 | 3 |
 | [Steel Spirit](steel_spirit_ch536.md) | Tué en fuyant l'île du chef (EXP +6) | 536 | 1 |
 | [Ainicorne](ainicorne_ch536.md) | Tué en fuyant l'île du chef (EXP +6) | 536 | 1 |
 | [Mud Golem](mud_golem_ch536.md) | Tué en fuyant l'île du chef | 536 | 1 |
@@ -401,7 +386,6 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Unknown Statue](unknown_statue_ch544.md) | Statues inconnues du 3e étage ; sous magie de distorsion, laissent trois types de fragments d'emblème (clé du B1) | 544 | 1 |
 | [Katanda](katanda_ch546.md) | Grade 4 ; essence verte [Prophecy of the Omen], jetée | 546 | 1 |
 | [Speardipper](speardipper_ch546.md) | Grade 3, mer du 6e étage (plongée profonde) ; essence absorbée par Ainard ([Discriminator], [Trident]) | 546 | 2 |
-| [Helsmith](helsmith_ch546.md) | Grade 3, guerrier à tête de chèvre avec marteau et poche de lave ; [Hammering], [Patching], [Hellfire] ; EXP +7 | 546 | 2 |
 | [Hamsik (Hamshik, Hemsik)](hamsik_ch548.md) | Créature-rat/hamster de Library Island, nommée par Bjorn ; parle la langue ancienne, apparaît entre 23 h et 3 h sous une forme différente pour chacun ;… | 548 | 18 |
 | [Kashan (Prophesied Wolf)](kashan_ch551.md) | Grade 1, loup à trois queues ; [Ominous Prophecy] (chance -200), [Death Sentence], [Flame of Doom], [Life Leech] ; tué par l'expédition royale (EXP +9), 28… | 551 | 9 |
 | [Prahel](prahel_ch551.md) | Grade 1 ? de la dernière étagère de la bibliothèque | 551 | 1 |
@@ -416,19 +400,16 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Plague Wolf](plague_wolf_ch558.md) | Jetons invoqués par Kashan sous 50 % de PV | 558 | 1 |
 | [Mobilaus](mobilaus_ch561.md) | Grade 2, monstre marin pendant la saison des pluies | 561 | 1 |
 | [Iron Cavalry](iron_cavalry_ch582.md) | Statue de gardien de faille | 582 | 1 |
-| [Tarunbas (Tyrant Tarunbas)](tarunbas_ch583.md) | Lycanthrope, gardien de la Glacier Cave (1er étage) à massue de glace ; tué par Bjorn (584) ; son cadavre retrouvé dans la faille de Kirdyu (587) | 583 | 3 |
 | [Blatter (cursed knight)](blatter_ch584.md) | Gardien de la Blood Castle ; tué par Bjorn dans la faille-statue (EXP +3) | 584 | 1 |
-| [Ildium (iron man)](ildium_ch584.md) | Gardien du Steel Tomb ; tué par Bjorn (EXP +3) | 584 | 1 |
 | [End Knight (Knight of the End)](end_knight_ch584.md) | Gardien du White Temple (3e étage) ; tué sans dire ses répliques habituelles | 584 | 3 |
 | [Kirdyu (Corrupted Beast Kirdyu)](kirdyu_ch587.md) | Troll noir géant, gardien caché de la Glacier Cave (mutant de haut niveau) ; porte la massue No. 9712 et utilise [Swing] ; tué par Bjorn (EXP +1 mutant, +3… | 587 | 1 |
-| [Calphion (Golden Fang Calphion)](calphion_ch587.md) | Gardien de la Golden Ruins (faille du 4e étage) ; tué par Bjorn en ~3 h (EXP +6, +3) ; statue | 587 | 2 |
+| [Calphion (Golden Fang Calphion)](calphion_ch587.md) | Gardien de la Golden Ruins (faille du 4e étage) ; tué par Bjorn en ~3 h (EXP +6, +3) ; statue | 587 | 3 |
 | [Pianil (Fire Lord Pianil ; nom officiel Lavarod)](pianil_ch588.md) | Grade 4, gardien de la Burning Forest (faille du 5e étage) ; tué par Bjorn et Raven ; essence mise en éprouvette | 588 | 2 |
 | [Caprabara](caprabara_ch589.md) | Grade 5 ; essence [Affinity] (les monstres n'attaquent pas en premier) retirée par Amelia | 589 | 1 |
 | [Esgen](esgen_ch589.md) | Essence d'Amelia ([Source of Immortality]) que Bjorn veut lui faire retirer | 589 | 1 |
 | [Herja (Hell Giant Herja)](herja_ch589.md) | Gardien de la Rift of Light (5e étage), cyclope à trois cornes ; tué par Bjorn et Amelia (EXP +6, +3) ; essence [Wave Link] mangée par Amelia | 589 | 2 |
 | [Housiel (Spirit Guardian Housiel)](housiel_ch591.md) | Gardien labyrinthe de la Soul Fortress (faille unique du 5e étage) ; tué par Bjorn et Sven Parab (EXP +6, +3) ; drop « Dreaming Soul » ; essence [Soul… | 591 | 2 |
 | [Half-demon](half_demon_ch599.md) | Grade 3, espèce rare ; bloque un chemin dans le Daemagyeong de la 3rd Archive ; tué (EXP +7, une pierre magique) | 599 | 1 |
-| [Silriat (Silierat ; Lord of Silence)](silriat_ch600.md) | Seigneur d'étage (Hierarch) du 5e étage, [Silent Curse] scelle les essences ; apparaît dans la faille, se jette avec l'archevêque explosif, épargné par… | 600 | 5 |
 | [Tempted Priest](tempted_priest_ch604.md) | Archevêque Eden Hestia devenu prêtre de Karui ; vaincu, laisse la Crown of Agony | 604 | 1 |
 | [Abyssal Lord](abyssal_lord_ch605.md) | Mention (apparition passée dans la Crystal Cave) | 605 | 1 |
 | [Flying white horse (cheval volant)](flying_white_horse_ch607.md) | Cheval blanc lumineux galopant dans le ciel hors saison des pluies (1er sous-sol) ; laissé tranquille | 607 | 2 |
@@ -441,9 +422,8 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Synthetic monster](synthetic_monster_ch616.md) | Monstres créés à l'usine en combinant 3 pierres magiques ; lâchent des essences « sur mesure » | 616 | 4 |
 | [Red Drake](red_drake_ch620.md) | Pierre magique distinguée du drake normal à l'usine du labo Panthelion | 620 | 1 |
 | [Arbet](arbet_ch620.md) | Grade 3, stats brutes énormes ; base de l'essence synthétique de Bjorn | 620 | 3 |
-| [Woomdal](woomdal_ch620.md) | Grade 4, bons passifs ; dans l'essence synthétique de Bjorn | 620 | 2 |
+| [Woomdal](woomdal_ch620.md) | Grade 4, bons passifs ; dans l'essence synthétique de Bjorn | 620 | 3 |
 | [Rekardo (Record Lord Rekardo)](rekardo_ch622.md) | « Seigneur des archives » qui se met à errer sur les étages au départ de Bjorn | 622 | 1 |
-| [Uumdal](uumdal_ch625.md) | Essence au passif [Soul Link] : lie de façon permanente le premier objet numéroté équipé (Bjorn y lie No. 3 Aegis Barrier) | 625 | 1 |
 | [Bitlan](bitlan_ch625.md) | Essence au skill [Wild Control] ; retirée d'Ainard | 625 | 1 |
 | [Lamansis](lamansis_ch639.md) | Grade 3, monstre rare de la faille du 9e étage, accessible seulement via un dispositif caché de Gavrilius ; latent [Best Friend] (buff puissant à soi + une… | 639 | 1 |
 | [Eldritch Force](eldritch_force_ch664.md) | Byproduct : Eldritch Force Core (matériau rare pour accélérer la restauration du cercle magique) | 664 | 1 |
@@ -454,21 +434,18 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Brakiaistel](brakiaistel_ch669.md) | Grade 5, type bête, psychokinésie et eau ; n'apparaît qu'au 9e étage (Graveyard / Star Grave), déjà chassé à la bibliothèque du 1er sous-sol | 669 | 2 |
 | [Gigazerros (Thunder Giant, Gigazeroth)](gigazerros_ch670.md) | Grade 2, Graveyard du 9e étage ; électrique et très agile, téléportation, [Thunder Strike], aura [Short Circuit Zone] ; ignore le niveau de menace ; tué par… | 670 | 3 |
 | [Healing Leech](healing_leech_ch670.md) | Sangsues transparentes invoquées par Jaina ([Healing Leeches]), soignent HP/MP en continu | 670 | 1 |
-| [Deadred (Lord of Darkness)](deadred_ch670.md) | Seigneur d'étage du 7e étage (Dark Continent) ; essence à l'actif [Star's Extinction], attaque la plus puissante du jeu ; possédée par Ibaekho (invoqué il y… | 670 | 2 |
 | [Reditrous](reditrous_ch671.md) | Monstre repéré au Star Grave (9e étage reproduit) | 671 | 1 |
 | [Primeval Dragon](primeval_dragon_ch671.md) | Invocable sous conditions dans la Primeval Land (centre du 9e étage) ; Bjorn évite (synonyme de game over) | 671 | 1 |
 | [Pophensis](pophensis_ch674.md) | Deadly Poison Lava Field (9e étage) ; EXP +7 | 674 | 1 |
 | [Dryzen](dryzen_ch674.md) | Grade 1, type illusion ; boss spécial du Dreamlike Waterfall (Dreamfall Waterfall, 9e étage) ; serpent géant ; [Dreaming Pond] annule tout dégât contre lui… | 674 | 4 |
-| [Kariadea](kariadea_ch674.md) | boss spécial d'Ice Rock, mage glaciaire ; compétence [Soul's Cage] | 674 | 1 |
 | [Skeleton Kinghelm](skeleton_kinghelm_ch682.md) | Yonggol Mountain (9e étage) | 682 | 1 |
 | [Zombie Lord](zombie_lord_ch682.md) | Yonggol Mountain (9e étage) | 682 | 1 |
 | [Dark Knight](dark_knight_ch682.md) | Yonggol Mountain (9e étage) | 682 | 1 |
-| [Bandedemon](bandedemon_ch682.md) | Grade 3, squelette noir ; Yonggol Mountain, apparaît quand un météore tombe sous la pluie ; porte toujours No. 687 Siege Slayer ; [Strike of Sorrow] ; butin… | 682 | 1 |
+| [Bandemon](bandemon_ch682.md) | Grade 3, squelette noir ; Yonggol Mountain, apparaît quand un météore tombe sous la pluie ; porte toujours No. 687 Siege Slayer ; [Strike of Sorrow] ; butin… | 682 | 2 |
 | [Bone Dragon](bone_dragon_ch683.md) | Grade 1, mort-vivant, vrai dragon ; boss spécial de Yonggol Mountain, un des « Three Star Graves » ; passifs [Dragon Pierce] (étourdit selon l'écart de… | 683 | 4 |
 | [Hoppfish](hoppfish_ch685.md) | Grade 5, poisson ; mer du 6e étage et Dreamfall Waterfall (9e étage) | 685 | 1 |
 | [Bartanus](bartanus_ch686.md) | grade 3 ou plus ; Star Grave (9e étage), Bjorn et Jaina le fuient | 686 | 1 |
 | [Makairo](makairo_ch688.md) | Grade 4, mid-boss caché de la faille Golden Ruins (4e étage), sort d'un cercueil doré ; trouvé déjà mort (squelette sans mana, mort depuis peut-être 4 000… | 688 | 4 |
-| [Kalpion](kalpion_ch689.md) | gardien de faille des Golden Ruins ; sa mort ouvre la salle au trésor (3 objets numérotés au choix) | 689 | 1 |
 | [? (monstre terrifiant hors des murs)](_ch703.md) | sans nom ; apparaît partout hors des murs, a tué des milliers de Noark ; entravé aux pieds, couvert d'yeux, entouré d'âmes ; plus de mana qu'un grade 1 ; le… | 703 | 2 |
 | [Pomplura](pomplura_ch704.md) | spores servant de matériau (stabilisation du mana) pour réparer le cercle magique | 704 | 1 |
 | [Rapion](rapion_ch704.md) | Wind Crystals, substitut des spores de Pomplura | 704 | 1 |
@@ -476,24 +453,17 @@ Modèle : [`_templates/monster.md`](../_templates/monster.md)
 | [Chimera](chimera_ch726.md) | Monture quadrupède modifiée du Corpse Collector ; détruite par l'esprit guerrier de l'Aegis Dragon Armor (735) | 726 | 4 |
 | [Underworld King](underworld_king_ch734.md) | Boss de champ invocable dans l'Underworld avec le Staff of the Underworld ; Bjorn l'esquive en se cachant dans le gaz vert | 734 | 1 |
 | [Underworld Fire](underworld_fire_ch734.md) | Monstre de champ de l'Underworld ; le tuer donne une résistance aux ténèbres temporaire | 734 | 1 |
-| [Bandemon](bandemon_ch736.md) | Info du Lion Mask : tué à trois, un core tombe à coup sûr | 736 | 1 |
-| [Chulwoong Iradoon (ours géant)](chulwoong_iradoon_ch750.md) | Ours géant monté par le beastkin Avman Urikfrit ; [Firebear Stance] (knockback avancé) | 750 | 1 |
 | [Taurobrude](taurobrude_ch761.md) | Essence de grade 1 ; gardien de la faille « Hell Fortress » (9e étage) ; aucune passive mais 7 actives (Evil Eye vert/rouge/bleu/blanc…) ; essence de Roland… | 761 | 2 |
 | [Hellase](hellase_ch762.md) | Essence de Roland Banossant ; passive [Grace Period] : à 0 PV, survit 900 s sans soins propres | 762 | 1 |
 | [Rethaspa](rethaspa_ch766.md) | Viande séchée (jerky) rare donnée par Amelia à Ainard | 766 | 1 |
 | [Nomilat](nomilat_ch784.md) | Monstre de grade 3 (probable) ; son rubis, consommable, augmente la force physique ; matériau final de la phase 8 de l'Undying Engraving | 784 | 1 |
-| [Berzak](berzak_ch790.md) | Lord of the Abyss, seigneur d'étage errant au sous-sol 1 (souvenir) | 790 | 1 |
 | [Skull Ghost](skull_ghost_ch794.md) | Grade 6, Skull Island (Catacoma, 6e étage) | 794 | 1 |
 | [Key Keeper](key_keeper_ch795.md) | Mini-boss de grade 4 (proche d'un grade 5 haut), Skull Island ; tué sous [Distortion], il donne la clé de la grotte centrale ; son crâne détruit au centre… | 795 | 1 |
 | [Skull King](skull_king_ch795.md) | Boss de grade 3 de la grotte de Catacoma (6e étage), salle limitée à une équipe de 6 ; orbe d'âme ; EXP +7 (+1 variante rare) ; essence estimée à 500… | 795 | 4 |
 | [Gravekeeper Alleton](gravekeeper_alleton_ch796.md) | Mi-boss (gardien de porte) de la grotte de Catacoma ; EXP +6 (+1 variante rare) ; tué par le « Cursed One » pour empêcher la propagation de la malédiction ;… | 796 | 1 |
-| [Diclore](diclore_ch796.md) | Spirit King of Darkness, esprit invoqué par Elwen contre le Skull King | 796 | 1 |
 | [Ghost Ship](ghost_ship_ch799.md) | Navires fantômes rôdant autour de Ghost Island (6e étage) ; source probable d'essences de navigateur | 799 | 1 |
 | [Sniktura](sniktura_ch800.md) | Serpent of the End (End Serpent), grade 1, 10e étage ; raid dans la base secrète d'Arta (Arta Island, 6e étage) ; passifs [All-Poison Physiology], [Final… | 800 | 11 |
 | [Ancient Beast (« la Bête », Beast)](ancient_beast_ch800.md) | Boss sans grade de Memory of the End (Skull Island, 6e étage) ; ~9 m, bipède à queue ; aura [Song of the Apocalypse] (accélère le temps), [Ultimatum],… | 800 | 8 |
-| [Ritcannon](ritcannon_ch803.md) | Grade 4 ; essence donnant [Focused Shot] (Elwen) | 803 | 1 |
-| [Voll-Herchan](voll_herchan_ch803.md) | Une des essences de Bjorn (vision de [Harbinger of Corruption]) | 803 | 1 |
-| [Storm Gush](storm_gush_ch803.md) | Seule essence « jetable » de Bjorn ; épargnée par la corruption | 803 | 3 |
 | [Cryptid](cryptid_ch803.md) | Grade 1 ; compétence [Harbinger of Corruption] (corrompt une essence pour toujours, 10 % de mutation aléatoire), copiée par Sniktura | 803 | 2 |
 | [Knight of Hate](knight_of_hate_ch803.md) | Crimson Fortress (Blood Fortress) ; peut faire perdre des niveaux au hasard (comparaison) | 803 | 1 |
 | [Mechanical Behemoth Arta (Mechanical beast Arta)](mechanical_behemoth_arta_ch803.md) | Vrai boss final caché de la base secrète d'Arta (difficulté d'un seigneur d'étage du 9e) ; récompense : un cœur mécanique équivalent à un Dragon Heart | 803 | 4 |

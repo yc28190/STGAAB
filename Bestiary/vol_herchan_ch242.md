@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Première mention** | ch. 242 |
-| **Nombre de chapitres** | 19 |
+| **Nombre de chapitres** | 20 |
 
 ## Notes (2e passe)
 - Grade 3, monstre géant à carapace vivant en groupes, facile à trouver ; essence défensive contre l'Aura, forte Force ; écartée par Bjorn
@@ -13,6 +13,7 @@
 - Essence (rang 3) de Bjorn, achetée aux enchères
 - essence de haut grade de Bjorn (scellée)
 - Invoqué à la bibliothèque
+- Une des essences de Bjorn (vision de [Harbinger of Corruption])
 
 ## Chapitres où il est mentionné
-242, 243, 331, 332, 335, 337, 348, 350, 355, 367, 391, 409, 422, 442, 446, 449, 450, 483, 551
+242, 243, 331, 332, 335, 337, 348, 350, 355, 367, 391, 409, 422, 442, 446, 449, 450, 483, 551, 803
