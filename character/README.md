@@ -45,12 +45,12 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Nile Urbans](nile_urbans_ch40.md) | Chef régional de la Guilde des aventuriers (un des 13) ; indemnise Bjorn de 5 millions de stones. | 40 |
 | [Patsran](patsran_ch41.md) | Aventurier expérimenté contacté par Raven par cristal ; explique qu'une essence non voulue mérite 15 millions de compensation. | 41 |
 | [Deian Tveherion](deian_tveherion_ch42.md) | Maître de l'école Artemion (Tour des mages), professeur de Raven ; donne l'anneau n° 9425 à Bjorn, s'intéresse à lui pour une raison cachée. | 42 |
-| [Hans (aventurier de taverne)](hans_ch44.md) | Aventurier rencontré à l'auberge (homonyme du premier Hans) ; conseille d'utiliser le recrutement de la Guilde. | 44 |
+| [Hans Hodge](hans_hodge_ch44.md) | Aventurier maigre et roux rencontré à l'auberge (homonyme du premier Hans) ; conseille la Guilde (ch44), réapparaît ch85. | 44 |
 | [Terbes](terbes_ch45.md) | Employé de la Guilde au service de recrutement, très (trop) aimable avec Bjorn. | 45 |
 | [Ellen Bornev](ellen_bornev_ch45.md) | Aventurière du 3e étage, cheffe d'une équipe dans la liste de recrutement. | 45 |
 | [Tarikan, fils de Lien](tarikan_ch45.md) | Barbare sans arme, en réalité un autre « esprit maléfique » (joueur transmigré) récemment arrivé. | 45 |
 | [Reol Webb Dwalky](reol_webb_dwalky_ch48.md) | Mage humain de rang 8 (fonctionnaire royal), vantard, prétend être lié à la noblesse ; membre de l'équipe Murad. Surnommé « Dwalky l'idiot ». | 48 |
-| [Baron Martoine](baron_martoine_ch48.md) | Noble dont la belle-sœur est la tante de Dwalky (mentionné). | 48 |
+| [Baron Martoan (Martoine)](baron_martoan_ch48.md) | Noble titré, demi-frère aîné de Dwalky (2e fils de l'ancien baron) ; ignore jusqu'à son existence ; engage Bjorn comme « trophée » pour un banquet (ch87-88). | 48 |
 | [Tante Enka](tante_enka_ch48.md) | Tante de Dwalky, épouse du 3e frère du baron Martoine (mentionnée). | 48 |
 | [Misha Karlstein](misha_karlstein_ch49.md) | Beastkin (chat), 25 ans, 5e année d'aventurière, « princesse » du clan Red Cat ; dagues ; membre de l'équipe Murad. | 49 |
 | [Brown Rotmiller](brown_rotmiller_ch49.md) | Humain, 34 ans, 8 ans d'expérience, rang 7, éclaireur/guide (essence olfactive, arbalète) ; membre de l'équipe Murad. | 49 |
@@ -76,3 +76,29 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Balkan](balkan_ch70.md) | Ancien « héros des barbares » légendaire, auquel Hernesion compare Bjorn. | 70 |
 | [Daniel Carmine](daniel_carmine_ch71.md) | Membre du clan Dzarwi (soutien, Blessing of Wind). | 71 |
 | [Chasseur d'esprits maléfiques (faux « joueur américain »)](chasseur_d_esprits_malefiques_ch74.md) | Agent anti-esprits maléfiques qui teste Bjorn en se faisant passer pour un joueur ; tabassé par Bjorn. | 74 |
+| [SoulQueens](soulqueens_ch76.md) | Membre de la communauté de joueurs Ghostbusters, chargée d'envoyer les lettres d'invitation. | 76 |
+| [« Cette personne » (joueur légendaire)](cette_personne_ch76.md) | Joueur mythique supposé avoir compilé toutes les données du jeu ; les Ghostbusters le cherchent. | 76 |
+| [Shabin Emuer](shabin_emuer_ch79.md) | Secrétaire de 7e grade à l'administration de Ravigion, amie de Ragna ; confie à Bjorn la patrouille des égouts. | 79 |
+| [Ragna Ritaniyel Peprok](ragna_ritaniyel_peprok_ch79.md) | La bibliothécaire somnolente (mage), dont le passé est mystérieux ; recommande Bjorn pour une mission. | 79 |
+| [Hans Marcom](hans_marcom_ch80.md) | Criminel tatoué et marqué (vol, meurtre), réfugié dans les égouts ; guide l'équipe vers le repaire d'Elisa et meurt dans un piège de Karui (ch81). | 80 |
+| [Amelia Rainwales](amelia_rainwales_ch24.md) | La « pillarde » du 8e étage (cheveux roux, oreille droite coupée, aura, venin de basilic) ; épargne Bjorn deux fois (ch26, ch84) ; liée à la cité cachée de Noark ; essence de Doppelgänger (Self-Replication). Nommée au ch83. | 24 |
+| [Vice-chef de Noark](vice_chef_de_noark_ch81.md) | Dirigeant de la cité cachée de Noark sous les égouts ; envoie Amelia s'occuper des intrus. | 81 |
+| [Auril Gabis](auril_gabis_ch86.md) | Nom du développeur de Dungeon and Stone, retrouvé comme auteur du Compendium of Rifts II écrit il y a 150 ans. | 86 |
+| [Tirba](tirba_ch86.md) | 3e frère de la baronne Martoan, père adoptif « de papier » de Dwalky. | 86 |
+| [Carlina](carlina_ch87.md) | 3e épouse de l'ancien baron Martoan (famille Dwalky). | 87 |
+| [Majordome du baron Martoan](majordome_du_baron_martoan_ch87.md) | A fait arrêter Dwalky sans en informer le baron. | 87 |
+| [Inspecteur Park et son chef d'équipe](inspecteur_park_et_son_chef_d_equipe_ch89.md) | Policiers coréens enquêtant sur la disparition de Lee Han-soo dans le monde réel. | 89 |
+| [Chernal Pergan](chernal_pergan_ch89.md) | Mage de l'école Tarutein qui étudierait les effondrements dimensionnels ; source de la rumeur. | 89 |
+| [DarkMan](darkman_ch91.md) | Joueur, propriétaire du salon « Newbie Room » des Ghostbusters. | 91 |
+| [PinkGuy](pinkguy_ch92.md) | Joueur américain amical de la Newbie Room ; a fini le jeu piraté en ×50. | 92 |
+| [Ghost master](ghost_master_ch93.md) | Administrateur et fondateur des Ghostbusters, joueur depuis 20 ans (a fini le jeu en ×15). | 93 |
+| [Elfnunalove](elfnunalove_ch93.md) | Informateur fortuné des Ghostbusters ; révèle la vérité sur la rumeur d'effondrement. | 93 |
+| [Vieil homme de la Terre](vieil_homme_de_la_terre_ch93.md) | Personnage mystérieux sur Terre qui efface l'enquête et surveille Lee Han-soo, lié à l'« héritage » d'Auril Gabis. | 93 |
+| [Kals Erimoore](kals_erimoore_ch94.md) | Chevalier du baron Martoan, ancien explorateur, aimable avec Bjorn. | 94 |
+| [Comte Perdehilt](comte_perdehilt_ch95.md) | Comte organisant le banquet ; s'intéresse étrangement à Bjorn et l'invite au tournoi des apprentis chevaliers. | 95 |
+| [Arabella Perdehilt](arabella_perdehilt_ch95.md) | Fille du comte Perdehilt, dont on fête l'anniversaire. | 95 |
+| [Pal Krovitz](pal_krovitz_ch85.md) | Paladin de Reatlas venu chercher le corps d'Elisa ; capitaine du 3e ordre des paladins (révélé ch95). | 85 |
+| [Sir Silbenia](sir_silbenia_ch96.md) | Apprenti chevalier (baronnie Hessen), l'un des trois qui insultent Bjorn ; tête fracassée au tournoi, traumatisé. | 96 |
+| [Sir Quartean](sir_quartean_ch97.md) | Apprenti chevalier (baronnie Serphia), l'un des trois insolents ; battu en 3 secondes au tournoi. | 97 |
+| [Sir Albatross](sir_albatross_ch98.md) | Apprenti chevalier du comte Perdehilt, très équipé ; fuit l'arène en finale face à Bjorn. | 98 |
+| [Dkart, fils de Kafen](dkart_ch99.md) | Jeune barbare engagé par un noble pour imiter Bjorn ; avoue qu'il n'est qu'un « guerrier ordinaire ». | 99 |
