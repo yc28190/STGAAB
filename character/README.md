@@ -127,3 +127,18 @@ Bjorn Yandel (narrateur, présent dans tous les chapitres) : voir [bjorn_yandel.
 | [Albreniv Kaltstein](albreniv_kaltstein_ch129.md) | Chef du clan beastkin Red Cat, « père » de Misha (qui n'est pas de son sang) ; ancien explorateur du 8e étage ; manipulateur, cherche l'objet du pacte avec Skadi. | 129 |
 | [Brante](brante_ch128.md) | Portier de la maison Kaltstein, méprisant envers Misha ; assommé par Bjorn. | 128 |
 | [Veros](veros_ch128.md) | Assistant d'Albreniv Kaltstein. | 128 |
+| [Regal Vagos](regal_vagos_ch135.md) | Le « Dragonslayer », Dragonkin et membre d'Orculus, explorateur de 9e niveau aux 9 essences (dont une de rang 3 avec [Subjugation], plus Lava Giant, Nightmare et [Dark Veil]). Il est maudit par le dragon ancestral… | 135 |
+| [Hector Ludwig](hector_ludwig_ch135.md) | Grand prêtre de Leathlas enlevé par Vagos et forcé de servir Karui en échange de la vie de son petit-fils. Inspiré par la résistance de l'équipe, il se sacrifie entièrement à Karui pour la protéger et expulser Vagos.… | 135 |
+| [Petit-fils de Ludwig](petit_fils_de_ludwig_ch135.md) | Enfant gardé en otage par Vagos, son âme sous son contrôle. Karui annonce qu'il ne sera pas sauvé. | 135 |
+| [Éclaireur de Vagos](eclaireur_de_vagos_ch135.md) | Éclaireur de 5e rang dont Vagos sacrifie les bras et un œil à Karui pour trouver son chemin. Il meurt pendant le combat. | 135 |
+| [Larkaze](larkaze_ch136.md) | Minotaure nommé, boss final du labyrinthe caché du même nom au 4e étage (variante supérieure, [Burning Hide]). Tué en moins de 10 minutes par les Misfits. | 136 |
+| [Grand Archevêque de Leathlas](grand_archeveque_de_leathlas_ch147.md) | « Pape » de l'Église de Leathlas. Il remercie l'équipe, accorde 70 M de pierres et demande le secret sur l'oracle. | 147 |
+| [Cardinal Grayond](cardinal_grayond_ch147.md) | Cardinal de Leathlas, il fixe la récompense de la prime de Ludwig. | 147 |
+| [Enfant-saint de Leathlas](enfant_saint_de_leathlas_ch147.md) | Garçon d'environ 10 ans, réceptacle de la déesse. Il transmet l'oracle et la bague de vigne à Bjorn. | 147 |
+| [Capitaine du 2e ordre paladin](capitaine_du_2e_ordre_paladin_ch147.md) | Femme présente à l'oracle. Le masque de Gobelin la dit lesbienne (rumeur utilisable comme moyen de pression). | 147 |
+| [Kiduba](kiduba_ch152.md) | Troisième fils de Toharu, ancien barbare malade qui a formé Ainar. Il meurt en lui transmettant son essence de 4e rang ; funérailles dans la forêt des guerriers. | 152 |
+| [Chaman barbare](chaman_barbare_ch152.md) | il grave le 6e stade d'Undying (Soul of Armaments). Il devine l'oracle grâce à la bague, garde le secret et suggère à Bjorn de devenir chef de la tribu pour réformer les traditions. | 152 |
+| [Chef de la tribu barbare](chef_de_la_tribu_barbare_ch153.md) | ancien explorateur du 8e étage. Il surprend Bjorn en train d'enseigner. Bjorn lui reproche son immobilisme et ils se cassent mutuellement le nez. Il raconte la guerre des reliques contre les fées et dit craindre le… | 153 |
+| [Masque de gobelin](masque_de_gobelin_ch156.md) | Nouveau membre des Watchers of the Round Table, un paladin de Leathlas. Il est écrasé par l'aura de Bjorn. Il partage des informations sur l'Église. | 156 |
+| [Lafir (Firsearaidormus)](lafir_ch159.md) | Chef des Dragonkin et frère aîné de Regal Vagos. Il fait téléporter Bjorn au temple des dragons et teste son courage par la Dragon Fear. Bjorn refuse argent, compagnon et équipement d'Akro et exige la Bénédiction du… | 159 |
+| [Homme masqué de la Tour du Ciel](homme_masque_de_la_tour_du_ciel_ch163.md) | Assassin invisible, sans carte d'identité, qui suit Apple Nark dans la Tour du Ciel. Démasqué par Raven, il se suicide avec un poison qui dissout les chairs (peut-être de Noark ❓). | 163 |

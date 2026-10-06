@@ -7,9 +7,13 @@
 ## Notes (1re passe)
 Joueur coréen arrivé le jour de sa démobilisation, dans ce monde depuis plus de 10 ans ; « petit frère » de Lee Han-soo ; en « retraite » ; l'introduit aux Watchers of the Round Table.
 
+### Évolutions
+- **ch. 156** : il révèle que les six Artefacts de la Genèse ont été volés le même jour il y a environ six mois. Il parle de Noark et de l'« Armée révolutionnaire d'Ormy » et met Bjorn en garde contre l'expédition royale. Sa réaction quand on évoque Orculus rend Bjorn méfiant.
+
 ## Description
 
 ## Relations
 
 ## Apparitions
 - ch. 124
+- ch. 156
