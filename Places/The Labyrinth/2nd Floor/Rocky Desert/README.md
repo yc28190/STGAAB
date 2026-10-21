@@ -1,5 +1,7 @@
 # Rocky Desert
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [2nd Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -12,13 +14,13 @@ A 2nd-floor desert of rock and sand that crunches underfoot, with hot air rising
 It is one of the four 2nd-floor fields leading to the 3rd floor, known for golem and sandworm hunting and as a favoured "experience run" for high-level teams. Misha prefers it to the Land of the Dead.
 
 ## Monsters
-- [[Corrupted Gnome]] — common field monster
-- [[Kobold Shieldbearer]] — appears as a kobold trio
-- [[Stone Golem]] — its cores are collected for requests
-- [[Megalith]] — recorded by Team Misfits
-- [[Sandman]] — recorded by Team Misfits
-- [[Sandworm]] — hunted in a particular area to trigger the Deathworm
-- [[Deathworm]] — 5th grade, always a high variant; bursts out after enough Sandworms die
+- [Corrupted Gnome](../../../../Bestiary/corrupted_gnome_ch89.md) — common field monster
+- [Kobold Shieldbearer](../../../../Bestiary/kobold_shieldbearer_ch89.md) — appears as a kobold trio
+- [Stone Golem](../../../../Bestiary/stone_golem_ch25.md) — its cores are collected for requests
+- [Megalith](../../../../Bestiary/megalith_ch89.md) — recorded by Team Misfits
+- [Sandman](../../../../Bestiary/sandman_ch89.md) — recorded by Team Misfits
+- [Sandworm](../../../../Bestiary/sandworm_ch456.md) — hunted in a particular area to trigger the Deathworm
+- [Deathworm](../../../../Bestiary/deathworm_ch456.md) — 5th grade, always a high variant; bursts out after enough Sandworms die
 
 ## Mechanics
 - Reached through a 1st-floor portal linked to the gnome district (described as eastern in ch. 89 and western in ch. 219, conflicting accounts); opening its portal gives achievement points (ch. 89, 219).

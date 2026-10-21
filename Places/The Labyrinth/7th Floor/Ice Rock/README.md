@@ -1,5 +1,7 @@
 # Ice Rock
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [7th Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (region) |
@@ -12,18 +14,18 @@ A frozen land of bitter cold: a vast snowy plain with ankle-deep snow, cliff-lik
 Ice Rock is a separate 7th-floor field from the Dark Continent and connects to the 8th floor through the Eye of the Glacier. Most explorers avoid it; clans visit only for achievements. It is remembered as the site of the doomed royal expedition in which twenty of Bjorn's comrades died.
 
 ## Monsters
-- [[Stonewinter]]
-- [[Frozen Soul]]
-- [[Tainted Snow Spirit]]
-- [[Frost Guardian]]
-- [[Lich]]
-- [[Glacier Giant]]
-- [[Frostfire Turtle]]
-- [[Frozen Webter]]
-- [[Unmelting Cocoon]]
-- [[Frostfire Goblin]]
-- [[Meran]] — drops a rare 3rd-grade essence found only in Ice Rock.
-- [[Ice Troll]] — summoned.
+- [Stonewinter](../../../../Bestiary/stonewinter_ch399.md)
+- [Frozen Soul](../../../../Bestiary/frozen_soul_ch400.md)
+- [Tainted Snow Spirit](../../../../Bestiary/tainted_snow_spirit_ch400.md)
+- [Frost Guardian](../../../../Bestiary/frost_guardian_ch400.md)
+- [Lich](../../../../Bestiary/lich_ch138.md)
+- [Glacier Giant](../../../../Bestiary/glacier_giant_ch400.md)
+- [Frostfire Turtle](../../../../Bestiary/frostfire_turtle_ch400.md)
+- [Frozen Webter](../../../../Bestiary/frozen_webter_ch400.md)
+- [Unmelting Cocoon](../../../../Bestiary/unmelting_cocoon_ch400.md)
+- [Frostfire Goblin](../../../../Bestiary/frostfire_goblin_ch400.md)
+- [Meran](../../../../Bestiary/meran_ch401.md) — drops a rare 3rd-grade essence found only in Ice Rock.
+- [Ice Troll](../../../../Bestiary/ice_troll_ch399.md) — summoned.
 
 ## Mechanics
 - Entered through a blue portal at the end of the 6th floor's easternmost sea (ch. 399).
@@ -43,6 +45,11 @@ Ice Rock is a separate 7th-floor field from the Dark Continent and connects to t
 - ch. 447, 474: The Rose Knights are ordered to wipe out survivors; Bjorn kills the Dragonslayer Regal Vagos.
 - ch. 546, 553–554: Recalled: the party hunted with Distortion magic for food, and Parab's intuition saved them from the royal betrayal.
 - ch. 767–786: Bjorn's grudge against the Marquis, who sent the expedition to die; James Carla bonded with the clan there; Guildmaster Adnus had planted Pike Neldain.
+
+## Sub-places
+- [Eye of the Glacier](Eye%20of%20the%20Glacier/README.md)
+- [Ice Cave Maze](Ice%20Cave%20Maze/README.md)
+- [Ice Rock Plains](Ice%20Rock%20Plains/README.md)
 
 ## Chapters
 398–403, 413–415, 417–419, 422–425, 429–430, 432, 442, 446–447, 459, 463, 474, 491, 510, 546, 553–554, 722, 724, 731, 767–769, 772, 775, 777, 781, 786

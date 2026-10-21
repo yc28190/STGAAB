@@ -1,5 +1,7 @@
 # Sewers
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | underground (sewer system) |
@@ -34,6 +36,10 @@ None recorded.
 - ch. 323–329: On D-Day, Liuhen Praha cuts off Amelia's right wrist. Bjorn counters Flameless Spirit with a Bond scroll, and Auril Gabis "erases" Jerome Saintred, who will wake at the palace. Laura's death is staged with a ceiling collapse and Gabis's hallucination.
 - ch. 629: Noark holds the sewers during the occupation, and many low-rank explorers die breaking through.
 - ch. 706–707: Anabada holds its vice-captain election here, and Bersil Gowland wins.
+
+## Sub-places
+- [Hans E's Hideout](Hans%20E's%20Hideout/README.md)
+- [Underground Tunnels](Underground%20Tunnels/README.md)
 
 ## Chapters
 79–84, 146, 155–156, 175, 177, 194–195, 200–201, 203, 231, 246, 277, 293, 306, 323–330, 332, 336, 423, 623–624, 629, 651, 658, 660, 706–708

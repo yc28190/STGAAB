@@ -1,5 +1,7 @@
 # Noark Plaza
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (plaza) |

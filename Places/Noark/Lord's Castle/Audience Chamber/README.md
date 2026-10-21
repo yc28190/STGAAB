@@ -1,5 +1,7 @@
 # Audience Chamber
 
+> **Location** : [Places](../../../README.md) › [Noark](../../README.md) › [Lord's Castle](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (throne room) |

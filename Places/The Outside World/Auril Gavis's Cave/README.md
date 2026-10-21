@@ -1,5 +1,7 @@
 # Auril Gavis's Cave
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave |
@@ -21,6 +23,10 @@ None recorded.
 ## Notable events
 - ch. 695–696: Auril Gavis waits by the campfire; he reveals that Aures comes from Ruin Genesis's world and that Briot was a native "guide", warns Ibaekho away from the palace and tells him to seek his answers in the Labyrinth.
 - ch. 697–698: Auril shows the party the Record Fragments and sends them back through a monument.
+
+## Sub-places
+- [Hall of Record Fragments](Hall%20of%20Record%20Fragments/README.md)
+- [Monument Cavern](Monument%20Cavern/README.md)
 
 ## Chapters
 695–698

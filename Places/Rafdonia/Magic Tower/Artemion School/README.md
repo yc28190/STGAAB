@@ -1,5 +1,7 @@
 # Artemion School
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Magic Tower](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (mage school, tower floors) |
@@ -18,6 +20,9 @@ None recorded.
 ## Notable events
 - ch. 42: To settle the essence dispute, the master gives Bjorn the Ring of the Frost Spirit (No. 9425).
 - ch. 292: In a flashback, the young Raven passes the Tower's tests and joins the school.
+
+## Sub-places
+- [Raven's Laboratory](Raven's%20Laboratory/README.md)
 
 ## Chapters
 41–42, 292

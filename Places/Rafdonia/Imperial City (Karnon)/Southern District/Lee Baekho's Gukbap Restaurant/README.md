@@ -1,5 +1,7 @@
 # Lee Baekho's Gukbap Restaurant
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Southern District](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (restaurant) |

@@ -1,5 +1,7 @@
 # Sanctuary Gate
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | gate / wall |

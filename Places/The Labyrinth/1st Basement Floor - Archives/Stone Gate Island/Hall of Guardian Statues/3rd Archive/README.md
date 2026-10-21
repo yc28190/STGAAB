@@ -1,5 +1,7 @@
 # 3rd Archive
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (story rift) |
@@ -12,12 +14,12 @@ A story rift behind the stone gate of the Hall of Guardian Statues, opened throu
 The story follows a girl branded a witch (the Earth Witch is suspected) and her wizard brother. The Immortal King Ravigion III and his wife Karnon appear as allies, and the rift also holds a replica of the Immortal King.
 
 ## Monsters
-- [[Troll]] — chapter 1 city battle
-- [[Hamsik]] — ancient form; hidden boss of the cave chapter
-- [[Half-demon]] — Grade 3, blocks a path in Daemagyeong
-- [[Silriat]] — Lord of Silence, 5th-floor lord
-- [[Soul Eater]] — the rift's guardian
-- [[Tempted Priest]] — Karui's priest, the corrupted Archbishop Eden Hestia
+- [Troll](../../../../../../Bestiary/troll_ch33.md) — chapter 1 city battle
+- [Hamsik](../../../../../../Bestiary/hamsik_ch548.md) — ancient form; hidden boss of the cave chapter
+- [Half-demon](../../../../../../Bestiary/half_demon_ch599.md) — Grade 3, blocks a path in Daemagyeong
+- [Silriat](../../../../../../Bestiary/silriat_ch320.md) — Lord of Silence, 5th-floor lord
+- [Soul Eater](../../../../../../Bestiary/soul_eater_ch264.md) — the rift's guardian
+- [Tempted Priest](../../../../../../Bestiary/tempted_priest_ch604.md) — Karui's priest, the corrupted Archbishop Eden Hestia
 
 ## Mechanics
 - No natural fading; 5-person cap (ch. 593).
@@ -36,6 +38,18 @@ The story follows a girl branded a witch (the Earth Witch is suspected) and her 
 - ch. 599–603: The final trial in Daemagyeong; Eden Hestia becomes Karui's priest and kills Silriat.
 - ch. 603–604: The chief burns out his body using a true aura technique; Bjorn judges the run a failure.
 - ch. 768: Bjorn reflects on royal secrets learned here, including the ancient chieftain's claim that the Immortal King stole his descendants' bodies.
+
+## Sub-places
+- [City Battlefield](City%20Battlefield/README.md)
+- [Crystal-like Cave](Crystal-like%20Cave/README.md)
+- [Daemagyeong](Daemagyeong/README.md)
+- [Desert City](Desert%20City/README.md)
+- [Exit Room](Exit%20Room/README.md)
+- [Great Square](Great%20Square/README.md)
+- [Magic Academy](Magic%20Academy/README.md)
+- [Nelbus Fortress](Nelbus%20Fortress/README.md)
+- [Outskirts Safehouse](Outskirts%20Safehouse/README.md)
+- [Rural Village](Rural%20Village/README.md)
 
 ## Chapters
 592–605, 607, 723, 768

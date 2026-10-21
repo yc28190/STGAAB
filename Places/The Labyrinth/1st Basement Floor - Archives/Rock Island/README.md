@@ -1,5 +1,7 @@
 # Rock Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island (starting point) |

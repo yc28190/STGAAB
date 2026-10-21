@@ -1,5 +1,7 @@
 # Blessing Cavern
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Dragon Sanctuary (Dragon Temple)](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave |

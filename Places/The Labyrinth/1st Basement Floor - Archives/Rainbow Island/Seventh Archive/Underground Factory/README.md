@@ -1,5 +1,7 @@
 # Underground Factory
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Rainbow Island](../../README.md) › [Seventh Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | facility (factory) |
@@ -11,7 +13,7 @@ A domed space the size of a football stadium at the very bottom of the Seventh A
 
 ## Monsters
 - Synthetic monsters — combinations such as goblin+orc+ghoul; about average grade +2 (up to +4 with synergy); stay on the rails unless attacked
-- [[Drone]] — repairs broken rails without attacking
+- [Drone](../../../../../../Bestiary/drone_ch610.md) — repairs broken rails without attacking
 
 ## Mechanics
 - Monsters on the rails become a single magic stone each. Three machines rebuild three stones into a combined monster, which is broken back down and rebuilt as the originals and returned to the prison, in an endless loop (ch. 616).

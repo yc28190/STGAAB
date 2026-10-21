@@ -1,5 +1,7 @@
 # GM's Study
 
+> **Location** : [Places](../../../../README.md) › [The Outside World](../../../README.md) › [Spiritual Realm](../../README.md) › [Ghostbusters Community](../README.md)
+
 | | |
 |---|---|
 | **Type** | secret chat room (spiritual space) |

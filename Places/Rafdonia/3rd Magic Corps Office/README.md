@@ -1,5 +1,7 @@
 # 3rd Magic Corps Office
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (office) |

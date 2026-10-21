@@ -1,5 +1,7 @@
 # 7th District Central Plaza
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (plaza) |

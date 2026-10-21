@@ -1,5 +1,7 @@
 # Back-Alley Bar
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (tavern) |

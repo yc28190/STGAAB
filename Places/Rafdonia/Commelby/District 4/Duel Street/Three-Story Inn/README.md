@@ -1,5 +1,7 @@
 # Three-Story Inn
 
+> **Location** : [Places](../../../../../README.md) › [Rafdonia](../../../../README.md) › [Commelby](../../../README.md) › [District 4](../../README.md) › [Duel Street](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

@@ -1,5 +1,7 @@
 # Grand Temple of Leathlas
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (temple) |
@@ -33,6 +35,10 @@ None recorded.
 - ch. 446: Bjorn removes the Gachabon essence and returns to full barbarian size.
 - ch. 625–626: In occupied District 7, the temple is the first target of Bjorn's surprise attack. He and his companions take custom essences, and he binds No. 3 Aegis Barrier with [Soul Link] before handing out essences to the explorers.
 - ch. 776, 805: Sven stays behind alone at the burning temple to buy time for others to escape.
+
+## Sub-places
+- [Orphanage](Orphanage/README.md)
+- [Paladin Orders](Paladin%20Orders/README.md)
 
 ## Chapters
 2, 5, 19, 39, 41, 54, 73, 109, 118, 119, 146–148, 150, 151, 153, 159, 246, 247, 257, 287, 335, 343, 344, 349, 369, 397, 408, 415, 446, 530, 625, 626, 776, 805

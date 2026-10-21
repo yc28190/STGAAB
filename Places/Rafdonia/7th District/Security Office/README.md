@@ -1,5 +1,7 @@
 # Security Office
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (security office) |
@@ -17,6 +19,9 @@ None recorded.
 
 ## Notable events
 - ch. 626: The 4th stop on Bjorn's rescue route; the imprisoned explorers are freed and the last of the essences from the first basement floor are handed out.
+
+## Sub-places
+- [Police Prison](Police%20Prison/README.md)
 
 ## Chapters
 626

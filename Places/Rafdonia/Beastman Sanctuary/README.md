@@ -1,5 +1,7 @@
 # Beastman Sanctuary
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (village) |
@@ -19,6 +21,9 @@ None recorded.
 
 ## Notable events
 - ch. 127–130: Bjorn goes with Misha to the Kaltstein Mansion.
+
+## Sub-places
+- [Kaltstein Mansion](Kaltstein%20Mansion/README.md)
 
 ## Chapters
 127–130, 623

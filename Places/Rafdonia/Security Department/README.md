@@ -1,5 +1,7 @@
 # Security Department
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (government office) |

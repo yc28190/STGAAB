@@ -1,5 +1,7 @@
 # Golem Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -10,7 +12,7 @@
 An island of the Great Ocean known as the source of the Patrol Golem Ertes essence.
 
 ## Monsters
-- [[Patrol Golem Ertes]] — its essence grants a large Defense Mechanism bonus
+- [Patrol Golem Ertes](../../../../Bestiary/patrol_ertes_ch345.md) — its essence grants a large Defense Mechanism bonus
 
 ## Mechanics
 - The Patrol Golem Ertes essence gives +45 Defense Mechanism (ch. 345).

@@ -1,5 +1,7 @@
 # Hidden Stele Cave
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Basement Floor - Archives](../../../../README.md) › [Human Island (Chief's Island)](../../../README.md) › [Human Village](../../README.md) › [Hidden Corpse House](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave |

@@ -1,5 +1,7 @@
 # Statue Rift - Burning Forest
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 A charred forest with a single small flame flickering at its centre, which marks the boss room. In the normal 5th-floor rift, the boss is only reached after putting out fires in the east, west, south and north zones over several chapters; the statue version skips all of that.
 
 ## Monsters
-- [[Fire Lord Pianil]] — Grade 4 guardian (Lavarod); summoned from the crimson flame
+- [Fire Lord Pianil](../../../../../../Bestiary/pianil_ch588.md) — Grade 4 guardian (Lavarod); summoned from the crimson flame
 
 ## Mechanics
 - Two-person rift. Touch the floating crimson flame to summon the boss (ch. 588).

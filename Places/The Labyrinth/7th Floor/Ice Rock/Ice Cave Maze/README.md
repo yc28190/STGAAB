@@ -1,5 +1,7 @@
 # Ice Cave Maze
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Ice Rock](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (cave maze) |
@@ -12,10 +14,10 @@ A huge cave entered at the foot of the giant ice mountain range of Ice Rock. Its
 It leads to the Eye of the Glacier, and the expedition camped at its far end beside the sinkhole.
 
 ## Monsters
-- [[Frozen Webter]]
-- [[Unmelting Cocoon]]
-- [[Frostfire Goblin]]
-- [[Meran]] — drops a rare 3rd-grade essence.
+- [Frozen Webter](../../../../../Bestiary/frozen_webter_ch400.md)
+- [Unmelting Cocoon](../../../../../Bestiary/unmelting_cocoon_ch400.md)
+- [Frostfire Goblin](../../../../../Bestiary/frostfire_goblin_ch400.md)
+- [Meran](../../../../../Bestiary/meran_ch401.md) — drops a rare 3rd-grade essence.
 
 ## Mechanics
 - The floor can collapse into the river below (ch. 400).
@@ -26,6 +28,9 @@ It leads to the Eye of the Glacier, and the expedition camped at its far end bes
 ## Notable events
 - ch. 402–403: At the camp beside the sinkhole the expedition tries and beheads Pike Neldain.
 - ch. 424–430: The survivors shelter here until the labyrinth closes; the final battle takes place in the Trap Room.
+
+## Sub-places
+- [Trap Room](Trap%20Room/README.md)
 
 ## Chapters
 400–403, 405, 423–430

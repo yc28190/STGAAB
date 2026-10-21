@@ -1,5 +1,7 @@
 # Tea House
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Ravigion](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (tea house) |

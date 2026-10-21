@@ -1,5 +1,7 @@
 # 1st Basement Floor - Archives
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden floor |
@@ -12,16 +14,16 @@ A hidden floor beneath the labyrinth: a vast, dark silver sea that looks like me
 Bjorn's clan were the first to discover it. It holds new species and enormous rewards, including Single Numbered Items, but also mysteries: the silver sea, the rainy season, dimensional collapse, the village chief, and Hamsik (Marx), who lives here and cannot leave. The Dragon Knight Cornelius Brungreed has been trapped here for ages in monster form. The royal family later declared it a restricted area.
 
 ## Monsters
-- [[McGuffin]]
-- [[Tentakulan]]
-- [[Diamond]]
-- [[Nanari]] — squirrel-type
-- [[Papagonas]]
-- [[Bailonta]]
-- [[Hippermachant]] — Giants' Island; farmable for its essence
-- [[Tol-Lafupa]]
-- [[Brakiaistel]] — hunted in the library
-- [[Berzak]] — Lord of the Abyss, Floor Lord
+- [McGuffin](../../../Bestiary/mcguffin_ch509.md)
+- [Tentakulan](../../../Bestiary/tentakulan_ch511.md)
+- [Diamond](../../../Bestiary/diamond_ch512.md)
+- [Nanari](../../../Bestiary/squirrel_ch513.md) — squirrel-type
+- [Papagonas](../../../Bestiary/papagonas_ch514.md)
+- [Bailonta](../../../Bestiary/bailonta_ch514.md)
+- [Hippermachant](../../../Bestiary/hiphramagent_ch517.md) — Giants' Island; farmable for its essence
+- [Tol-Lafupa](../../../Bestiary/tol_lapufa_ch508.md)
+- [Brakiaistel](../../../Bestiary/brakiaistel_ch669.md) — hunted in the library
+- [Berzak](../../../Bestiary/verzak_ch219.md) — Lord of the Abyss, Floor Lord
 - Plus the 40 m giant of Giants' Island, the vine monster of Tree Island, grade 1 monsters on Library Island, sea monsters, a flying white horse, and the monsters that fall in the rainy season (see the individual islands)
 
 ## Mechanics
@@ -46,6 +48,16 @@ Bjorn's clan were the first to discover it. It holds new species and enormous re
 - ch. 577–622: Royal expedition arc. Bjorn takes the Seventh Archive pact to leave.
 - ch. 625–638: Over a hundred essences come back. Most are handed out to District 7 explorers, and the best are kept in secret.
 - ch. 783–790: Bjorn recalls exploring with Saintred. At the reopening a team is seen heading for B1.
+
+## Sub-places
+- [Giants' Island](Giants'%20Island/README.md)
+- [Human Island (Chief's Island)](Human%20Island%20(Chief's%20Island)/README.md)
+- [Library Island](Library%20Island/README.md)
+- [Rainbow Island](Rainbow%20Island/README.md)
+- [Rock Island](Rock%20Island/README.md)
+- [Sea of Records (Silver Sea)](Sea%20of%20Records%20(Silver%20Sea)/README.md)
+- [Stone Gate Island](Stone%20Gate%20Island/README.md)
+- [Tree Island](Tree%20Island/README.md)
 
 ## Chapters
 499, 501, 503, 507–529, 531, 538, 540, 543–546, 551–563, 569, 578, 581–583, 586, 589–590, 592–593, 603, 605, 607–610, 614, 619, 622, 625–626, 632–633, 638, 649, 655, 658, 669, 778, 783, 789–790, 800, 806, 810

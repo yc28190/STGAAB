@@ -1,5 +1,7 @@
 # Ham's House
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Library Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (dwelling / reward room) |

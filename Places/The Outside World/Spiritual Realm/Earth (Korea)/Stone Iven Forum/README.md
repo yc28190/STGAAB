@@ -1,5 +1,7 @@
 # Stone Iven Forum
 
+> **Location** : [Places](../../../../README.md) › [The Outside World](../../../README.md) › [Spiritual Realm](../../README.md) › [Earth (Korea)](../README.md)
+
 | | |
 |---|---|
 | **Type** | online community (Earth) |

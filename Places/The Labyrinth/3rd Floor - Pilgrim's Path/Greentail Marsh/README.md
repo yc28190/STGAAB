@@ -1,5 +1,7 @@
 # Greentail Marsh
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,7 +12,7 @@
 A 3rd-floor marshland whose soft, swampy ground preserves the tracks of parties that passed before. It lies between the Goblin Forest entrance and the Sculpture Temple and is home to the lizardmen.
 
 ## Monsters
-- [[Lizardman]] — the marsh's main inhabitants
+- [Lizardman](../../../../Bestiary/lizardman_ch505.md) — the marsh's main inhabitants
 
 ## Mechanics
 - About six days' travel from the Orc Colony (ch. 53).

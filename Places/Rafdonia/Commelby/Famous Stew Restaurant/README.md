@@ -1,5 +1,7 @@
 # Famous Stew Restaurant
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Commelby](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (restaurant) |

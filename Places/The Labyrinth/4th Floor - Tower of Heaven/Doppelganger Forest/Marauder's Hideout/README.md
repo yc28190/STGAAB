@@ -1,5 +1,7 @@
 # Marauder's Hideout
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [4th Floor - Tower of Heaven](../../README.md) › [Doppelganger Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (boss room) |
@@ -10,8 +12,8 @@
 The guardian's lair, reached by dropping into a sinkhole that appears in the forest. A cold, foggy cave leads along a straight passage of about forty steps into a low-ceilinged cavern whose floor is covered by a giant magic circle, with Stones of Truth scattered about like toys. In the middle crouches what looks like a crying child, its eyes, nose and mouth upside down.
 
 ## Monsters
-- [[Nameless Marauder]] — the 4th-grade Doppelganger guardian (boss)
-- [[Doppelganger]] — clones spawned throughout the fight
+- [Nameless Marauder](../../../../../Bestiary/doppelganger_ch177.md) — the 4th-grade Doppelganger guardian (boss)
+- [Doppelganger](../../../../../Bestiary/doppelganger_ch177.md) — clones spawned throughout the fight
 
 ## Mechanics
 - Phase 1: the boss copies each person in turn, adding 5th-grade monster stats; [Flesh Explosion] spawns clones, and about every 10 clones raise the unsealing rate by about 5%, signalled by the floor circle flashing (ch. 188–189).

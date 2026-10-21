@@ -1,5 +1,7 @@
 # Raven's Laboratory
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Magic Tower](../../README.md) › [Artemion School](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (research lab) |

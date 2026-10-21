@@ -1,5 +1,7 @@
 # Moselan Headquarters
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (military order headquarters) |

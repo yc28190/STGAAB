@@ -1,5 +1,7 @@
 # Center Altar Clearing
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Parune Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | clearing (altar) |
@@ -10,7 +12,7 @@
 An open space hidden in the forest at the centre of Parune Island, with a white stone tower-like altar in the middle and dark bloodstains on the ground. During the final phase of the "Wrath of the Sea" event it is the last dry ground left on the island.
 
 ## Monsters
-- [[Stormgush]] — final boss of the event, fought here
+- [Stormgush](../../../../../Bestiary/stormgush_ch278.md) — final boss of the event, fought here
 
 ## Mechanics
 - The event's offering stone sits on the altar (ch. 271).

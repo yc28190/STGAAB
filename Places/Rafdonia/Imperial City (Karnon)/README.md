@@ -1,5 +1,7 @@
 # Imperial City (Karnon)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (capital) |
@@ -30,6 +32,30 @@ None recorded.
 - ch. 473: Baroness Lirivia urges Bjorn to build his estate here, but he chooses Ravigion.
 - ch. 691–709: Noark aims to march on Karnon and kill the king. A Noark elite squad slips in and vanishes, and a Record fragment foretells the day Karnon burns.
 - ch. 753–758: Bjorn wakes hidden in a soldier's tent to dodge Urae. The capital regulars fake a full assault as a diversion for the bank rescue.
+
+## Sub-places
+- [Administration Office](Administration%20Office/README.md)
+- [Bakery](Bakery/README.md)
+- [Baron Martoan's Mansion](Baron%20Martoan's%20Mansion/README.md)
+- [Baroness Lirivia's Mansion](Baroness%20Lirivia's%20Mansion/README.md)
+- [Boulevard](Boulevard/README.md)
+- [Capital Checkpoint](Capital%20Checkpoint/README.md)
+- [Count Alminus's Mansion](Count%20Alminus's%20Mansion/README.md)
+- [Count Perdehilt's Mansion](Count%20Perdehilt's%20Mansion/README.md)
+- [Count's Former Villa (Expedition Mansion)](Count's%20Former%20Villa%20(Expedition%20Mansion)/README.md)
+- [Dimensional Plaza](Dimensional%20Plaza/README.md)
+- [Hero's Plaza](Hero's%20Plaza/README.md)
+- [Military Base](Military%20Base/README.md)
+- [Military Transfer Station](Military%20Transfer%20Station/README.md)
+- [Moselan Headquarters](Moselan%20Headquarters/README.md)
+- [Noble's Mansion (Dkart's Banquet)](Noble's%20Mansion%20(Dkart's%20Banquet)/README.md)
+- [Racial Conference Building](Racial%20Conference%20Building/README.md)
+- [Royal Army Soldier's Tent](Royal%20Army%20Soldier's%20Tent/README.md)
+- [Royal Palace](Royal%20Palace/README.md)
+- [Sky Auction House](Sky%20Auction%20House/README.md)
+- [Southern District](Southern%20District/README.md)
+- [Terserion Mansion](Terserion%20Mansion/README.md)
+- [Western Wall](Western%20Wall/README.md)
 
 ## Chapters
 43, 47, 74, 87, 94, 98, 157, 192, 215, 232, 233, 243, 252–256, 259, 362, 385, 387, 391, 397, 431, 432, 443, 446, 464, 466–468, 473, 491, 494, 632, 638, 639, 642, 643, 646, 649, 650, 654, 655, 691, 698, 703, 704, 706, 708–710, 715, 722, 725, 726, 728, 729, 751–754, 758

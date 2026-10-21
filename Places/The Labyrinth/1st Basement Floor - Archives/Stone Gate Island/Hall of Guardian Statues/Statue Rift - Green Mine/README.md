@@ -1,5 +1,7 @@
 # Statue Rift - Green Mine
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 Iron rails run across the floor, with scrap metal, a broken cart wheel and coal in a cart. After a short walk the tunnel opens into a clearing that serves as the boss arena.
 
 ## Monsters
-- [[King Slime]] — guardian, appears in the clearing
+- [King Slime](../../../../../../Bestiary/king_slime_ch374.md) — guardian, appears in the clearing
 
 ## Mechanics
 - Solo rift. The boss arena comes almost immediately, with no mid-boss (ch. 583).

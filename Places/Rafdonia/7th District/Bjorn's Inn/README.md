@@ -1,5 +1,7 @@
 # Bjorn's Inn
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

@@ -1,5 +1,7 @@
 # Northern Route (Goblin Zone)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -10,11 +12,11 @@
 Crystal-lit cave passages in the north of the floor, with rocks to hide behind and crude goblin traps left in plain view, narrowing toward the north portal to the Goblin Forest. A pond beside a large rock is a common resting spot. During the Noark war, the passages were strewn with knights' and soldiers' corpses used as bait and lookouts, and later sank into the pitch-black Abyssal Fog, where hundreds of glowing eyes appeared as Verzak drew near.
 
 ## Monsters
-- [[Goblin]] — ambush from beside their badly hidden traps; numbers rise daily until the floor closes
-- [[Abyssal Goblin]] — 5th grade; lays undetectable traps and throws Monster Pouches
-- [[Abyssal Watcher]] — 9th-grade giant floating eye
-- [[Verzak]] — Lord of the Abyss
-- [[Troll]] — released from a Monster Pouch
+- [Goblin](../../../../Bestiary/goblin_ch4.md) — ambush from beside their badly hidden traps; numbers rise daily until the floor closes
+- [Abyssal Goblin](../../../../Bestiary/abyssal_goblin_ch222.md) — 5th grade; lays undetectable traps and throws Monster Pouches
+- [Abyssal Watcher](../../../../Bestiary/abyssal_watcher_ch222.md) — 9th-grade giant floating eye
+- [Verzak](../../../../Bestiary/verzak_ch219.md) — Lord of the Abyss
+- [Troll](../../../../Bestiary/troll_ch33.md) — released from a Monster Pouch
 - Corpse puppets — the Corpse Collector's
 
 ## Mechanics

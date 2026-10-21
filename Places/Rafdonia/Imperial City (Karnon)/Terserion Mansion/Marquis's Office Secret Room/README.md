@@ -1,5 +1,7 @@
 # Marquis's Office Secret Room
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Terserion Mansion](../README.md)
+
 | | |
 |---|---|
 | **Type** | room |

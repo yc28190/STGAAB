@@ -1,5 +1,7 @@
 # Urae Charging Courtyard
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Commelby](../../README.md) › [District 4](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (magic weapon site) |

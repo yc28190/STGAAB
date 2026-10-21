@@ -1,5 +1,7 @@
 # Vekta's House Site
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | building site |

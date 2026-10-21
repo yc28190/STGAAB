@@ -1,5 +1,7 @@
 # Leathlas Temple Central Branch
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Commelby](../../README.md) › [District 4](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (temple) |

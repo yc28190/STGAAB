@@ -1,5 +1,7 @@
 # Terserion Mansion
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (noble mansion) |
@@ -29,6 +31,10 @@ None recorded.
 - ch. 649–655: The Marquis agrees to a construction contest. He thanks Bjorn for saving him, admits he thinks Bjorn is a demon, reveals that his son Eltora is dead (possessed), and asks Bjorn to kill Ibaekho. He also mentions a royal treasure that would revive him at the palace.
 - ch. 711–714: Bjorn's squad raids the mansion. The 17 Orculis special forces hiding there surrender to the King's Knight Morgan Karitumore and are loaded onto prisoner carriages in the garden, where Bjorn smashes Banonzant's head.
 - ch. 789: The abandoned mansion is the secret rally point for explorers chosen for the labyrinth reopening.
+
+## Sub-places
+- [Marquis's Office Secret Room](Marquis's%20Office%20Secret%20Room/README.md)
+- [Secret Library](Secret%20Library/README.md)
 
 ## Chapters
 385–396, 649–650, 654–655, 710–715, 789

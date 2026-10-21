@@ -1,5 +1,7 @@
 # Police Station
 
+> **Location** : [Places](../../../../README.md) › [The Outside World](../../../README.md) › [Spiritual Realm](../../README.md) › [Earth (Korea)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (dream) |

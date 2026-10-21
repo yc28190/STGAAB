@@ -1,5 +1,7 @@
 # Doppler Bunker
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Rainbow Island](../../README.md) › [Jungle](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground lab) |
@@ -10,7 +12,7 @@
 A manhole-like hatch with a turning handle, hidden under knee-high brush in a jungle clearing. A 20 m ladder shaft leads to a corridor ending in a round iron door that aura cannot scratch. Inside, the place feels like a submarine, all steel plates, pipes and cables. One corridor is lined with tubes of green culture fluid holding live Dopplers whose eyes follow visitors. A laboratory holds a giant central tube, two levers and shelves of blank books, and a lower level has another round door that will not open.
 
 ## Monsters
-- [[Doppler]] — weak, languageless beings that look like twisted versions of the non-human races; kept in tubes and roaming the clearing
+- [Doppler](../../../../../../Bestiary/doppler_ch612.md) — weak, languageless beings that look like twisted versions of the non-human races; kept in tubes and roaming the clearing
 
 ## Mechanics
 - Footprints in the clearing were bait for a Doppler ambush (ch. 612).

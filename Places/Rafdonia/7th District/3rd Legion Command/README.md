@@ -1,5 +1,7 @@
 # 3rd Legion Command
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (command post) |

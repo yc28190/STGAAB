@@ -1,5 +1,7 @@
 # Land of Immortality
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,7 +12,7 @@
 A field of the Dark Continent known for very tricky field traits. It is the main habitat of the rare 3rd-grade monster Bion/Bayon. Mentioned only in passing.
 
 ## Monsters
-- [[Bion]] — 3rd grade, rare (also written [[Bayon]]; more common here than elsewhere).
+- [Bion](../../../../../Bestiary/bion_ch242.md) — 3rd grade, rare (also written [Bayon](../../../../../Bestiary/bayon_ch556.md); more common here than elsewhere).
 
 ## Mechanics
 - Bion appears here; unlike Vol-Herchan's field, where monsters come in groups, Bion is rare and the field's traits are very tricky (ch. 243).

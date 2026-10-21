@@ -1,5 +1,7 @@
 # Auril Gavis's Spiritual Domain
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Spiritual Realm](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (mansion) |

@@ -1,5 +1,7 @@
 # Hall of Guardian Statues
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Stone Gate Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | hall (rift hub) |
@@ -12,7 +14,7 @@ A huge straight indoor corridor, at least three times the size of the Hall of Gl
 It served as the expedition's base for weeks, with barracks tents set up inside.
 
 ## Monsters
-- Statues of [[King Slime]], [[Death Knight]], [[Lycanthrope]], [[Iron Cavalry]], a drake, a troll, [[Cambormier]] and others — each opens a boss-only rift of that guardian
+- Statues of [King Slime](../../../../../Bestiary/king_slime_ch374.md), [Death Knight](../../../../../Bestiary/death_knight_ch32.md), [Lycanthrope](../../../../../Bestiary/lycanthrope_ch104.md), [Iron Cavalry](../../../../../Bestiary/iron_cavalry_ch582.md), a drake, a troll, [Cambormier](../../../../../Bestiary/cambormere_ch32.md) and others — each opens a boss-only rift of that guardian
 
 ## Mechanics
 - The hall is not inside a rift. Its terrain repairs itself and the statues give off faint magic (ch. 583).
@@ -29,6 +31,19 @@ It served as the expedition's base for weeks, with barracks tents set up inside.
 - ch. 590: Duke Cambormier talks sensibly with Bjorn once, then is "hotfixed" into silence for everyone after.
 - ch. 592–593: All 41 statues cleared; the stone gate opens onto the red portal.
 - ch. 604–605: Bjorn takes over as commander in a barracks tent in the hall.
+
+## Sub-places
+- [3rd Archive](3rd%20Archive/README.md)
+- [Statue Rift - Burning Forest](Statue%20Rift%20-%20Burning%20Forest/README.md)
+- [Statue Rift - Crimson Fortress](Statue%20Rift%20-%20Crimson%20Fortress/README.md)
+- [Statue Rift - Doppelganger Forest](Statue%20Rift%20-%20Doppelganger%20Forest/README.md)
+- [Statue Rift - Glacier Cave](Statue%20Rift%20-%20Glacier%20Cave/README.md)
+- [Statue Rift - Golden Ruins](Statue%20Rift%20-%20Golden%20Ruins/README.md)
+- [Statue Rift - Green Mine](Statue%20Rift%20-%20Green%20Mine/README.md)
+- [Statue Rift - Rift of Light](Statue%20Rift%20-%20Rift%20of%20Light/README.md)
+- [Statue Rift - Soul Fortress](Statue%20Rift%20-%20Soul%20Fortress/README.md)
+- [Statue Rift - Steel Tomb](Statue%20Rift%20-%20Steel%20Tomb/README.md)
+- [Statue Rift - White Temple](Statue%20Rift%20-%20White%20Temple/README.md)
 
 ## Chapters
 582–593, 604, 607

@@ -1,5 +1,7 @@
 # Clothing Store
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop |

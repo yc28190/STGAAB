@@ -1,5 +1,7 @@
 # 2nd Basement Floor
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |

@@ -1,5 +1,7 @@
 # Team Misfits' Bar
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (bar) |

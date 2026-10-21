@@ -1,5 +1,7 @@
 # Military Transfer Station
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | transport station (teleport) |

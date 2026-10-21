@@ -1,5 +1,7 @@
 # 1st Floor - Crystal Cave
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,14 +14,14 @@ An enormous cave system, as twisting as an anthill, lit by crystals set in the w
 The Crystal Cave is the entry floor of the labyrinth, reached from the city portal. Most explorers here are human rookies (fewer than 100 barbarians at a time). The floor is divided by direction among goblins, ghouls, blade wolves and gnomes, with a portal at each edge leading to a different 2nd floor. Experienced explorers simply race through it toward the 2nd-floor portals, while looters and gangs prey on newcomers.
 
 ## Monsters
-- [[Goblin]] — 9th grade; the large Goblin Zone in the north; crawl out of crevices in the crystal walls
-- [[Ghoul]] — the western ghoul district (one account places ghouls in the south) (conflicting accounts)
-- [[Blade Wolf]] — the eastern district, near the portal to the Beasts' Lair
-- [[Gnome]] — 9th grade; uses [Assimilation] stealth and only shows itself within 3 m; placed in the south or the west (conflicting accounts)
-- [[Dreadfear]] — Lord of Fear / Lord of Terror, the summonable Floor Master
-- [[Verzak]] — Lord of the Abyss, hidden field boss after the ninth Lord of Fear dies
-- [[Abyssal Blade Wolf]], [[Abyssal Goblin]], [[Abyssal Watcher]] — 5th-grade forms created by the Abyssal Fog
-- [[Giant Maggot]] — recorded in the cave (ch. 455–480)
+- [Goblin](../../../Bestiary/goblin_ch4.md) — 9th grade; the large Goblin Zone in the north; crawl out of crevices in the crystal walls
+- [Ghoul](../../../Bestiary/ghoul_ch11.md) — the western ghoul district (one account places ghouls in the south) (conflicting accounts)
+- [Blade Wolf](../../../Bestiary/blade_wolf_ch11.md) — the eastern district, near the portal to the Beasts' Lair
+- [Gnome](../../../Bestiary/gnome_ch25.md) — 9th grade; uses [Assimilation] stealth and only shows itself within 3 m; placed in the south or the west (conflicting accounts)
+- [Dreadfear](../../../Bestiary/dreadfear_ch212.md) — Lord of Fear / Lord of Terror, the summonable Floor Master
+- [Verzak](../../../Bestiary/verzak_ch219.md) — Lord of the Abyss, hidden field boss after the ninth Lord of Fear dies
+- [Abyssal Blade Wolf](../../../Bestiary/abyssal_blade_wolf_ch221.md), [Abyssal Goblin](../../../Bestiary/abyssal_goblin_ch222.md), [Abyssal Watcher](../../../Bestiary/abyssal_watcher_ch222.md) — 5th-grade forms created by the Abyssal Fog
+- [Giant Maggot](../../../Bestiary/giant_maggot_ch480.md) — recorded in the cave (ch. 455–480)
 
 ## Mechanics
 - The floor is open for 7 days and closes at 24:00 on Day 7, returning explorers to the city; the return portal still works on Day 7 (ch. 13, 53, 114, 230, 503).
@@ -51,6 +53,22 @@ The Crystal Cave is the entry floor of the labyrinth, reached from the city port
 - ch. 478–479: Looters hunt barbarian newcomers for their hearts; Bjorn and Ainar go undercover, wipe out two looter teams and learn of a 2-billion-stone bounty on Bjorn's heart.
 - ch. 503–506: Crowds hunt for the hidden area after Bjorn's feat; Dreadfear is summoned on Day 3, the ninth kill brings Verzak back, and ten clans help evacuate the floor.
 - ch. 789–790: The labyrinth reopens through the Karnohn plaza portal; the stele is used to open the 1st Basement Floor.
+
+## Sub-places
+- [Central Dark Zone](Central%20Dark%20Zone/README.md)
+- [Crimson Fortress (Blood Citadel)](Crimson%20Fortress%20(Blood%20Citadel)/README.md)
+- [Dark Outer Zone](Dark%20Outer%20Zone/README.md)
+- [Dimensional Stele](Dimensional%20Stele/README.md)
+- [Dreadfear Summoning Ground](Dreadfear%20Summoning%20Ground/README.md)
+- [Eastern District (Blade Wolf Zone)](Eastern%20District%20(Blade%20Wolf%20Zone)/README.md)
+- [Glacier Cave](Glacier%20Cave/README.md)
+- [Green Mine](Green%20Mine/README.md)
+- [Hidden Passage with the Stone Tablet](Hidden%20Passage%20with%20the%20Stone%20Tablet/README.md)
+- [Northern Route (Goblin Zone)](Northern%20Route%20(Goblin%20Zone)/README.md)
+- [Steel Tomb](Steel%20Tomb/README.md)
+- [Tombstone Clearing](Tombstone%20Clearing/README.md)
+- [Verzak's Domain (Abyssal Fog)](Verzak's%20Domain%20(Abyssal%20Fog)/README.md)
+- [Western Ghoul Area](Western%20Ghoul%20Area/README.md)
 
 ## Chapters
 3–12, 15, 22, 26–28, 49, 65, 100–102, 109, 110, 113, 114, 151, 162, 163, 177, 178, 204, 207–219, 221–224, 230, 262, 263, 296, 302, 342, 350, 362, 364, 373–375, 397, 398, 418–420, 423, 455, 456, 478–484, 491, 503–507, 545, 554, 595, 605, 622, 629, 658, 669, 789, 790

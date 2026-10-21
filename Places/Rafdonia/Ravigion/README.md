@@ -1,5 +1,7 @@
 # Ravigion
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | city / district (residential city) |
@@ -25,6 +27,11 @@ None recorded.
 - ch. 432: The victory parade starts from Ravigion's Dimension Plaza.
 - ch. 494–496: Bjorn's barbarian march on the Magic Tower. He promises Moselan knights the march will stay in Ravigion.
 - ch. 647, 653: After the labyrinth is sealed, its commoners are more frightened than ever. The construction contest is framed as a chance to take over a whole district.
+
+## Sub-places
+- [Administrative Office](Administrative%20Office/README.md)
+- [Marco Towair's Restaurant](Marco%20Towair's%20Restaurant/README.md)
+- [Tea House](Tea%20House/README.md)
 
 ## Chapters
 72, 79, 98, 122, 192, 292, 432, 494, 496, 629, 647, 653

@@ -1,5 +1,7 @@
 # Daylan's Ravine
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Grey Plains](../README.md)
+
 | | |
 |---|---|
 | **Type** | ravine |

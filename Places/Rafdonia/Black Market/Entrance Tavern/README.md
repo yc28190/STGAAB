@@ -1,5 +1,7 @@
 # Entrance Tavern
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Black Market](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (tavern / entrance) |

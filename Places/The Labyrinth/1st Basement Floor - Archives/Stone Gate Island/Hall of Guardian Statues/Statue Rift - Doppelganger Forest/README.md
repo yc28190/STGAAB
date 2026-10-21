@@ -1,5 +1,7 @@
 # Statue Rift - Doppelganger Forest
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 A boss-only copy of the 4th floor's Doppelganger Forest rift, opened from its guardian statue in the Hall of Guardian Statues.
 
 ## Monsters
-- [[Doppelganger]] — guardian; copies the challenger, silent this time
+- [Doppelganger](../../../../../../Bestiary/doppelganger_ch177.md) — guardian; copies the challenger, silent this time
 
 ## Mechanics
 - In the original rift, portals are single-use and bound people move together (ch. 583).

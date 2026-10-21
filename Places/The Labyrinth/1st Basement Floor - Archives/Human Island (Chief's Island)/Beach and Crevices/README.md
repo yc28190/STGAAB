@@ -1,5 +1,7 @@
 # Beach and Crevices
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Human Island (Chief's Island)](../README.md)
+
 | | |
 |---|---|
 | **Type** | beach / cliff passages |

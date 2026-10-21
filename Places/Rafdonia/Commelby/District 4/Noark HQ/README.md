@@ -1,5 +1,7 @@
 # Noark HQ
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Commelby](../../README.md) › [District 4](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (headquarters) |
@@ -24,6 +26,9 @@ None recorded.
 - ch. 769: Bjorn kills the Marquis here after receiving Urae's authority and the royal revival ring.
 - ch. 770: He kills the bespectacled Noark aide who set off the alarms, then fires Urae just beside the building and brings it down.
 - ch. 771: The Royal Army digs the group out of the rubble.
+
+## Sub-places
+- [Underground Prison](Underground%20Prison/README.md)
 
 ## Chapters
 755, 756, 769, 770, 771

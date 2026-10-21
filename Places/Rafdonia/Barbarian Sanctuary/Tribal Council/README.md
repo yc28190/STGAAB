@@ -1,5 +1,7 @@
 # Tribal Council
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | assembly |

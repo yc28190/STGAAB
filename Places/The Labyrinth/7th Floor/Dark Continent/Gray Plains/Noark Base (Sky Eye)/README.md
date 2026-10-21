@@ -1,5 +1,7 @@
 # Noark Base (Sky Eye)
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [7th Floor](../../../README.md) › [Dark Continent](../../README.md) › [Gray Plains](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (tower, base) |

@@ -1,5 +1,7 @@
 # Warrior's Forest
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | forest (funeral ground) |

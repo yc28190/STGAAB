@@ -1,5 +1,7 @@
 # Pione Waters
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Pione Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | sea area |

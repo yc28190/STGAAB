@@ -1,5 +1,7 @@
 # Secret Passage Well
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [7th District](../../README.md) › [Leathlas Church Eastern Branch](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (well / secret exit) |

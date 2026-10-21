@@ -1,5 +1,7 @@
 # Beast's Territory
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Skull Island (Catacoma)](../../README.md) › [Memory of the End](../README.md)
+
 | | |
 |---|---|
 | **Type** | boss area (island center) |
@@ -12,7 +14,7 @@ The center of the island in the Memory of the End. When the Beast awakens, the g
 It is the lair of the Ancient Beast, the apocalyptic monster of this hidden scenario. A strong mana signal at the center persisted even after its death.
 
 ## Monsters
-- [[The Beast]] — Ancient Beast; unranked ultra-large (~9 m) bipedal dinosaur-like creature with a massive tail, built like Chaos Lord Liakis; raid boss of the island center.
+- [The Beast](../../../../../../Bestiary/ancient_beast_ch800.md) — Ancient Beast; unranked ultra-large (~9 m) bipedal dinosaur-like creature with a massive tail, built like Chaos Lord Liakis; raid boss of the island center.
 
 ## Mechanics
 - Aura [Song of the Apocalypse]: all time is accelerated, so the death countdown and fire damage tick several times faster; the raid is effectively capped at 30 minutes (ch. 811).

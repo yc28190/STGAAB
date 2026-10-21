@@ -1,5 +1,7 @@
 # Jungle
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Human Island (Chief's Island)](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (rainforest) |
@@ -10,11 +12,11 @@
 A dense, dark rainforest of huge trees and knee-high brush covering Human Island. Toward the center it grows thicker and the ordinary monsters disappear. Large, flat, shoe-like footprints of different shapes lead inward.
 
 ## Monsters
-- [[Nanari]] — a squirrel that hides in a knot of a moving-tree monster. The tree lashes with vines and uses [Growing Seed] (summons Seedria), [Mana Barrage] and [Charming Powder]
-- [[Seedria]] — summoned by the tree monster
-- [[Diamond]] — uses [Healing Mist], [Corpse Poison] and [Hellfire]. Its essence passive [Impure] costs one essence slot and gives +50% power to active skills
-- [[Papagonas]]
-- [[Bailonta]]
+- [Nanari](../../../../../Bestiary/squirrel_ch513.md) — a squirrel that hides in a knot of a moving-tree monster. The tree lashes with vines and uses [Growing Seed] (summons Seedria), [Mana Barrage] and [Charming Powder]
+- [Seedria](../../../../../Bestiary/seedria_ch513.md) — summoned by the tree monster
+- [Diamond](../../../../../Bestiary/diamond_ch512.md) — uses [Healing Mist], [Corpse Poison] and [Hellfire]. Its essence passive [Impure] costs one essence slot and gives +50% power to active skills
+- [Papagonas](../../../../../Bestiary/papagonas_ch514.md)
+- [Bailonta](../../../../../Bestiary/bailonta_ch514.md)
 - Natives (warriors and archers) — ambush intruders
 
 ## Mechanics

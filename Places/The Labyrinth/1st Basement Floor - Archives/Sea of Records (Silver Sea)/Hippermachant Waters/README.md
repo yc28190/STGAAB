@@ -1,5 +1,7 @@
 # Hippermachant Waters
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Sea of Records (Silver Sea)](../README.md)
+
 | | |
 |---|---|
 | **Type** | sea area |
@@ -10,7 +12,7 @@
 A shallow stretch of the silver sea with a soft, muddy bottom, about three hours into the 9-hour route from Rock Island toward the Hex castaways' island near the giants' island. Groups of giant heads with fish-like mouths skim along the surface.
 
 ## Monsters
-- [[Hippermachant]] — giant fish-mouthed heads that travel in groups and seize ships from below (also written Hipramagant / Hiphramagent)
+- [Hippermachant](../../../../../Bestiary/hiphramagent_ch517.md) — giant fish-mouthed heads that travel in groups and seize ships from below (also written Hipramagant / Hiphramagent)
 
 ## Mechanics
 - A Hippermachant can lift a ship clean out of the water from underneath (ch. 523).

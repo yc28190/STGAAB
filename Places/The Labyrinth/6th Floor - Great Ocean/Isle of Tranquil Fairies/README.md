@@ -1,5 +1,7 @@
 # Isle of Tranquil Fairies
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -10,7 +12,7 @@
 An island known from discussions at the Round Table for its hidden piece. Its floor is not stated in the text; it is placed on the Great Ocean provisionally.
 
 ## Monsters
-- [[Labganus]] — appears three times, guaranteed, when the hidden piece is activated
+- [Labganus](../../../../Bestiary/labganus_ch125.md) — appears three times, guaranteed, when the hidden piece is activated
 
 ## Mechanics
 - Activating its hidden piece makes Labganus appear three times, guaranteed (ch. 125).

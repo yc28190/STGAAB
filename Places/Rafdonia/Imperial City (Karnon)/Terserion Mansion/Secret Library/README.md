@@ -1,5 +1,7 @@
 # Secret Library
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Terserion Mansion](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (hidden library) |

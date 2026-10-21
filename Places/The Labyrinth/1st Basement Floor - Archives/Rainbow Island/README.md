@@ -1,5 +1,7 @@
 # Rainbow Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island (hidden field) |
@@ -29,6 +31,10 @@ None recorded. (See the Jungle and Seventh Archive pages.)
 - ch. 608–609: The expedition reaches the calm zone and fails to break through.
 - ch. 610: Waiting out the rainy season costs at least four lives; rainbow light carries the survivors to the island.
 - ch. 622: The expedition leaves through the lake exit.
+
+## Sub-places
+- [Jungle](Jungle/README.md)
+- [Seventh Archive](Seventh%20Archive/README.md)
 
 ## Chapters
 538, 551, 560, 582, 590, 607–610, 615, 618, 620, 622

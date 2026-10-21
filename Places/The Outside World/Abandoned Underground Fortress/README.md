@@ -1,5 +1,7 @@
 # Abandoned Underground Fortress
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground fortress) |

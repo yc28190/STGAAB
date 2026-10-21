@@ -1,5 +1,7 @@
 # Ancient Shelter
 
+> **Location** : [Places](../../../README.md) › [Noark](../../README.md) › [Lord's Castle](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground shelter) |

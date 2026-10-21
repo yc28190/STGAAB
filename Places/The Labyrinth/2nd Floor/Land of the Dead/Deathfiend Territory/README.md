@@ -1,5 +1,7 @@
 # Deathfiend Territory
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [2nd Floor](../../README.md) › [Land of the Dead](../README.md)
+
 | | |
 |---|---|
 | **Type** | zone |
@@ -10,9 +12,9 @@
 The northern part of the Land of the Dead, where the soggy swamp gives way to hard ground and rolling hills and the banshee howls grow louder. It is the territory of the Deathfiends and marks the start of the field's 8th-grade monsters.
 
 ## Monsters
-- [[Deathfiend]] — 8th grade, over 3 m tall with a crescent-blade arm and a shield arm; regenerates and summons ghouls
-- [[Ghoul]] — summoned in tens by Deathfiends
-- [[Banshee]] — heard and met throughout
+- [Deathfiend](../../../../../Bestiary/deathfiend_ch23.md) — 8th grade, over 3 m tall with a crescent-blade arm and a shield arm; regenerates and summons ghouls
+- [Ghoul](../../../../../Bestiary/ghoul_ch11.md) — summoned in tens by Deathfiends
+- [Banshee](../../../../../Bestiary/banshee_ch23.md) — heard and met throughout
 
 ## Mechanics
 - Grade 8 monsters appear from here on (ch. 23).

@@ -1,5 +1,7 @@
 # Dreadpier Reward Chamber
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [Unknown Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave (reward room) |
@@ -10,7 +12,7 @@
 The cave where Captain Dreadpier was fought and the chamber reached after clearing him. Banners bearing the emblem of the ancient Empire hang in the cave. Its floor is not given in the text.
 
 ## Monsters
-- [[Captain Dreadpier]] — boss of the hidden piece (also referred to as Captain Baekin).
+- Captain Dreadpier — boss of the hidden piece (also referred to as Captain Baekin).
 
 ## Mechanics
 None recorded.

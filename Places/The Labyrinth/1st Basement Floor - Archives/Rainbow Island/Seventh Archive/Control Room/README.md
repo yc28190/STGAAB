@@ -1,5 +1,7 @@
 # Control Room
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Rainbow Island](../../README.md) › [Seventh Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (control centre) |

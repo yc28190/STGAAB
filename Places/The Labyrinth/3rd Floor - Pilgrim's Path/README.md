@@ -1,5 +1,7 @@
 # 3rd Floor - Pilgrim's Path
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,28 +14,28 @@ A huge open-world floor with no roads and terrain that never changes, normally d
 The floor contains more than ten named fields, each a separate monster habitat (Steelrock Hill, Orc Colony, Witch's Forest, Greentail Marsh, Pitch-black Estuary and others). All 1st- and 2nd-floor routes converge here, each arriving at a different starting point, and the 4th-floor portal stands in the tower at the centre of the Witch's Forest. It is considered the best floor for looting, which makes it a hunting ground for pillagers.
 
 ## Monsters
-- [[Irontro]] — field monster
-- [[Wormstone]] — field monster
-- [[Iron Falcon]] — field monster
-- [[Steel Hill Guard]] — field monster
-- [[Iron Ant]] — field monster
-- [[Orc Warrior]] — orc fields
-- [[Orc Archer]] — orc fields
-- [[Orc Shaman]] — orc fields
-- [[Orc Warlord]] — orc fields
-- [[Orc Great Warrior]] — orc fields
-- [[Orc Hero]] — orc fields
-- [[Orc Lord]] — orc fields
-- [[Frogman]] — marsh/estuary areas
-- [[Frogman Shaman]] — marsh/estuary areas
-- [[Stone Golem]] — recorded
-- [[Living Armor]] — recorded
-- [[Dullahan]] — recorded
-- [[Lizardman]] — recorded on Bjorn's later route
-- [[Nameless Statue]] — the unknown statues that drop emblem fragments
-- [[Fulminas]] — recorded
-- [[Riakis]] — Lord of Chaos, the Floor Master (boss); also written Liachis
-- [[Chaos Spirit]] — spawn everywhere while Riakis is active
+- [Irontro](../../../Bestiary/irontro_ch50.md) — field monster
+- [Wormstone](../../../Bestiary/wormstone_ch51.md) — field monster
+- [Iron Falcon](../../../Bestiary/iron_falcon_ch51.md) — field monster
+- [Steel Hill Guard](../../../Bestiary/steel_hill_guard_ch51.md) — field monster
+- [Iron Ant](../../../Bestiary/iron_ant_ch57.md) — field monster
+- [Orc Warrior](../../../Bestiary/orc_warrior_ch51.md) — orc fields
+- [Orc Archer](../../../Bestiary/orc_archer_ch51.md) — orc fields
+- [Orc Shaman](../../../Bestiary/orc_shaman_ch51.md) — orc fields
+- [Orc Warlord](../../../Bestiary/orc_warlord_ch51.md) — orc fields
+- [Orc Great Warrior](../../../Bestiary/orc_great_warrior_ch69.md) — orc fields
+- [Orc Hero](../../../Bestiary/orc_hero_ch68.md) — orc fields
+- [Orc Lord](../../../Bestiary/orc_lord_ch69.md) — orc fields
+- [Frogman](../../../Bestiary/frogman_ch115.md) — marsh/estuary areas
+- [Frogman Shaman](../../../Bestiary/frogman_shaman_ch115.md) — marsh/estuary areas
+- [Stone Golem](../../../Bestiary/stone_golem_ch25.md) — recorded
+- [Living Armor](../../../Bestiary/living_armor_ch34.md) — recorded
+- [Dullahan](../../../Bestiary/dullahan_ch23.md) — recorded
+- [Lizardman](../../../Bestiary/lizardman_ch505.md) — recorded on Bjorn's later route
+- [Nameless Statue](../../../Bestiary/nameless_statue_ch505.md) — the unknown statues that drop emblem fragments
+- [Fulminas](../../../Bestiary/fulminas_ch509.md) — recorded
+- [Riakis](../../../Bestiary/riakis_ch65.md) — Lord of Chaos, the Floor Master (boss); also written Liachis
+- [Chaos Spirit](../../../Bestiary/chaos_spirit_ch65.md) — spawn everywhere while Riakis is active
 
 ## Mechanics
 - All four 1st-floor routes and every 2nd-floor field lead here, each to a different start point (ch. 12, 51, 398).
@@ -60,6 +62,19 @@ The floor contains more than ten named fields, each a separate monster habitat (
 - ch. 457–462: The party stays until day 13 and deals with Riakis's appearance.
 - ch. 505: Bjorn's route runs Goblin Forest → Greentail Marsh → Sculpture Temple.
 - ch. 790: A 3rd-floor rift opens during the reopening, leading to the White Temple.
+
+## Sub-places
+- [Explorer Shelter (Base Camp)](Explorer%20Shelter%20(Base%20Camp)/README.md)
+- [Fragmented Temple](Fragmented%20Temple/README.md)
+- [Gate of Chaos](Gate%20of%20Chaos/README.md)
+- [Greentail Marsh](Greentail%20Marsh/README.md)
+- [Orc Colony](Orc%20Colony/README.md)
+- [Pitch-black Estuary](Pitch-black%20Estuary/README.md)
+- [Sculpture Temple](Sculpture%20Temple/README.md)
+- [Steelrock Hill](Steelrock%20Hill/README.md)
+- [Twilight Slope](Twilight%20Slope/README.md)
+- [White Temple](White%20Temple/README.md)
+- [Witch's Forest](Witch's%20Forest/README.md)
 
 ## Chapters
 12, 33, 37, 44, 46, 50, 51, 53, 58, 63, 65–68, 70–72, 114–116, 146, 163, 164, 178, 248, 263, 264, 288, 296–298, 302, 313, 314, 350, 383, 398, 457–462, 505, 544, 545, 559, 775, 789, 790, 808

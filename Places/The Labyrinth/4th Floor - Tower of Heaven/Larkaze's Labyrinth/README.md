@@ -1,5 +1,7 @@
 # Larkaze's Labyrinth
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [4th Floor - Tower of Heaven](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden field |
@@ -12,10 +14,10 @@ A square maze hidden within the Tower of Heaven. When the entrance door closes, 
 It is one of three hidden fields of the 4th floor, home to herds of 6th-grade Vykuntus and ruled by the Minotaur Larkaze. It is remembered as the place where Dwarkey died fighting the Dragonslayer Regal Vagos.
 
 ## Monsters
-- [[Vykuntus]] — 6th grade, bipedal goats about 2.5 m tall with giant halberds; huge single-species herds
-- [[Baphomet]] — high variant, corner mid-boss
-- [[Argos]] — high variant, corner mid-boss
-- [[Larkaze]] — master of the labyrinth, a high-variant Minotaur (final boss)
+- [Vykuntus](../../../../Bestiary/vykuntus_ch133.md) — 6th grade, bipedal goats about 2.5 m tall with giant halberds; huge single-species herds
+- [Baphomet](../../../../Bestiary/baphomet_ch135.md) — high variant, corner mid-boss
+- [Argos](../../../../Bestiary/argos_ch138.md) — high variant, corner mid-boss
+- [Larkaze](../../../../Bestiary/minotaur_ch136.md) — master of the labyrinth, a high-variant Minotaur (final boss)
 
 ## Mechanics
 - Reached only at a special stage where all three doors after a trial are Stairs of Fate; three Fate doors normally never appear together, and Fate itself appears less than 5% of the time (ch. 132–133).
@@ -36,6 +38,14 @@ It is one of three hidden fields of the 4th floor, home to herds of 6th-grade Vy
 - ch. 140–143: In the corridor battle, Dragon Speech [Soul Silence] drives Bjorn into Soul Exhaustion; Dwarkey casts his awakening spell combination and dies a hero's death; Vagos survives thanks to No. 3120 Second Heart.
 - ch. 144–145: Ludwig gives his body to Karui to open a black dimensional gate that pushes Vagos out to Noark.
 - ch. 345–346, 376, 565, 807: Recalled as where Bjorn first met the Dragonslayer and where his gamble changed others' fates.
+
+## Sub-places
+- [Argos's Chamber](Argos's%20Chamber/README.md)
+- [Baphomet's Chamber](Baphomet's%20Chamber/README.md)
+- [Central Portal](Central%20Portal/README.md)
+- [Chamber of Balance](Chamber%20of%20Balance/README.md)
+- [Larkaze's Boss Room](Larkaze's%20Boss%20Room/README.md)
+- [Trap Room](Trap%20Room/README.md)
 
 ## Chapters
 133–147, 169, 301, 321, 345, 346, 376, 380, 412, 413, 419–421, 429, 503, 508, 565, 807

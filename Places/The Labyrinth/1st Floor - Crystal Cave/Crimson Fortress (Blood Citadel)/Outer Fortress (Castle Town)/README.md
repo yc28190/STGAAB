@@ -1,5 +1,7 @@
 # Outer Fortress (Castle Town)
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Crimson Fortress (Blood Citadel)](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift area (ruined town) |
@@ -10,12 +12,12 @@
 The ruins of a castle town's public buildings: smithies, taverns, inns, churches and merchants' stables, with no farmland or housing. In the middle stands a dry fountain full of pebbles with a statue at its centre.
 
 ## Monsters
-- [[Deadman]]
-- [[Skeleton Archer]]
-- [[Skeleton Mage]]
-- [[Ghoul]]
-- [[Deathfiend]]
-- [[Cambormier]] — the Vampire Duke comes up to the surface here after sunset
+- [Deadman](../../../../../Bestiary/deadman_ch29.md)
+- [Skeleton Archer](../../../../../Bestiary/skeleton_archer_ch23.md)
+- [Skeleton Mage](../../../../../Bestiary/skeleton_mage_ch29.md)
+- [Ghoul](../../../../../Bestiary/ghoul_ch11.md)
+- [Deathfiend](../../../../../Bestiary/deathfiend_ch23.md)
+- [Cambormier](../../../../../Bestiary/cambormere_ch32.md) — the Vampire Duke comes up to the surface here after sunset
 
 ## Mechanics
 - Street fighting: monsters come in groups of dozens, and noise draws hundreds more within a minute (ch. 29).

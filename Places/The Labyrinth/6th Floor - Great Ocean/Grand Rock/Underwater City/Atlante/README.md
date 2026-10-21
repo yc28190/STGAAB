@@ -1,5 +1,7 @@
 # Atlante
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Grand Rock](../../README.md) › [Underwater City](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden field |
@@ -12,13 +14,13 @@ A deep-sea realm beyond the reach of a Light Gem: muddy ground, submerged buildi
 It is normally tackled by expedition forces, and is where the shield barbarian can obtain a second core essence after [Gigantification].
 
 ## Monsters
-- [[Sea God Stone]] — 5th grade, stationary towers with high Physical Resistance and slow, strong ranged attacks
-- [[Mermal Priest]] — field monster
-- [[Ravitor]] — field monster
-- [[Underwater Guardian]] — field monster
-- [[Nagakullos]] — field monster
-- [[Liumobidic]] — field monster
-- [[Deep Sea Giant]] — 3rd-grade boss, linked to the heart
+- [Sea God Stone](../../../../../../Bestiary/sea_god_stone_ch380.md) — 5th grade, stationary towers with high Physical Resistance and slow, strong ranged attacks
+- [Mermal Priest](../../../../../../Bestiary/mermal_priest_ch381.md) — field monster
+- [Ravitor](../../../../../../Bestiary/ravitor_ch381.md) — field monster
+- [Underwater Guardian](../../../../../../Bestiary/underwater_guardian_ch381.md) — field monster
+- [Nagakullos](../../../../../../Bestiary/nagakullos_ch381.md) — field monster
+- [Liumobidic](../../../../../../Bestiary/liumobidic_ch383.md) — field monster
+- [Deep Sea Giant](../../../../../../Bestiary/deep_sea_giant_ch381.md) — 3rd-grade boss, linked to the heart
 
 ## Mechanics
 - Entered through the Underwater City temple portal; a hidden field, not a rift, so there is no Guardian, normal drop rates and no rift stones or Numbered Items. Once opened it stays open until the labyrinth closes (ch. 380–381).

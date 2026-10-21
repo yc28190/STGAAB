@@ -1,5 +1,7 @@
 # Crystal-like Cave
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Basement Floor - Archives](../../../../README.md) › [Stone Gate Island](../../../README.md) › [Hall of Guardian Statues](../../README.md) › [3rd Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | story scene (cave) |
@@ -10,7 +12,7 @@
 A dark, dripping cave very much like the 1st floor's Crystal Cave, but with no monsters and slightly different terrain. Its centre, where the Gabrielius monument would stand, is empty.
 
 ## Monsters
-- [[Hamsik]] — ancient form; hidden boss, roughly mid-to-upper Grade 3, who wants to kill the girl
+- [Hamsik](../../../../../../../Bestiary/hamsik_ch548.md) — ancient form; hidden boss, roughly mid-to-upper Grade 3, who wants to kill the girl
 
 ## Mechanics
 - The compass points west toward the Rocky Desert exit (ch. 595).

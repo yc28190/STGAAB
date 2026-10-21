@@ -1,5 +1,7 @@
 # 10th Floor - Abyss
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -10,9 +12,9 @@
 The last floor of the labyrinth, home of the Gate of the Abyss. In the game it was the portal to the final boss room, and passing through it is what pulled Bjorn into this world. Its difficulty is hellish: most 1st-grade monsters live only here, some only in its hidden fields. It is the ultimate goal of the game and of Bjorn's journey. Rumor holds that opening the Gate lets you return to your original world, though the Witch of the Land warns that it must never be opened.
 
 ## Monsters
-- [[Abyssal Skeleton]] — 10th-floor monster
-- [[Tol-Lafupa]] — found in the floor's hidden fields
-- [[Sniktura]] — one of the many monsters here
+- [Abyssal Skeleton](../../../Bestiary/abyssal_skeleton_ch511.md) — 10th-floor monster
+- [Tol-Lafupa](../../../Bestiary/tol_lapufa_ch508.md) — found in the floor's hidden fields
+- [Sniktura](../../../Bestiary/sniktura_ch800.md) — one of the many monsters here
 - About 80% of 1st-grade monsters appear only on this floor, including a luck-dependent monster that drops the [Airship] essence (ch. 508, 799)
 
 ## Mechanics

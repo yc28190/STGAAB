@@ -1,5 +1,7 @@
 # Cave Mouth (Ibaekho Graffiti)
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Eastern Great Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave entrance |

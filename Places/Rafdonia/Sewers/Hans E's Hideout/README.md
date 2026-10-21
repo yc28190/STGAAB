@@ -1,5 +1,7 @@
 # Hans E's Hideout
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Sewers](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden room (abandoned gate to Noark) |

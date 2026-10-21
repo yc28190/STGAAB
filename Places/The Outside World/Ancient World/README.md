@@ -1,5 +1,7 @@
 # Ancient World
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | category (historical places) |
@@ -17,6 +19,10 @@ None recorded.
 
 ## Notable events
 None recorded.
+
+## Sub-places
+- [Ancient Empire](Ancient%20Empire/README.md)
+- [Cambermier Duchy](Cambermier%20Duchy/README.md)
 
 ## Chapters
 —

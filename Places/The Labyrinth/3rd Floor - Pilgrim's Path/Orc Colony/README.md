@@ -1,5 +1,7 @@
 # Orc Colony
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -12,17 +14,17 @@ A 3rd-floor field of tall bushes and forest, downhill from Steelrock Hill. At it
 It has the highest monster count on the 3rd floor, with nothing below rank 8, and is rated the floor's second-hardest area and the best hunting ground for teams not going on to the 4th floor. Its hidden boss made it a target for clans seeking Orc Hero essences.
 
 ## Monsters
-- [[Orc Warrior]] — common; groups grow larger toward the centre
-- [[Orc Archer]] — common
-- [[Orc Shaman]] — casts [Frenzy] and buffs/heals allies
-- [[Orc Arch Shaman]] — support caster
-- [[Orc Warlord]] — its magic stones feed the altar
-- [[Orc Great Warrior]] — elite
-- [[Orc Hero]] — hidden boss, 5th grade: Danish, Belta and Tarugas (Targus)
-- [[Orc Lord]] — 2nd grade, rarely appears instead of the heroes; practically undefeatable
-- [[Riakis]] — the Floor Master, fought here during the crisis
-- [[Riakis clone]] — miniature clones that swarm during [Crack of Evil]
-- [[Chaos Spirit]] — spawn while Riakis is active
+- [Orc Warrior](../../../../Bestiary/orc_warrior_ch51.md) — common; groups grow larger toward the centre
+- [Orc Archer](../../../../Bestiary/orc_archer_ch51.md) — common
+- [Orc Shaman](../../../../Bestiary/orc_shaman_ch51.md) — casts [Frenzy] and buffs/heals allies
+- [Orc Arch Shaman](../../../../Bestiary/orc_arch_shaman_ch457.md) — support caster
+- [Orc Warlord](../../../../Bestiary/orc_warlord_ch51.md) — its magic stones feed the altar
+- [Orc Great Warrior](../../../../Bestiary/orc_great_warrior_ch69.md) — elite
+- [Orc Hero](../../../../Bestiary/orc_hero_ch68.md) — hidden boss, 5th grade: Danish, Belta and Tarugas (Targus)
+- [Orc Lord](../../../../Bestiary/orc_lord_ch69.md) — 2nd grade, rarely appears instead of the heroes; practically undefeatable
+- [Riakis](../../../../Bestiary/riakis_ch65.md) — the Floor Master, fought here during the crisis
+- Riakis clone — miniature clones that swarm during [Crack of Evil]
+- [Chaos Spirit](../../../../Bestiary/chaos_spirit_ch65.md) — spawn while Riakis is active
 
 ## Mechanics
 - Highest monster count on the floor, only rank 8 or higher; groups grow toward the centre (ch. 51).

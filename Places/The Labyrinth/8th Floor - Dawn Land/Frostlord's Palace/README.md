@@ -1,5 +1,7 @@
 # Frostlord's Palace
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [8th Floor - Dawn Land](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -10,7 +12,7 @@
 An 8th-floor rift ruled by the Frostlord, mentioned only in recollections.
 
 ## Monsters
-- [[Frostlord]] — rift guardian; his essence was a farming target.
+- [Frostlord](../../../../Bestiary/frostlord_ch27.md) — rift guardian; his essence was a farming target.
 
 ## Mechanics
 - Reached through a rift on the 8th floor (ch. 27).

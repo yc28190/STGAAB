@@ -1,5 +1,7 @@
 # Demonic Shrine
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Crimson Fortress (Blood Citadel)](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift chapter (underground shrine) |
@@ -10,10 +12,10 @@
 A wide underground stone hall beneath the collapsed lord's castle, used in secret to worship an evil god. Demon sculptures stand everywhere and human skulls carpet the floor. A straight 10 m passage leads to a fork beneath a huge devil statue, and the shrine forms a loop around to the guardian's chamber.
 
 ## Monsters
-- [[Gargoyle Statue]]
-- [[Deathfiend]]
-- [[Chimeric Wolf]]
-- [[Bone Knight]] — comes in one of three random types
+- [Gargoyle Statue](../../../../../Bestiary/gargoyle_ch29.md)
+- [Deathfiend](../../../../../Bestiary/deathfiend_ch23.md)
+- [Chimeric Wolf](../../../../../Bestiary/chimeric_wolf_ch30.md)
+- [Bone Knight](../../../../../Bestiary/gachabon_ch32.md) — comes in one of three random types
 
 ## Mechanics
 - Pressing a stone in the wall lights every candle (ch. 32).
@@ -22,6 +24,9 @@ A wide underground stone hall beneath the collapsed lord's castle, used in secre
 
 ## Notable events
 - ch. 31–32: The party reaches the shrine from the dungeon pipes, takes the Necronomicon and fights a Bone Knight.
+
+## Sub-places
+- [Guardian's Chamber](Guardian's%20Chamber/README.md)
 
 ## Chapters
 29, 31, 32

@@ -1,5 +1,7 @@
 # Baron Martoan's Mansion
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (mansion) |

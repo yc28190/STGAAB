@@ -1,5 +1,7 @@
 # Noark Gate
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (gate) |

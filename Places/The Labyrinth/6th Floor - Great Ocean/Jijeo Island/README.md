@@ -1,5 +1,7 @@
 # Jijeo Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island (hidden) |
@@ -10,7 +12,7 @@
 One of the hidden islands of the Great Ocean, located either under the sea or in the sky.
 
 ## Monsters
-- [[Deep-sea Giant]] — recorded here
+- [Deep-sea Giant](../../../../Bestiary/deep_sea_giant_ch381.md) — recorded here
 
 ## Mechanics
 - A hidden island (ch. 608).

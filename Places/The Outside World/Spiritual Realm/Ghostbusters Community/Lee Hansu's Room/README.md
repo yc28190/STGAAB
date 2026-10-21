@@ -1,5 +1,7 @@
 # Lee Hansu's Room
 
+> **Location** : [Places](../../../../README.md) › [The Outside World](../../../README.md) › [Spiritual Realm](../../README.md) › [Ghostbusters Community](../README.md)
+
 | | |
 |---|---|
 | **Type** | personal room (spiritual space) |

@@ -1,5 +1,7 @@
 # Elfnunalove's Personal Lab
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Magic Tower](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (research lab) |

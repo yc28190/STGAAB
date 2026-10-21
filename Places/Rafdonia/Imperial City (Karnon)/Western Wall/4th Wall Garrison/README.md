@@ -1,5 +1,7 @@
 # 4th Wall Garrison
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Western Wall](../README.md)
+
 | | |
 |---|---|
 | **Type** | military camp |

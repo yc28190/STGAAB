@@ -1,5 +1,7 @@
 # Apocalypse Palace
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Royal Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (central palace) |
@@ -26,6 +28,12 @@ None recorded. (The Guardian Knights are each said to be stronger than a grade 3
 - ch. 723–725: Bjorn spends a week confined here, playing board games and eating somyeon with the king, and questions him about the life-support device and the prison.
 - ch. 765: In the Marquis's diary, the king receives the Marquis in the audience chamber after the royal family discovers his relationship with Mayrin, and offers him the Chancellorship so an insider will keep the royal secret.
 - ch. 771–774, 783: Bjorn delivers the Marquis's corpse to Astarotta here and receives the intelligence casualty list. Ragna (unconscious), Elthora and Harin are held here in semi-detention.
+
+## Sub-places
+- [Life-Support Chamber](Life-Support%20Chamber/README.md)
+- [Palace Prison](Palace%20Prison/README.md)
+- [Ragna's Room](Ragna's%20Room/README.md)
+- [Underground Complex](Underground%20Complex/README.md)
 
 ## Chapters
 719–725, 765, 771–774, 783

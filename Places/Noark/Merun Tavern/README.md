@@ -1,5 +1,7 @@
 # Merun Tavern
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (tavern) |

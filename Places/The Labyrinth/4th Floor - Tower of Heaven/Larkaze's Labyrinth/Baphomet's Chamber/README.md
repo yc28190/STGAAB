@@ -1,5 +1,7 @@
 # Baphomet's Chamber
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [4th Floor - Tower of Heaven](../../README.md) › [Larkaze's Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (mid-boss chamber) |
@@ -10,7 +12,7 @@
 A stone chamber of about 30 m² hidden behind the wall at a dead-end corner of Larkaze's Labyrinth. Torches light one by one as visitors step in, revealing a geometric magic circle covering the floor and a pole topped with a goat's head standing at the centre.
 
 ## Monsters
-- [[Baphomet]] — high-variant mid-boss
+- [Baphomet](../../../../../Bestiary/baphomet_ch135.md) — high-variant mid-boss
 
 ## Mechanics
 - Reached by following the outer wall to the corner (about 12 hours) and pressing a hidden mechanism; Rotmiller found it with his Sixth Sense (ch. 134).

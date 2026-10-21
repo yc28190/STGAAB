@@ -1,5 +1,7 @@
 # Noark Outside Base
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | base |

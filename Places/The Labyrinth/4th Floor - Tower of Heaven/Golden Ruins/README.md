@@ -1,5 +1,7 @@
 # Golden Ruins
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [4th Floor - Tower of Heaven](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -12,10 +14,10 @@ The second rift of the 4th floor, a lower-tier rift famous because "money pours 
 A replica of the rift was later found outside the city walls. There, everything was already open and abandoned: thick dust covered every surface, the golden walls were chipped and broken, and the ceiling light never came on, leaving the halls dark.
 
 ## Monsters
-- [[Makairo]] — hidden mid-boss, grade 4 (found already dead in the replica)
-- [[Kalpion]] — rift guardian, summoned by the side-gate devices
-- [[Snake]] — mid-boss with a lever in its room
-- [[Mummy]] — in the right-wing room
+- [Makairo](../../../../Bestiary/makairo_ch688.md) — hidden mid-boss, grade 4 (found already dead in the replica)
+- [Kalpion](../../../../Bestiary/calphion_ch587.md) — rift guardian, summoned by the side-gate devices
+- Snake — mid-boss with a lever in its room
+- [Mummy](../../../../Bestiary/mummy_ch456.md) — in the right-wing room
 
 ## Mechanics
 - Forest missions reveal the temple; descending the entrance stairs closes the entrance behind you (ch. 687–689).

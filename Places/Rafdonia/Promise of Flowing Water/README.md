@@ -1,5 +1,7 @@
 # Promise of Flowing Water
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (dessert shop) |

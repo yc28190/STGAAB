@@ -1,5 +1,7 @@
 # Tersia Sisters' Lodging
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (lodging) |

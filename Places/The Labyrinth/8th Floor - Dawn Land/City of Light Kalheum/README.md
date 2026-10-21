@@ -1,5 +1,7 @@
 # City of Light Kalheum
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [8th Floor - Dawn Land](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -12,8 +14,8 @@ An 8th-floor rift shaped as a radiant city of light, ringed by an outer wall and
 It is a top-secret rift, known to fewer than 50 people.
 
 ## Monsters
-- [[Mirayel]] — Heavenly Spear Bearer (also Milayel/Maliel); rift guardian in the final boss room; uses Numbers items.
-- [[Guardian Angel]]
+- Mirayel — Heavenly Spear Bearer (also Milayel/Maliel); rift guardian in the final boss room; uses Numbers items.
+- [Guardian Angel](../../../../Bestiary/guardian_angel_ch541.md)
 - Legion of Light spirits — pour in during phase 3.
 
 ## Mechanics

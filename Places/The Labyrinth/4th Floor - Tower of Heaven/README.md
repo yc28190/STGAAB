@@ -1,5 +1,7 @@
 # 4th Floor - Tower of Heaven
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,17 +14,17 @@ A tower of stacked trial stages connected by staircases. Each stage is a stone c
 The floor is an independent instance: once a team's portal changes colour, no one else can follow, which makes it one of the safest floors for resting and a refuge even when war rages on the lower floors. Because every 3rd-floor monster appears here alongside rank 6 monsters and some unique to the tower, Bjorn calls it the "Tower of Training".
 
 ## Monsters
-- [[Mimic]] — can drop an essence; its [Treasure Vault] holds loot
-- [[Vitol]] — tower monster
-- [[Lizardman Scout]] — tower monster
-- [[Dullahan]] — tower monster
-- [[Banshee Queen]] — tower monster
-- [[Ilatrek]] — tower monster
-- [[Drake]] — tower monster
-- [[Living Armor]] — tower monster
-- [[Orc Shaman]] — appears in mixed trial groups
-- [[Stone Golem]] — appears in mixed trial groups
-- [[Troll]] — met on stage 12 and as a portal-room boss; [Frenzy] and [Ultra Regeneration]
+- [Mimic](../../../Bestiary/mimic_ch33.md) — can drop an essence; its [Treasure Vault] holds loot
+- [Vitol](../../../Bestiary/vitol_ch89.md) — tower monster
+- [Lizardman Scout](../../../Bestiary/lizardman_scout_ch89.md) — tower monster
+- [Dullahan](../../../Bestiary/dullahan_ch23.md) — tower monster
+- [Banshee Queen](../../../Bestiary/banshee_ch23.md) — tower monster
+- [Ilatrek](../../../Bestiary/elatrek_ch35.md) — tower monster
+- [Drake](../../../Bestiary/drake_ch89.md) — tower monster
+- [Living Armor](../../../Bestiary/living_armor_ch34.md) — tower monster
+- [Orc Shaman](../../../Bestiary/orc_shaman_ch51.md) — appears in mixed trial groups
+- [Stone Golem](../../../Bestiary/stone_golem_ch25.md) — appears in mixed trial groups
+- [Troll](../../../Bestiary/troll_ch33.md) — met on stage 12 and as a portal-room boss; [Frenzy] and [Ultra Regeneration]
 
 ## Mechanics
 - Reached through the portal at the centre of the 3rd-floor Witch's Forest; each team is taken to its own separate space (ch. 82, 164).
@@ -47,6 +49,12 @@ The floor is an independent instance: once a team's portal changes colour, no on
 - ch. 178–179: On the second run, the party reaches stage 27 on the first day and enters the Doppelganger Forest rift.
 - ch. 263: The party reaches the 5th-floor portal at the start of day 19.
 - ch. 790–792: A rift opens on Day 10; Anabada Team 2 enters the Doppelganger Forest.
+
+## Sub-places
+- [Doppelganger Forest](Doppelganger%20Forest/README.md)
+- [Golden Ruins](Golden%20Ruins/README.md)
+- [Larkaze's Labyrinth](Larkaze's%20Labyrinth/README.md)
+- [Stairs of Patience](Stairs%20of%20Patience/README.md)
 
 ## Chapters
 53, 73, 82, 89, 116–118, 120, 123, 146, 150, 163–166, 173, 178, 179, 208, 214, 246, 257, 263, 398, 423, 790, 792

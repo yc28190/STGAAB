@@ -1,5 +1,7 @@
 # Statue Rift - Rift of Light
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 A cliff with cold air blowing up from a bottomless dark pit. Jumping in drops you into the boss room.
 
 ## Monsters
-- [[Hell Giant Herja]] — guardian with three horns, one eye, a rotten open chest showing its ribs and a long tongue
+- [Hell Giant Herja](../../../../../../Bestiary/herja_ch589.md) — guardian with three horns, one eye, a rotten open chest showing its ribs and a long tongue
 
 ## Mechanics
 - Two-person rift. The jump into the pit deals no fall damage (ch. 589).

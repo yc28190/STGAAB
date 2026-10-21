@@ -1,5 +1,7 @@
 # 3rd Public Transportation Platform
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Southern District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (carriage station) |

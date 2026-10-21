@@ -1,5 +1,7 @@
 # Rafdonia
 
+> **Location** : [Places](../README.md)
+
 | | |
 |---|---|
 | **Type** | city (city-state, royal capital) |
@@ -38,6 +40,67 @@ None recorded.
 - ch. 647–654: The labyrinth is sealed after a royal meeting; prices collapse and protesting explorers are arrested.
 - ch. 661–662: Bjorn sees the city from outside for the first time and learns the witch's-poison story is false; erosion from the gray world is projected to reach the District 10 walls in about 10 years.
 - ch. 774–789: After the war, a large 13th Month festival is held amid a housing crisis; taxes are temporarily waived.
+
+## Sub-places
+- [13th District](13th%20District/README.md)
+- [3rd Magic Corps Office](3rd%20Magic%20Corps%20Office/README.md)
+- [7th District](7th%20District/README.md)
+- [8th District](8th%20District/README.md)
+- [9th District](9th%20District/README.md)
+- [Achievement Office](Achievement%20Office/README.md)
+- [Angry Rhino Inn](Angry%20Rhino%20Inn/README.md)
+- [Ashid's House](Ashid's%20House/README.md)
+- [Back-Alley Bar](Back-Alley%20Bar/README.md)
+- [Barbarian Inn](Barbarian%20Inn/README.md)
+- [Barbarian Sanctuary](Barbarian%20Sanctuary/README.md)
+- [Beastman Sanctuary](Beastman%20Sanctuary/README.md)
+- [Bifron (14th District)](Bifron%20(14th%20District)/README.md)
+- [Black Market](Black%20Market/README.md)
+- [Black Whale Tavern (Pydenpus)](Black%20Whale%20Tavern%20(Pydenpus)/README.md)
+- [Carriage Platform](Carriage%20Platform/README.md)
+- [Central Market](Central%20Market/README.md)
+- [Cheap Restaurant](Cheap%20Restaurant/README.md)
+- [City Outskirts](City%20Outskirts/README.md)
+- [Clothing Store](Clothing%20Store/README.md)
+- [Commelby](Commelby/README.md)
+- [Construction Competition Venue](Construction%20Competition%20Venue/README.md)
+- [Dragon Sanctuary (Dragon Temple)](Dragon%20Sanctuary%20(Dragon%20Temple)/README.md)
+- [Erwen's Inn (Fairy Dormitory)](Erwen's%20Inn%20(Fairy%20Dormitory)/README.md)
+- [Fairy Sanctuary (Barharrium)](Fairy%20Sanctuary%20(Barharrium)/README.md)
+- [Fidefuss (Bar)](Fidefuss%20(Bar)/README.md)
+- [Fountain](Fountain/README.md)
+- [Garlic and Salt Inn](Garlic%20and%20Salt%20Inn/README.md)
+- [Gnometree (6th District)](Gnometree%20(6th%20District)/README.md)
+- [Grand Temple of Leathlas](Grand%20Temple%20of%20Leathlas/README.md)
+- [Heindel Church](Heindel%20Church/README.md)
+- [Hikurod's Meeting Tavern](Hikurod's%20Meeting%20Tavern/README.md)
+- [House Gudriks Estate](House%20Gudriks%20Estate/README.md)
+- [Imperial City (Karnon)](Imperial%20City%20(Karnon)/README.md)
+- [Lee Baekho's House](Lee%20Baekho's%20House/README.md)
+- [Lubat Bakery](Lubat%20Bakery/README.md)
+- [Magic Tower](Magic%20Tower/README.md)
+- [Mariblack Residence](Mariblack%20Residence/README.md)
+- [Morgue 7](Morgue%207/README.md)
+- [Moselan Temporary Shelter](Moselan%20Temporary%20Shelter/README.md)
+- [Nielon Bakery](Nielon%20Bakery/README.md)
+- [Old Pub-Inn](Old%20Pub-Inn/README.md)
+- [Outer Wall](Outer%20Wall/README.md)
+- [Promise of Flowing Water](Promise%20of%20Flowing%20Water/README.md)
+- [Ranumus Bakery](Ranumus%20Bakery/README.md)
+- [Raven's Mother's Room](Raven's%20Mother's%20Room/README.md)
+- [Ravigion](Ravigion/README.md)
+- [Residential District](Residential%20District/README.md)
+- [Rotmiller's Training Center](Rotmiller's%20Training%20Center/README.md)
+- [Royal Library](Royal%20Library/README.md)
+- [Security Department](Security%20Department/README.md)
+- [Sewers](Sewers/README.md)
+- [Shabin Emure's House](Shabin%20Emure's%20House/README.md)
+- [Shelter](Shelter/README.md)
+- [Team Misfits' Bar](Team%20Misfits'%20Bar/README.md)
+- [Tersia Sisters' Lodging](Tersia%20Sisters'%20Lodging/README.md)
+- [Tovera Church](Tovera%20Church/README.md)
+- [Urbanes Residence](Urbanes%20Residence/README.md)
+- [Viscount Bertan's Mansion](Viscount%20Bertan's%20Mansion/README.md)
 
 ## Chapters
 2, 3, 16–22, 40, 43, 47, 51, 71, 72, 75, 76, 81, 145, 146, 154, 166, 173–177, 191–193, 205, 216, 217, 219, 231, 233, 235, 340, 341, 350, 366, 384, 586, 598, 605, 608, 622–626, 630, 633, 645, 647, 651, 658, 661, 662, 774, 781, 782, 789

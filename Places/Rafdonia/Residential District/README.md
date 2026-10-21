@@ -1,5 +1,7 @@
 # Residential District
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |

@@ -1,5 +1,7 @@
 # Steelrock Hill
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,11 +12,11 @@
 A highland area of the 3rd floor whose cliff edge offers a view over the entire floor during the Day 3 light show. It is the first area reached from the Beasts' Lair route and lies uphill from the Orc Colony.
 
 ## Monsters
-- [[Irontro]] — native monster
-- [[Wormstone]] — native monster
-- [[Iron Falcon]] — native monster
-- [[Steel Hill Guard]] — native monster
-- [[Iron Ant]] — native monster
+- [Irontro](../../../../Bestiary/irontro_ch50.md) — native monster
+- [Wormstone](../../../../Bestiary/wormstone_ch51.md) — native monster
+- [Iron Falcon](../../../../Bestiary/iron_falcon_ch51.md) — native monster
+- [Steel Hill Guard](../../../../Bestiary/steel_hill_guard_ch51.md) — native monster
+- [Iron Ant](../../../../Bestiary/iron_ant_ch57.md) — native monster
 
 ## Mechanics
 - The first area reached from the Beasts' Lair portal (ch. 50).

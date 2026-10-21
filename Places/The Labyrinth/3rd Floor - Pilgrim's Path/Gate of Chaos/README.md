@@ -1,5 +1,7 @@
 # Gate of Chaos
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (boss arena) |
@@ -10,7 +12,7 @@
 A hellish space where every tile is permanently corrupted, opened by the Floor Master Riakis during the second phase of his fight. Raiders dragged inside suffer severe mental corruption.
 
 ## Monsters
-- [[Riakis]] — the Chaos Lord, in a strengthened form inside the gate
+- [Riakis](../../../../Bestiary/riakis_ch65.md) — the Chaos Lord, in a strengthened form inside the gate
 
 ## Mechanics
 - When Riakis's HP falls below a threshold in phase 2, he opens the Gate of Chaos and drags everyone in; raiders must hunt down a stronger Riakis amid heavy mental corruption (ch. 460).

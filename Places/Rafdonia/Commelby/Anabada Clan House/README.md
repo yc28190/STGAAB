@@ -1,5 +1,7 @@
 # Anabada Clan House
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Commelby](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (clan house) |

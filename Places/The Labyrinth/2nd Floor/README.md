@@ -1,5 +1,7 @@
 # 2nd Floor
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -18,6 +20,13 @@ None recorded. (See the individual fields.)
 
 ## Notable events
 - ch. 455: The choice of 2nd-floor field is discussed by starting direction.
+
+## Sub-places
+- [Beast's Lair](Beast's%20Lair/README.md)
+- [Blackrock Mountain](Blackrock%20Mountain/README.md)
+- [Goblin Forest](Goblin%20Forest/README.md)
+- [Land of the Dead](Land%20of%20the%20Dead/README.md)
+- [Rocky Desert](Rocky%20Desert/README.md)
 
 ## Chapters
 455

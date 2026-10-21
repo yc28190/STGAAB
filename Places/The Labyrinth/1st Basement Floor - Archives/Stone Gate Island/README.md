@@ -1,5 +1,7 @@
 # Stone Gate Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island (gate) |
@@ -22,6 +24,9 @@ None recorded.
 - ch. 582–583: The expedition finds the gate and enters.
 - ch. 604–605: The expedition returns from the 3rd Archive.
 - ch. 607: The gate sinks after the last person leaves.
+
+## Sub-places
+- [Hall of Guardian Statues](Hall%20of%20Guardian%20Statues/README.md)
 
 ## Chapters
 582, 583, 593, 604, 605, 607, 609, 615

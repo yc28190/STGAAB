@@ -1,5 +1,7 @@
 # High-Class Restaurant
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (restaurant) |

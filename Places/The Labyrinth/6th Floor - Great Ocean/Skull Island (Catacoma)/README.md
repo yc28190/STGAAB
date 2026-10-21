@@ -1,5 +1,7 @@
 # Skull Island (Catacoma)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -12,11 +14,11 @@ An island built entirely of bone. Its ground is littered with shards of human an
 The Great Navigator Pikma called it "either the easiest of all, or the most difficult". Its boss is tied to a special event for those who later reach the 10th floor.
 
 ## Monsters
-- [[Skull Ghost]] — island monster
-- [[Key Keeper]] — rare random mini-boss, officially Grade 4 (about high Grade 5 in strength); drops the cave key
-- [[Skull-head monster]] — common, mostly grades 7–8
-- [[Gravekeeper Alleton]] — recorded
-- [[Skull King]] — recorded
+- [Skull Ghost](../../../../Bestiary/skull_ghost_ch794.md) — island monster
+- [Key Keeper](../../../../Bestiary/key_keeper_ch795.md) — rare random mini-boss, officially Grade 4 (about high Grade 5 in strength); drops the cave key
+- Skull-head monster — common, mostly grades 7–8
+- [Gravekeeper Alleton](../../../../Bestiary/gravekeeper_alleton_ch796.md) — recorded
+- [Skull King](../../../../Bestiary/skull_king_ch795.md) — recorded
 
 ## Mechanics
 - Part of the Grand Rock region; about 9 days' sailing from Laimia without stops (ch. 792–793).
@@ -28,6 +30,11 @@ The Great Navigator Pikma called it "either the easiest of all, or the most diff
 ## Notable events
 - ch. 792–793: The Golden Tree Clan (90 members under Bill Ironred, one of the Seven Rivals) arrives first, plants its flag at the entrance and ambushes Anabada to assert dominance; the two sides agree that whoever first opens the cave door gets the challenge right.
 - ch. 794–795: Avman Urikfrit is revealed to be indebted to and mistreated by Golden Tree; the clan offers 400M stones for first entry, and Bjorn asks for Avman instead and is refused.
+
+## Sub-places
+- [Catacoma Cave](Catacoma%20Cave/README.md)
+- [Central Cave Entrance](Central%20Cave%20Entrance/README.md)
+- [Memory of the End](Memory%20of%20the%20End/README.md)
 
 ## Chapters
 502, 792–799

@@ -1,5 +1,7 @@
 # Beast's Lair
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [2nd Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (canyon) |
@@ -10,13 +12,13 @@
 A canyon of narrow paths winding between high cliffs that tangle into a maze. It reeks of beasts (enough to make Dwalky vomit), the smell clings to visitors, and the entrance is windy. The ground looks flat but is riddled with pits filled in with trash, and visitors leave with its dirt on their shoes. Deeper in, the cliffs turn from reddish brown to black. Most monsters live in caves along the cliffsides.
 
 ## Monsters
-- [[Blade Wolf]], [[Giant Blade Wolf]], [[Blood Blade Wolf]]
-- [[Wall Mole Rat]], [[Wall Mole Queen]] — den with a narrow entrance that makes a good camp
-- [[Sabertooth Tiger]] — 8th grade (also recorded as sabre tiger)
-- [[Werewolf]]
-- [[Vulkar]]
-- [[Half-moon Rock Bear]]
-- [[Wormstone]] — 8th grade
+- [Blade Wolf](../../../../Bestiary/blade_wolf_ch11.md), [Giant Blade Wolf](../../../../Bestiary/giant_blade_wolf_ch50.md), [Blood Blade Wolf](../../../../Bestiary/blood_blade_wolf_ch50.md)
+- [Wall Mole Rat](../../../../Bestiary/wall_mole_rat_ch50.md), [Wall Mole Queen](../../../../Bestiary/wall_mole_queen_ch50.md) — den with a narrow entrance that makes a good camp
+- [Sabertooth Tiger](../../../../Bestiary/sabertooth_tiger_ch103.md) — 8th grade (also recorded as sabre tiger)
+- [Werewolf](../../../../Bestiary/werewolf_ch50.md)
+- [Vulkar](../../../../Bestiary/vulkar_ch50.md)
+- [Half-moon Rock Bear](../../../../Bestiary/half_moon_rock_bear_ch50.md)
+- [Wormstone](../../../../Bestiary/wormstone_ch51.md) — 8th grade
 
 ## Mechanics
 - Reached through the portal in the 1st floor's eastern (blade wolf) district (ch. 50, 222).

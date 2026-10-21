@@ -1,5 +1,7 @@
 # Ghost Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -10,7 +12,7 @@
 An island of the Great Ocean whose surrounding waters are haunted by ghost ships. It lies off the route to the 7th floor.
 
 ## Monsters
-- [[Ghost Ship]] — roam its waters
+- [Ghost Ship](../../../../Bestiary/ghost_ship_ch799.md) — roam its waters
 
 ## Mechanics
 - Ghost ships roam the surrounding waters (ch. 799).

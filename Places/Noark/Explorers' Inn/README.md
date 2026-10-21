@@ -1,5 +1,7 @@
 # Explorers' Inn
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

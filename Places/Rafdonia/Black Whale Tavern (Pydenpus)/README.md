@@ -1,5 +1,7 @@
 # Black Whale Tavern (Pydenpus)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (tavern) |

@@ -1,5 +1,7 @@
 # Coastal Cave
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Gray Sea (Ashen Boundary)](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave |

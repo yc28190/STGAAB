@@ -1,5 +1,7 @@
 # Gnometree (6th District)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (agricultural) |
@@ -27,6 +29,9 @@ None recorded.
 - ch. 640: Dwarves buy land here to expand their forges.
 - ch. 666: Bjorn's second meeting with Ibaekho takes place here.
 - ch. 775: The royal family considers temporarily opening the district to displaced residents.
+
+## Sub-places
+- [Kiarbys](Kiarbys/README.md)
 
 ## Chapters
 192, 202, 245, 249–252, 265, 640, 642, 666, 772, 774–776

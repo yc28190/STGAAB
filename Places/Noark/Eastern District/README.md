@@ -1,5 +1,7 @@
 # Eastern District
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |

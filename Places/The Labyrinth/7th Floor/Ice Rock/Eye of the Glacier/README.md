@@ -1,5 +1,7 @@
 # Eye of the Glacier
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Ice Rock](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (sinkhole) |
@@ -12,14 +14,14 @@ A giant sinkhole at the end of the ice-cave maze: a deep cylindrical chasm that 
 It is the final gateway from Ice Rock to the 8th floor, and a notorious "tank's graveyard".
 
 ## Monsters
-- [[Gargoyle]]
-- [[Death Knight]] — ride gargoyles and carry spears.
-- [[Banshee Queen]]
-- [[Ghost Horse]]
-- [[White Wyvern]]
-- [[Blue Flame Bird]]
+- [Gargoyle](../../../../../Bestiary/gargoyle_ch29.md)
+- [Death Knight](../../../../../Bestiary/death_knight_ch32.md) — ride gargoyles and carry spears.
+- [Banshee Queen](../../../../../Bestiary/banshee_ch23.md)
+- [Ghost Horse](../../../../../Bestiary/ghost_horse_ch404.md)
+- [White Wyvern](../../../../../Bestiary/white_wyvern_ch404.md)
+- [Blue Flame Bird](../../../../../Bestiary/blue_flame_bird_ch404.md)
 - Spectral undead
-- During the boss event: skeleton army, giant skeletons, Banshees and [[Glacier Witch Kariadaea]] (see Glacier Witch's Lair).
+- During the boss event: skeleton army, giant skeletons, Banshees and Glacier Witch Kariadaea (see Glacier Witch's Lair).
 
 ## Mechanics
 - Field effect "Eye of the Glacier": [Whisper of Immortality] raises the dead as undead that attack their former allies; [Opportunity Denied] removes the death countdown ("golden time"); all healing and regeneration are reversed, so wounds fester and faster regeneration means faster rot (ch. 404, 415).
@@ -37,6 +39,9 @@ It is the final gateway from Ice Rock to the 8th floor, and a notorious "tank's 
 - ch. 417–419: They throw sleds, food, heating stones and armor over the cliff to outrun pursuers, cauterize wounds and amputate limbs.
 - ch. 420–422: Bjorn holds the top boundary against Vagos and Repeles; the Rose Knights strike from the rear.
 - ch. 430: The valuables buried inside are lost to the Elder Lich.
+
+## Sub-places
+- [Glacier Witch's Lair](Glacier%20Witch's%20Lair/README.md)
 
 ## Chapters
 401–406, 414–423, 430

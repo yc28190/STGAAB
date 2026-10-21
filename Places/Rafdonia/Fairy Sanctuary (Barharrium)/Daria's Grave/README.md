@@ -1,5 +1,7 @@
 # Daria's Grave
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Fairy Sanctuary (Barharrium)](../README.md)
+
 | | |
 |---|---|
 | **Type** | grave |

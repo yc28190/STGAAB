@@ -1,5 +1,7 @@
 # Lee Baekho's House
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (house) |

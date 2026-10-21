@@ -1,5 +1,7 @@
 # Dreadfear Summoning Ground
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | raid arena |
@@ -10,8 +12,8 @@
 When the Lord of Terror spawns, the cave walls shake, dead crystals flare crimson, the air turns cold and the darkness is bathed in red light, with vision shrinking to 2 m. Dreadfear himself is a humanoid about 5'4" tall, crawling with maggots, carrying a bone greatsword and stepping with wet squelches.
 
 ## Monsters
-- [[Dreadfear]] — Lord of Terror, Floor Lord
-- [[Giant Maggot]] — head-sized tokens
+- [Dreadfear](../../../../Bestiary/dreadfear_ch212.md) — Lord of Terror, Floor Lord
+- [Giant Maggot](../../../../Bestiary/giant_maggot_ch480.md) — head-sized tokens
 - Smoke ghosts
 
 ## Mechanics

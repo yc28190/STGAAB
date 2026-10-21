@@ -1,5 +1,7 @@
 # Fortified Woods
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Fairy Sanctuary (Barharrium)](../README.md)
+
 | | |
 |---|---|
 | **Type** | forest (fortification) |
@@ -17,6 +19,9 @@ None recorded.
 
 ## Notable events
 - ch. 778: Elwen takes Bjorn through the woods to her family home.
+
+## Sub-places
+- [Tersia Family House](Tersia%20Family%20House/README.md)
 
 ## Chapters
 778

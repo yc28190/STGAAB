@@ -1,5 +1,7 @@
 # Tol-Lafupa Waters
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Sea of Records (Silver Sea)](../README.md)
+
 | | |
 |---|---|
 | **Type** | sea area |
@@ -10,7 +12,7 @@
 A stretch of the silver sea where an island-sized monster drifts, easy to mistake for land.
 
 ## Monsters
-- [[Tol-Lafupa]] — grade 1 monster normally found only in 10th-floor hidden fields: giant black shell, long neck, dragon-like head and long whiskers; not hostile
+- [Tol-Lafupa](../../../../../Bestiary/tol_lapufa_ch508.md) — grade 1 monster normally found only in 10th-floor hidden fields: giant black shell, long neck, dragon-like head and long whiskers; not hostile
 
 ## Mechanics
 - The Tol-Lafupa does not attack, but it can easily be mistaken for an island (ch. 508).

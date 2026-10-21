@@ -1,5 +1,7 @@
 # Back Alleys
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (alleys) |

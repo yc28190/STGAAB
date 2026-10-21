@@ -1,5 +1,7 @@
 # Old Pub-Inn
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

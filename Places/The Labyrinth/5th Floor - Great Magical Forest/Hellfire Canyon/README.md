@@ -1,5 +1,7 @@
 # Hellfire Canyon
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [5th Floor - Great Magical Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (special area) |
@@ -12,13 +14,13 @@ A fire-themed canyon field. Paths about 10 m wide, like suspension bridges, slop
 It was Team Apple Nark's hunting ground for six months, prized for the rare Millarodden whose mirror opens the hidden Mirror of Fire.
 
 ## Monsters
-- [[Ifrit]] — incorporeal, immune to physical damage; appears from a pillar of fire and falling embers
-- [[Hell Hound]] — canyon monster
-- [[Millarodden]] — 7th-grade rare squirrel the size of a child with a mirror on its back and permanent stealth
-- [[Stoneburn]] — canyon monster
-- [[Fire Wraith]] — canyon monster
-- [[Red Mud]] — canyon monster
-- [[Hellflame]] — canyon monster
+- [Ifrit](../../../../Bestiary/ifrit_ch136.md) — incorporeal, immune to physical damage; appears from a pillar of fire and falling embers
+- [Hell Hound](../../../../Bestiary/hell_hound_ch168.md) — canyon monster
+- [Millarodden](../../../../Bestiary/millarodden_ch168.md) — 7th-grade rare squirrel the size of a child with a mirror on its back and permanent stealth
+- [Stoneburn](../../../../Bestiary/stoneburn_ch191.md) — canyon monster
+- [Fire Wraith](../../../../Bestiary/fire_wraith_ch191.md) — canyon monster
+- [Red Mud](../../../../Bestiary/red_mud_ch191.md) — canyon monster
+- [Hellflame](../../../../Bestiary/hellflame_ch191.md) — canyon monster
 
 ## Mechanics
 - Field effect "Hellfire Canyon" applies [Embers Mark]: every resource cost (Soul Power, mana, divine power, stamina) is 1.5×, and Fire Resistance −30; Raven's [Cold Blood] counters it (ch. 166).
@@ -32,6 +34,9 @@ It was Team Apple Nark's hunting ground for six months, prized for the rare Mill
 - ch. 168: The first Millarodden's mirror opens the Mirror of Fire.
 - ch. 191: Three Millarodden are caught, but all three Distortions fail.
 - ch. 205: After six months here and three mirror-world runs, Bjorn moves the team on to the Frost Canyon.
+
+## Sub-places
+- [Mirror of Fire](Mirror%20of%20Fire/README.md)
 
 ## Chapters
 166–168, 191, 205, 214, 264, 790

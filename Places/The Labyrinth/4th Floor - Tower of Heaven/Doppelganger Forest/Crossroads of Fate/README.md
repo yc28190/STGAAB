@@ -1,5 +1,7 @@
 # Crossroads of Fate
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [4th Floor - Tower of Heaven](../../README.md) › [Doppelganger Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (ability-made duel space) |

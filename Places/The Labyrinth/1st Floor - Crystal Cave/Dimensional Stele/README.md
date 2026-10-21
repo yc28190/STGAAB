@@ -1,5 +1,7 @@
 # Dimensional Stele
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | landmark (stele / gate) |

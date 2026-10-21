@@ -1,5 +1,7 @@
 # Aribeona River Mouth
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (river mouth) |

@@ -1,5 +1,7 @@
 # Corpse Golem Chamber
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Floor - Crystal Cave](../../../README.md) › [Crimson Fortress (Blood Citadel)](../../README.md) › [Citadel Dungeon](../README.md)
+
 | | |
 |---|---|
 | **Type** | boss room (mid-boss) |
@@ -10,7 +12,7 @@
 Behind an iron door opened by turning a round valve lies a cylindrical room like a sewage plant. Large pipes run along the walls, filth drips everywhere and mountains of severed limbs and heads cover the floor, which squelches like a sponge. The stench makes people vomit.
 
 ## Monsters
-- [[Corpse Golem]] — mid-boss; grade 7 rare species found only in the Blood Citadel
+- [Corpse Golem](../../../../../../Bestiary/corpse_golem_ch30.md) — mid-boss; grade 7 rare species found only in the Blood Citadel
 
 ## Mechanics
 - The Corpse Golem is a mass of thousands of body parts with hundreds of talking mouths. It throws exploding, acid-laced corpse bombs at distant targets and drags nearby ones in with its arms (ch. 30–31).

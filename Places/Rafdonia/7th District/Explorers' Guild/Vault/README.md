@@ -1,5 +1,7 @@
 # Vault
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [7th District](../../README.md) › [Explorers' Guild](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (vault) |

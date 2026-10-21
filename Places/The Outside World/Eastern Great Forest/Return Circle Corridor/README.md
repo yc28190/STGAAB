@@ -1,5 +1,7 @@
 # Return Circle Corridor
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Eastern Great Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | underground passage |

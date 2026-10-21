@@ -1,5 +1,7 @@
 # Forest Path
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | path / forest |

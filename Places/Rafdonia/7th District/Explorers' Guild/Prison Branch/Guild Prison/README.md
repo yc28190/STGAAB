@@ -1,5 +1,7 @@
 # Guild Prison
 
+> **Location** : [Places](../../../../../README.md) › [Rafdonia](../../../../README.md) › [7th District](../../../README.md) › [Explorers' Guild](../../README.md) › [Prison Branch](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground prison) |

@@ -1,5 +1,7 @@
 # Inkharun
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (historical state) |

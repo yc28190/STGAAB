@@ -1,5 +1,7 @@
 # Dark Outer Zone
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (outer dark zone) |
@@ -10,9 +12,9 @@
 The darkest, outermost ring of the Crystal Cave: pitch-black passages with no crystals, where nothing is visible without a torch or fire spirit. The monoliths and portals to the 2nd floor, including the one to the Goblin Forest, stand here. Bjorn's trail of blood, bread crumbs and a dropped sandal from his first day remained in these tunnels.
 
 ## Monsters
-- [[Goblin]] — set paralytic traps here
-- [[Abyssal Goblin]] — invisible traps during the Abyssal Fog
-- [[Verzak]] — Lord of the Abyss, roams here when summoned
+- [Goblin](../../../../Bestiary/goblin_ch4.md) — set paralytic traps here
+- [Abyssal Goblin](../../../../Bestiary/abyssal_goblin_ch222.md) — invisible traps during the Abyssal Fog
+- [Verzak](../../../../Bestiary/verzak_ch219.md) — Lord of the Abyss, roams here when summoned
 
 ## Mechanics
 - Entering the labyrinth during dimensional instability (just as the portal closes) drops a person here next to a 2nd-floor portal monolith (about 10 m from Bjorn's first start). Books say this happens once a century; Bjorn thinks it is far more common and the victims simply die (ch. 5, 12, 19, 22).

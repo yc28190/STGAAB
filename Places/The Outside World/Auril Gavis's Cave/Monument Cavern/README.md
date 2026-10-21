@@ -1,5 +1,7 @@
 # Monument Cavern
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Auril Gavis's Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | cavern (portal hub) |

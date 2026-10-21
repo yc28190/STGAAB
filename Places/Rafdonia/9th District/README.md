@@ -1,5 +1,7 @@
 # 9th District
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -10,9 +12,9 @@
 A district on the eastern side of Rafdonia, surrounded by high fortress walls with a gate wide enough for a carriage and alarm bells that ring along the walls during an attack. Beyond neighboring District 10 lies a cliff at the edge of the continent and, past it, the gray sea; the fairies' holy land lies outside District 9's wall.
 
 ## Monsters
-- [[Corpse army]] — the Corpse Collector's horde that broke the barricade during the war
-- [[Corpse golem]] — fragments used in the assault
-- [[Chimera]] — the Corpse Collector's mount
+- Corpse army — the Corpse Collector's horde that broke the barricade during the war
+- [Corpse golem](../../../Bestiary/corpse_golem_ch30.md) — fragments used in the assault
+- [Chimera](../../../Bestiary/chimera_ch726.md) — the Corpse Collector's mount
 
 ## Mechanics
 - Reached by military platform; it was the planned detour to the Sanctuary, avoiding District 5's border with District 4 (ch. 726).
@@ -24,6 +26,10 @@ A district on the eastern side of Rafdonia, surrounded by high fortress walls wi
 - ch. 661–662: Bjorn and the GM walk along the outer wall at night and reach Districts 9 and 10 before dawn.
 - ch. 726–727: Noark attacks to draw attention from District 5: the gate is opened from inside, exploding poisoned corpses are thrown over the walls, a meteor hits the soldiers and a corpse horde breaks the barricade. The Corpse Collector declares the district under Orculus control, then flees from Bjorn, who captures the Witch of Screams, Liranne Vivian.
 - ch. 781: Having escaped the war, it is the next-closest housing to the Sanctuary, at five times normal rent.
+
+## Sub-places
+- [Arangje Art Museum](Arangje%20Art%20Museum/README.md)
+- [Skewer Shop](Skewer%20Shop/README.md)
 
 ## Chapters
 482, 661, 662, 726–729, 781

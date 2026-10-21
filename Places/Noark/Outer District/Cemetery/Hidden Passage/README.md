@@ -1,5 +1,7 @@
 # Hidden Passage
 
+> **Location** : [Places](../../../../README.md) › [Noark](../../../README.md) › [Outer District](../../README.md) › [Cemetery](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (secret passage) |

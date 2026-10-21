@@ -1,5 +1,7 @@
 # Ranumus Bakery
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (bakery) |

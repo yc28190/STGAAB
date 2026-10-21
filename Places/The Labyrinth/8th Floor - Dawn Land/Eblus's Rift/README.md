@@ -1,5 +1,7 @@
 # Eblus's Rift
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [8th Floor - Dawn Land](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -10,7 +12,7 @@
 One of the 8th-floor rifts, guarded by Eblus. Like the other 8th-floor rifts, it is a farming ground for grade 2 guardian essences and Numbers items.
 
 ## Monsters
-- [[Eblus]] — grade 2 rift guardian.
+- [Eblus](../../../../Bestiary/eblus_ch327.md) — grade 2 rift guardian.
 
 ## Mechanics
 - Eblus's essence gives [Heretic Altar], a revival device: the holder respawns at the altar when they die; there is only one altar and it breaks after 3 uses (ch. 562).

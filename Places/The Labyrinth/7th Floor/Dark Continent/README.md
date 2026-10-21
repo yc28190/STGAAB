@@ -1,5 +1,7 @@
 # Dark Continent
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [7th Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (continent) |
@@ -12,11 +14,11 @@ A lightless continent wrapped in black fog, with deep mountainous interiors. The
 The main region of the 7th floor and the theater of the war between Noark and the royal army. Noark held more than half of it for years. Its terrain closely matches the real continent outside the city walls.
 
 ## Monsters
-- [[Devil Wolf]] — 5th-grade pack beast.
-- [[Bellarios]] — found in the Dragon Mountains region.
-- [[Vaiterion]] — inhabitant of the continent.
-- [[Bayon]] — main habitat is the Land of Immortality.
-- [[Deadred]] — Lord of Darkness, one of the two floor lords; essence gives [Star's Extinction].
+- [Devil Wolf](../../../../Bestiary/devil_wolf_ch340.md) — 5th-grade pack beast.
+- [Bellarios](../../../../Bestiary/bellarios_ch242.md) — found in the Dragon Mountains region.
+- [Vaiterion](../../../../Bestiary/vaiterion_ch666.md) — inhabitant of the continent.
+- [Bayon](../../../../Bestiary/bayon_ch556.md) — main habitat is the Land of Immortality.
+- [Deadred](../../../../Bestiary/deadred_ch235.md) — Lord of Darkness, one of the two floor lords; essence gives [Star's Extinction].
 
 ## Mechanics
 - Fleets land under a royal defensive barrier costing tens of millions of stones per minute while Noark shells them with magic cannons from the cliffs (ch. 352).
@@ -34,6 +36,19 @@ The main region of the 7th floor and the theater of the war between Noark and th
 - ch. 352–366: The war fleet lands and the 3rd Corps base at the Blood-Red Lake is attacked.
 - ch. 406–413: The expedition crosses from the rear; the royal and Noark main forces clash at the Dragon's Mountain Range; Lee Baekho's group chooses not to chase them.
 - ch. 658–672: Clown and Ibaekho's materials confirm the continent mirrors real land outside the walls.
+
+## Sub-places
+- [Aribeona River Mouth](Aribeona%20River%20Mouth/README.md)
+- [Blood-Red Lake (3rd Corps Base)](Blood-Red%20Lake%20(3rd%20Corps%20Base)/README.md)
+- [Dragon's Lair](Dragon's%20Lair/README.md)
+- [Dragon's Mountain Range](Dragon's%20Mountain%20Range/README.md)
+- [Ghostly Canyon](Ghostly%20Canyon/README.md)
+- [Gray Plains](Gray%20Plains/README.md)
+- [Great Forest](Great%20Forest/README.md)
+- [Ironfalls](Ironfalls/README.md)
+- [Land of Immortality](Land%20of%20Immortality/README.md)
+- [Pantelion Ruins](Pantelion%20Ruins/README.md)
+- [River of Souls](River%20of%20Souls/README.md)
 
 ## Chapters
 338, 340, 342–343, 350, 352–353, 364–366, 368, 370, 398, 406–407, 409–411, 413, 420, 511, 546, 561, 585, 610–611, 620, 627, 642, 656, 658, 661, 665–667, 671–672

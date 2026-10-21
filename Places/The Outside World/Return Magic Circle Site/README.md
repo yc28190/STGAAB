@@ -1,5 +1,7 @@
 # Return Magic Circle Site
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave and camp (portal site) |
@@ -12,7 +14,7 @@ The outside end of the magic circle linking back to the city, set inside a cave 
 It is also where the outside world's most terrifying monster eventually arrives: before it came, the wind turned fierce, the sky darkened and huge, apocalyptic storm clouds gathered.
 
 ## Monsters
-- [[The Reaper]] — the outside world's "truly terrifying monster": shackled feet scraping the ground, countless blinking eyeballs, souls writhing in pain around every step.
+- [The Reaper](../../../Bestiary/reaper_ch665.md) — the outside world's "truly terrifying monster": shackled feet scraping the ground, countless blinking eyeballs, souls writhing in pain around every step.
 
 ## Mechanics
 - Someone destroyed the circle and killed himself, so returning to the city was impossible (natural recovery estimated at a year); leaving the city still worked (ch. 691, 702).

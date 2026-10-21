@@ -1,5 +1,7 @@
 # Nameless Pilgrim's Chamber
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Floor - Crystal Cave](../../../../README.md) › [Central Dark Zone](../../../README.md) › [Great Sage Monument](../../README.md) › [Pilgrim's Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (final chamber) |
@@ -10,7 +12,7 @@
 After the Pilgrim's Cave collapses there is only a dark void. Then dozens of torches flare up on the walls of a cave, lighting a stone altar with a book resting on it.
 
 ## Monsters
-- [[Nameless Pilgrim]] — the original Dreadfear, who seems to have a will of his own
+- [Nameless Pilgrim](../../../../../../../Bestiary/nameless_pilgrim_ch489.md) — the original Dreadfear, who seems to have a will of his own
 
 ## Mechanics
 - Reading the ancient-language book plays the pilgrim's memory and permanently grants reading and writing of the ancient language; the book then burns to ash (ch. 489).

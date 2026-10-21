@@ -1,5 +1,7 @@
 # Gray Sea (Ashen Boundary)
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (boundary zone) |
@@ -24,6 +26,9 @@ None recorded.
 - ch. 661–662: Bjorn and the GM see the gray sea; the GM remarks that the world has never really been whole.
 - ch. 665: Ibaekho says it is not that dangerous.
 - ch. 691: Ibaekho goes outside to test whether it is spreading and marks several spots.
+
+## Sub-places
+- [Coastal Cave](Coastal%20Cave/README.md)
 
 ## Chapters
 661–662, 665, 671–672, 674, 691, 695

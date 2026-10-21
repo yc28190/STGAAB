@@ -1,5 +1,7 @@
 # Vessel of Punishment
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [7th Floor](../../../../README.md) › [Ice Rock](../../../README.md) › [Eye of the Glacier](../../README.md) › [Glacier Witch's Lair](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (illusion) |

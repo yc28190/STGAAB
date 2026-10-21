@@ -1,5 +1,7 @@
 # Bottomless Pit of Solitude
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Floor - Crystal Cave](../../../README.md) › [Central Dark Zone](../../README.md) › [Great Sage Monument](../README.md)
+
 | | |
 |---|---|
 | **Type** | special field (raid phase) |
@@ -10,7 +12,7 @@
 A sealed room in total darkness: the usual special field for the fourth phase of a small-party Dreadfear raid. Bjorn knew it from the game, but his party never reached it because the Pilgrim's Cave hidden piece triggered instead.
 
 ## Monsters
-- [[Dreadfear]] — larger form, no longer constrained by the cave
+- [Dreadfear](../../../../../../Bestiary/dreadfear_ch212.md) — larger form, no longer constrained by the cave
 - Token monsters — spawn in swarms
 
 ## Mechanics

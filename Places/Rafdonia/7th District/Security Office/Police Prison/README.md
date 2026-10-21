@@ -1,5 +1,7 @@
 # Police Prison
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [7th District](../../README.md) › [Security Office](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground prison) |

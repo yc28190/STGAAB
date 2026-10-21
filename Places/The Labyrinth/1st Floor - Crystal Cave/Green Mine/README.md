@@ -1,5 +1,7 @@
 # Green Mine
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (1st-floor rift) |
@@ -10,13 +12,13 @@
 A mine cave whose ceiling has collapsed at the start, lit only by the arrival portal, and creepier than it was in the game. Rail tracks run along the floor among scattered wooden debris, past a broken bridge over a cliff, side passages, mineral deposits and a spiral staircase down the cliff edge. It ends at a collapsed tunnel that opens into a vast chamber about 50 m in radius, where green slime writhes.
 
 ## Monsters
-- [[Goblin Miner]] — 8th grade, miner's helmet and pickaxe; gives EXP only in 1st-floor rifts
-- [[Hobgoblin Miner]]
-- [[Mineral Slime]]
-- [[Copper Golem]]
-- [[Goblin Bomber]] — chapter 2 mid-boss
-- [[King Slime]] — guardian ("the Green King")
-- [[Slime]] — spawned during the boss fight
+- [Goblin Miner](../../../../Bestiary/goblin_miner_ch374.md) — 8th grade, miner's helmet and pickaxe; gives EXP only in 1st-floor rifts
+- [Hobgoblin Miner](../../../../Bestiary/hobgoblin_miner_ch374.md)
+- [Mineral Slime](../../../../Bestiary/mineral_slime_ch374.md)
+- [Copper Golem](../../../../Bestiary/copper_golem_ch374.md)
+- [Goblin Bomber](../../../../Bestiary/goblin_bomber_ch374.md) — chapter 2 mid-boss
+- [King Slime](../../../../Bestiary/king_slime_ch374.md) — guardian ("the Green King")
+- [Slime](../../../../Bestiary/slime_ch374.md) — spawned during the boss fight
 
 ## Mechanics
 - One of the four 1st-floor rifts; progress by following the tracks through 4 chapters (ch. 374).

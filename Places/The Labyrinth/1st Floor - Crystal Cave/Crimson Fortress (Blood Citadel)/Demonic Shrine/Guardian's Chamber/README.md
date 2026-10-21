@@ -1,5 +1,7 @@
 # Guardian's Chamber
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Floor - Crystal Cave](../../../README.md) › [Crimson Fortress (Blood Citadel)](../../README.md) › [Demonic Shrine](../README.md)
+
 | | |
 |---|---|
 | **Type** | boss room |
@@ -10,8 +12,8 @@
 A large stone room behind a door at the end of the Demonic Shrine. A hooded figure sits waiting in the darkness at its centre.
 
 ## Monsters
-- [[Death Knight]] — normal guardian
-- [[Cambormier]] — Vampire Duke (written Cambormere here), level 5 named "high variant" special guardian
+- [Death Knight](../../../../../../Bestiary/death_knight_ch32.md) — normal guardian
+- [Cambormier](../../../../../../Bestiary/cambormere_ch32.md) — Vampire Duke (written Cambormere here), level 5 named "high variant" special guardian
 
 ## Mechanics
 - If the door's knob is an unusual colour, opening it shakes the floor and awakens the Vampire Duke instead of the Death Knight (ch. 33).

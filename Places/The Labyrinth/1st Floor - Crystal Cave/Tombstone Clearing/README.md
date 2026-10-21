@@ -1,5 +1,7 @@
 # Tombstone Clearing
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | clearing (rift altar) |

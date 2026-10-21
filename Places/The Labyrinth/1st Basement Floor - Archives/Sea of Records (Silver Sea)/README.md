@@ -1,5 +1,7 @@
 # Sea of Records (Silver Sea)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | sea (field) |
@@ -12,11 +14,11 @@ A sea of silver waves that roll like mercury under a dark sky, connecting every 
 The sea seems to collect what has been lost in the labyrinth (Hans A's family portrait turned up here), and much of the furniture probably comes from ancient 6th-floor ships. Its name comes from the Tentakulan's habitat entry in the Archives books.
 
 ## Monsters
-- [[McGuffin]] — common on the route from Rock Island to Library Island
-- [[Tentakulan]] — found on the way to the Human Island
-- [[Hippermachant]] — groups around the giants' island; grabs ships from below (also written Hipramagent)
-- [[Tol-Lafupa]] — island-sized grade 1 monster, not hostile
-- [[Mobilaus]] — grade 2 sea monster
+- [McGuffin](../../../../Bestiary/mcguffin_ch509.md) — common on the route from Rock Island to Library Island
+- [Tentakulan](../../../../Bestiary/tentakulan_ch511.md) — found on the way to the Human Island
+- [Hippermachant](../../../../Bestiary/hiphramagent_ch517.md) — groups around the giants' island; grabs ships from below (also written Hipramagent)
+- [Tol-Lafupa](../../../../Bestiary/tol_lapufa_ch508.md) — island-sized grade 1 monster, not hostile
+- [Mobilaus](../../../../Bestiary/mobilaus_ch561.md) — grade 2 sea monster
 - Unnamed new monster — grotesque wings, slime-like body and bizarre limbs; wiped out the Silver Lion Clan and smashed their ship (ch. 543)
 
 ## Mechanics
@@ -30,6 +32,10 @@ The sea seems to collect what has been lost in the labyrinth (Hans A's family po
 - ch. 523–524: The crossing through Hippermachant waters.
 - ch. 537: A funeral is held at sea for Shellianne.
 - ch. 543: A new winged monster destroys the Silver Lion Clan and their ship.
+
+## Sub-places
+- [Hippermachant Waters](Hippermachant%20Waters/README.md)
+- [Tol-Lafupa Waters](Tol-Lafupa%20Waters/README.md)
 
 ## Chapters
 508–512, 523, 524, 537, 538, 543, 561

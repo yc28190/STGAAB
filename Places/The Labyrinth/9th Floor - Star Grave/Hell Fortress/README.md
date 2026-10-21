@@ -1,5 +1,7 @@
 # Hell Fortress
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [9th Floor - Star Grave](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -10,7 +12,7 @@
 A 9th-floor rift guarded by Taurobrude. Mentioned only in passing.
 
 ## Monsters
-- [[Taurobrude]] — rift guardian; drops a guardian-only essence.
+- [Taurobrude](../../../../Bestiary/taurobrude_ch761.md) — rift guardian; drops a guardian-only essence.
 
 ## Mechanics
 - Taurobrude's essence is available only from the guardian, like the Doppelganger's (ch. 761).

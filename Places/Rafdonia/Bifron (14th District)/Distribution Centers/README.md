@@ -1,5 +1,7 @@
 # Distribution Centers
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Bifron (14th District)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (food distribution) |

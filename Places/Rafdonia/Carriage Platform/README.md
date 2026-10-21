@@ -1,5 +1,7 @@
 # Carriage Platform
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | transport station |

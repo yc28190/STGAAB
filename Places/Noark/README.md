@@ -1,5 +1,7 @@
 # Noark
 
+> **Location** : [Places](../README.md)
+
 | | |
 |---|---|
 | **Type** | city (underground fortress city) |
@@ -39,6 +41,23 @@ None recorded.
 - ch. 573, 623: The Noark faction settles beyond the walls and later returns to invade Rafdonia.
 - ch. 658–659: Bjorn's group returns to the abandoned city through the sewers, accompanied by former gatekeeper Rek Aures.
 - ch. 767–773: The Lord of Noark leads forces on the surface; after losing the Marquis, Urae and District 4, Noark withdraws into a forced truce.
+
+## Sub-places
+- [Amelia's House](Amelia's%20House/README.md)
+- [Back Alleys](Back%20Alleys/README.md)
+- [Castle Walls](Castle%20Walls/README.md)
+- [Eastern District](Eastern%20District/README.md)
+- [Entrance Maze](Entrance%20Maze/README.md)
+- [Explorers' Inn](Explorers'%20Inn/README.md)
+- [Lord's Castle](Lord's%20Castle/README.md)
+- [Magic Stone Exchange](Magic%20Stone%20Exchange/README.md)
+- [Melta Trading Company](Melta%20Trading%20Company/README.md)
+- [Merun Tavern](Merun%20Tavern/README.md)
+- [Noark Gate](Noark%20Gate/README.md)
+- [Noark Inn](Noark%20Inn/README.md)
+- [Noark Plaza](Noark%20Plaza/README.md)
+- [Outer District](Outer%20District/README.md)
+- [Western District](Western%20District/README.md)
 
 ## Chapters
 81–84, 145, 146, 148, 156, 157, 166, 173, 175–177, 182, 194, 198–200, 205, 213, 222, 231, 235, 237–239, 246, 247, 252, 256, 262, 285, 288, 292–298, 302–306, 312, 313, 315–318, 320, 322, 324, 329, 336–340, 385, 386, 390, 396, 491, 502, 505, 531, 544, 552, 573, 576, 587, 589, 597, 623, 624, 627, 642, 645, 656, 658–660, 732, 770, 772, 773, 777, 786

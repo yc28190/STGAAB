@@ -1,5 +1,7 @@
 # Thornreed Field
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [3rd Floor - Pilgrim's Path](../../README.md) › [Witch's Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,7 +12,7 @@
 A flat, open stretch of tall thornreeds covering part of the western side of the Witch's Forest. The reeds are thick enough to hide entire teams of ambushers, while the ground beneath has no other obstacles. Teams pass through it on the way to the Witch's Forest.
 
 ## Monsters
-- [[Riakis]] — lured here by decoy teams as a raid site
+- [Riakis](../../../../../Bestiary/riakis_ch65.md) — lured here by decoy teams as a raid site
 
 ## Mechanics
 - About 4 days from the labyrinth entrance via the 2nd-floor Rocky Desert, the Pilgrim's Path and the Twilight Slope (ch. 313).

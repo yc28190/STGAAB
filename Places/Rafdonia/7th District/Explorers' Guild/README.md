@@ -1,5 +1,7 @@
 # Explorers' Guild
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (guild headquarters / organization) |
@@ -38,6 +40,13 @@ None recorded.
 - ch. 373: Amelia blackmails a corrupt executive into erasing Lihen Schuitz's records.
 - ch. 403: Guild Master Adnus has Pike Neldain sabotage the expedition's supplies.
 - ch. 786–787: With guild influence shrinking during the labyrinth closure, Adnus joins Anabada's Team 1 as a guest, paying with the guild's Dragon Heart.
+
+## Sub-places
+- [Branch 17](Branch%2017/README.md)
+- [Branch near the Magic Tower](Branch%20near%20the%20Magic%20Tower/README.md)
+- [Prison Branch](Prison%20Branch/README.md)
+- [Regional Manager's Office](Regional%20Manager's%20Office/README.md)
+- [Vault](Vault/README.md)
 
 ## Chapters
 19, 22, 31, 36–41, 44–49, 57, 73, 77, 85, 146, 148, 155, 159–162, 173, 204, 205, 207, 219, 257, 261, 262, 295, 314, 345, 351, 366, 367, 370, 373, 393, 397, 402, 403, 495, 504–506, 786, 787, 789

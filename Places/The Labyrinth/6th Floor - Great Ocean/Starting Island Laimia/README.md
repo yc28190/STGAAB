@@ -1,5 +1,7 @@
 # Starting Island Laimia
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island (arrival point) |
@@ -26,6 +28,9 @@ None recorded.
 - ch. 351: Erwen's fame causes a stir at registration; Amelia registers as "Emily Raines" and Bjorn as "Lihen Schuitz".
 - ch. 398: The expedition teams gather here (Raviyen arrives on day 16 after speedrunning alone); by the 20th all five teams meet and Bjorn reveals the mission — enter the Dark Continent from the rear through Ice Rock and the 8th floor.
 - ch. 791–792: Anabada Team 1 and 47 Meiruta "volunteers" log the regrown forest for days; Team 2 arrives five days late; Anabada sets sail on Day 21 as royal warships launch.
+
+## Sub-places
+- [3rd-Class Warship 3-21](3rd-Class%20Warship%203-21/README.md)
 
 ## Chapters
 264–265, 350–351, 375, 398, 508, 791–792

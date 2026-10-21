@@ -1,5 +1,7 @@
 # Western Ghoul Area
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -10,7 +12,7 @@
 The western part of the Crystal Cave, home to ghouls and the portal to the 2nd floor's Land of the Dead (the Deadlands). Crossing from the west edge to the centre takes about 20 hours.
 
 ## Monsters
-- [[Ghoul]] — grade 9; rotten skin, empty eye sockets and claws, moving on all fours
+- [Ghoul](../../../../Bestiary/ghoul_ch11.md) — grade 9; rotten skin, empty eye sockets and claws, moving on all fours
 
 ## Mechanics
 - Ghouls sit motionless until someone comes close, then rush in groups (ch. 11).

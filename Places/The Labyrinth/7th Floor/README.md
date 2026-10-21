@@ -1,5 +1,7 @@
 # 7th Floor
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,8 +14,8 @@ The 7th floor of the Labyrinth, made up of the Dark Continent and Ice Rock. It i
 For years it has been a war zone: Noark occupied it and fights the royal army there, which blocks most explorers from farming it. It was the main operating floor of the Lalel Clan.
 
 ## Monsters
-- [[Vol-Herchan]] — super-sized monster living in groups in specific fields; 3rd grade and up, with five or six essence colors.
-- [[Bellarios]] — essence target Bjorn cannot farm because of the war.
+- [Vol-Herchan](../../../Bestiary/vol_herchan_ch242.md) — super-sized monster living in groups in specific fields; 3rd grade and up, with five or six essence colors.
+- [Bellarios](../../../Bestiary/bellarios_ch242.md) — essence target Bjorn cannot farm because of the war.
 
 ## Mechanics
 - 3rd-grade essences normally drop here and on the 8th floor (ch. 232).
@@ -26,6 +28,10 @@ For years it has been a war zone: Noark occupied it and fights the royal army th
 - ch. 235: Most large clans of 7th floor and above die in the Dimensional Plaza explosions.
 - ch. 456–470: The war keeps Bjorn from farming Bellarios; Lee Baekho promises to farm it for him.
 - ch. 573: Noark holds the floor and fights the royal army.
+
+## Sub-places
+- [Dark Continent](Dark%20Continent/README.md)
+- [Ice Rock](Ice%20Rock/README.md)
 
 ## Chapters
 211, 221, 235, 332, 456, 464, 468, 470, 491, 505, 511, 546, 573, 790–791, 799

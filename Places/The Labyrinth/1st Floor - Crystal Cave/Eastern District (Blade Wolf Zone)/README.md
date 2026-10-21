@@ -1,5 +1,7 @@
 # Eastern District (Blade Wolf Zone)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -10,8 +12,8 @@
 The eastern part of the Crystal Cave, home to blade wolves and the portal to the 2nd floor's Beasts' Lair. During the Noark war, Bjorn's column crossed its passages by torchlight in the Abyssal Fog, only to find a scene of destruction where the stele and portal should have stood.
 
 ## Monsters
-- [[Blade Wolf]] — the district's normal monster
-- [[Abyssal Blade Wolf]] — 5th grade fog-evolved form, about 1.5 times the size of a lion
+- [Blade Wolf](../../../../Bestiary/blade_wolf_ch11.md) — the district's normal monster
+- [Abyssal Blade Wolf](../../../../Bestiary/abyssal_blade_wolf_ch221.md) — 5th grade fog-evolved form, about 1.5 times the size of a lion
 
 ## Mechanics
 - In the Abyssal Fog, Blade Wolves become Abyssal Blade Wolves, whose claws tear 2nd-tier metal and whose skill [Inner Madness] trades defense for offense. Their essence has high base stats (ch. 221).

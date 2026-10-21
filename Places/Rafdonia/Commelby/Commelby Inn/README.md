@@ -1,5 +1,7 @@
 # Commelby Inn
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Commelby](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

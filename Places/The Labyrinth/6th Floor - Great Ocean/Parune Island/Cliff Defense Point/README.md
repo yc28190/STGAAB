@@ -1,5 +1,7 @@
 # Cliff Defense Point
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Parune Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | defensive position |
@@ -10,7 +12,7 @@
 A flat area on Parune Island backed by a cliff, so that only three sides need defending during the island's defence event.
 
 ## Monsters
-- [[Guano Sea Serpent]] — wave 2 boss; drops a 4th-grade essence
+- [Guano Sea Serpent](../../../../../Bestiary/guano_sea_serpent_ch274.md) — wave 2 boss; drops a 4th-grade essence
 
 ## Mechanics
 - Wave 2 opens with a monsoon-like downpour that cuts visibility, chills the body, turns the ground to mud, makes weapons slippery and strengthens water monsters (ch. 274).

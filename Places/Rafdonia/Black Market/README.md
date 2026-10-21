@@ -1,5 +1,7 @@
 # Black Market
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | underground market |
@@ -24,6 +26,10 @@ None recorded.
 - ch. 348: An organisation posing as a relief effort sells opium here. The Security Bureau raids it before Amelia can rob it.
 - ch. 492–493: Bjorn storms the market. Mel Asmond hands over the client list, frees 397 slaves and quits the slave trade.
 - ch. 494: The market shuts down for a while.
+
+## Sub-places
+- [Entrance Tavern](Entrance%20Tavern/README.md)
+- [Slave Pens](Slave%20Pens/README.md)
 
 ## Chapters
 157, 176, 348, 481, 482, 490–495

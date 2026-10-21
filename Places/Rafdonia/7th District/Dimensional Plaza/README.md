@@ -1,5 +1,7 @@
 # Dimensional Plaza
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (plaza) |
@@ -33,6 +35,11 @@ None recorded.
 - ch. 490: Erwen, Versil and Ainar reappear alive after "dying" in the Pilgrim's Cave.
 - ch. 622–623: The checkpoint lies destroyed; Noark ambushes returning explorers, and Anabada meets a 14-man Noark patrol.
 - ch. 751–753: Ainar lands here after the random teleport, revealing the summoning circle's misfire.
+
+## Sub-places
+- [Checkpoint](Checkpoint/README.md)
+- [Checkpoint Street](Checkpoint%20Street/README.md)
+- [Mana Stone Exchange Checkpoint](Mana%20Stone%20Exchange%20Checkpoint/README.md)
 
 ## Chapters
 3, 16, 17, 22, 36, 43, 47, 71, 72, 77, 88, 89, 100, 114, 131, 146, 162, 177, 192, 195, 205, 207, 230, 231, 233, 236, 239, 251, 252, 257, 262, 284, 285, 302, 337, 339, 430–432, 455, 464, 478, 490, 491, 608, 622, 623, 751, 753

@@ -1,5 +1,7 @@
 # Human Island (Chief's Island)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -12,30 +14,30 @@ A large island ringed by steep cliffs, smaller than Giants' Island. The only eas
 The island is home to an underground village of blue-skinned natives who call themselves "humans", ruled by the chief, who claims to be the Dragon Knight Cornelius Brungreed. The village also holds the floor's only working exit stele. Before the floor's deadline, the silver sea around it pulled back violently toward Rock Island.
 
 ## Monsters
-- [[Diamond]] — jungle
-- [[Nanari]] — squirrel tree monster
-- [[Seedria]] — summoned by the tree monster
-- [[Papagonas]]
-- [[Bailonta]]
-- [[Tentakulan]] — offshore
-- [[Hipramagent]] — killed by the chief with one thrown sword
-- [[Inmyeonjo]] — killed during the escape (with a baby Inmyeonjo)
-- [[Titanus]] — carried Mirayel's Verdant Spear; a rift guardian out of place
-- [[Ritule Talisman Caster]]
-- [[Werewolf]]
-- [[Wall Mole]]
-- [[Akeltas]]
-- [[Underground Dragon]]
-- [[Aiantro]]
-- [[Orc Warrior]]
-- [[Archipelago Guardian]]
-- [[Bone Drake]]
-- [[Steel Spirit]]
-- [[Baphomet]]
-- [[Ainicorne]]
-- [[Mud Golem]]
-- [[Celestial Tree]]
-- [[Tachyon]]
+- [Diamond](../../../../Bestiary/diamond_ch512.md) — jungle
+- [Nanari](../../../../Bestiary/squirrel_ch513.md) — squirrel tree monster
+- [Seedria](../../../../Bestiary/seedria_ch513.md) — summoned by the tree monster
+- [Papagonas](../../../../Bestiary/papagonas_ch514.md)
+- [Bailonta](../../../../Bestiary/bailonta_ch514.md)
+- [Tentakulan](../../../../Bestiary/tentakulan_ch511.md) — offshore
+- [Hipramagent](../../../../Bestiary/hiphramagent_ch517.md) — killed by the chief with one thrown sword
+- [Inmyeonjo](../../../../Bestiary/inmyeonjo_ch536.md) — killed during the escape (with a baby Inmyeonjo)
+- [Titanus](../../../../Bestiary/titanus_ch536.md) — carried Mirayel's Verdant Spear; a rift guardian out of place
+- [Ritule Talisman Caster](../../../../Bestiary/ritule_talisman_caster_ch529.md)
+- [Werewolf](../../../../Bestiary/werewolf_ch50.md)
+- [Wall Mole](../../../../Bestiary/wall_mole_ch510.md)
+- [Akeltas](../../../../Bestiary/akeltas_ch529.md)
+- [Underground Dragon](../../../../Bestiary/underground_dragon_ch529.md)
+- [Aiantro](../../../../Bestiary/irontro_ch50.md)
+- [Orc Warrior](../../../../Bestiary/orc_warrior_ch51.md)
+- [Archipelago Guardian](../../../../Bestiary/archipelago_guardian_ch529.md)
+- [Bone Drake](../../../../Bestiary/bone_drake_ch530.md)
+- [Steel Spirit](../../../../Bestiary/steel_spirit_ch536.md)
+- [Baphomet](../../../../Bestiary/baphomet_ch135.md)
+- [Ainicorne](../../../../Bestiary/ainicorne_ch536.md)
+- [Mud Golem](../../../../Bestiary/mud_golem_ch536.md)
+- [Celestial Tree](../../../../Bestiary/celestial_tree_ch536.md)
+- [Tachyon](../../../../Bestiary/tachyon_ch536.md)
 - A giant bird and mutated individuals after the rainy season; the village natives
 
 ## Mechanics
@@ -53,6 +55,11 @@ The island is home to an underground village of blue-skinned natives who call th
 - ch. 561–567: The royal expedition arrives on day 118 and gathers mana stones. The villagers ambush them, Jerome turns out to have allied with the chief, Reatlas intervenes, the chief takes Jerome's body, and the village is wiped out.
 - ch. 569–582: The expedition uses the island as its base while mages study the stele. The Silver Lion Clan is found dead "in the basement".
 - ch. 622: Bjorn leaves the floor through the stele.
+
+## Sub-places
+- [Beach and Crevices](Beach%20and%20Crevices/README.md)
+- [Human Village](Human%20Village/README.md)
+- [Jungle](Jungle/README.md)
 
 ## Chapters
 512–518, 524, 526, 529–536, 538, 543, 551, 553, 560–569, 580–582, 607, 609–610, 615, 622

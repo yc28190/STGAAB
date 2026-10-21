@@ -1,5 +1,7 @@
 # Tersia Family House
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Fairy Sanctuary (Barharrium)](../../README.md) › [Fortified Woods](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (house) |

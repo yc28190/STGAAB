@@ -1,5 +1,7 @@
 # Fountain
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | landmark (fountain) |

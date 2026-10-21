@@ -1,5 +1,7 @@
 # Cemetery
 
+> **Location** : [Places](../../../README.md) › [Noark](../../README.md) › [Outer District](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (cemetery) |
@@ -19,6 +21,9 @@ None recorded.
 - ch. 322: Bjorn crash-lands here, breaking several tombstones.
 - ch. 323: Auril Gavis walks out of the passage.
 - ch. 329–330: The young Amelia wakes up alone here after Laura's staged "death" and is taken into the city by guards; the Fragment of Records activates and Auril Gavis vanishes, leaving his robe.
+
+## Sub-places
+- [Hidden Passage](Hidden%20Passage/README.md)
 
 ## Chapters
 322, 323, 329

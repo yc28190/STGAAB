@@ -1,5 +1,7 @@
 # Pilgrim's Altar
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Floor - Crystal Cave](../../../../README.md) › [Central Dark Zone](../../../README.md) › [Great Sage Monument](../../README.md) › [Pilgrim's Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | altar chamber |
@@ -10,7 +12,7 @@
 Entered through a swirling purple fog, it is the Dreadfear raid chamber, now empty. Where the monument should be stands a statue of the Witch more than 4 m tall, shaped like a young girl: the one Bjorn met briefly after defeating Riakis. Its pedestal carries an ancient-language inscription about all being equal beneath one star, one sun and one moon, which the Centurion quotes.
 
 ## Monsters
-- [[Centurion Argarsil Dreadfear]] — knight with white Aura, unbeatable head-on here
+- Centurion Argarsil Dreadfear — knight with white Aura, unbeatable head-on here
 - Imperial soldiers
 
 ## Mechanics

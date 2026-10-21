@@ -1,5 +1,7 @@
 # Alminus Merchant Guild Former HQ
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Commelby](../../README.md) › [District 4](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (ruin) |

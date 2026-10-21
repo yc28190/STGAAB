@@ -1,5 +1,7 @@
 # Crimson Fortress (Blood Citadel)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (1st-floor rift) |
@@ -12,20 +14,20 @@ A red, end-of-the-world sky full of crows, with a black fortress looming among m
 The rift is modelled on the real ancient Cambermier Duchy, whose duke became a vampire. It was Bjorn's first rift, where he met Raven and Hikurod.
 
 ## Monsters
-- [[Gargoyle Statue]] — 8th grade
-- [[Deadman]], [[Deadman Soldier]], [[Deadman Commander]]
-- [[Skeleton Archer]], [[Skeleton Mage]]
-- [[Ghoul]], [[Ghoul Lord]], [[Elder Ghoul]]
-- [[Deathfiend]]
-- [[Skull Rat]]
-- [[Banshee]]
-- [[Chimeric Wolf]]
-- [[Corpse Golem]] — grade 7 rare species found only here; dungeon mid-boss
-- [[Bone Knight]]
-- [[Death Knight]] — normal guardian
-- [[Cursed Knight Blatter]] — recorded in the Blood Castle
-- [[Cambormier]] — Vampire Duke (also written Cambormere), rare special/hidden guardian; a 5th-grade high-grade variant
-- [[Knight of Hate]] — can randomly de-level characters (ch. 803)
+- [Gargoyle Statue](../../../../Bestiary/gargoyle_ch29.md) — 8th grade
+- [Deadman](../../../../Bestiary/deadman_ch29.md), [Deadman Soldier](../../../../Bestiary/deadman_soldier_ch29.md), [Deadman Commander](../../../../Bestiary/deadman_commander_ch29.md)
+- [Skeleton Archer](../../../../Bestiary/skeleton_archer_ch23.md), [Skeleton Mage](../../../../Bestiary/skeleton_mage_ch29.md)
+- [Ghoul](../../../../Bestiary/ghoul_ch11.md), [Ghoul Lord](../../../../Bestiary/ghoul_lord_ch30.md), [Elder Ghoul](../../../../Bestiary/elder_ghoul_ch23.md)
+- [Deathfiend](../../../../Bestiary/deathfiend_ch23.md)
+- [Skull Rat](../../../../Bestiary/skull_rat_ch30.md)
+- [Banshee](../../../../Bestiary/banshee_ch23.md)
+- [Chimeric Wolf](../../../../Bestiary/chimeric_wolf_ch30.md)
+- [Corpse Golem](../../../../Bestiary/corpse_golem_ch30.md) — grade 7 rare species found only here; dungeon mid-boss
+- [Bone Knight](../../../../Bestiary/gachabon_ch32.md)
+- [Death Knight](../../../../Bestiary/death_knight_ch32.md) — normal guardian
+- Cursed Knight Blatter — recorded in the Blood Castle
+- [Cambormier](../../../../Bestiary/cambormere_ch32.md) — Vampire Duke (also written Cambormere), rare special/hidden guardian; a 5th-grade high-grade variant
+- [Knight of Hate](../../../../Bestiary/knight_of_hate_ch803.md) — can randomly de-level characters (ch. 803)
 
 ## Mechanics
 - One of four 1st-floor rifts. Instances hold five members matched first-come, first-served; when it opens the labyrinth shakes and thousands of portals appear, each closing once its team is full (ch. 27–28).
@@ -46,6 +48,14 @@ The rift is modelled on the real ancient Cambermier Duchy, whose duke became a v
 - ch. 490, 813: Bjorn recalls the vampire speaking to him and believing the labyrinth world was real.
 - ch. 539: Bjorn's second expedition here, where mutants appeared.
 - ch. 585: Cambormier's origin as a real ancient duke is revealed in the Hall of Guardian Statues.
+
+## Sub-places
+- [Blood Moat and Drawbridge](Blood%20Moat%20and%20Drawbridge/README.md)
+- [Citadel Dungeon](Citadel%20Dungeon/README.md)
+- [Demonic Shrine](Demonic%20Shrine/README.md)
+- [Gatehouse (Outer Checkpoint)](Gatehouse%20(Outer%20Checkpoint)/README.md)
+- [Inner Fortress](Inner%20Fortress/README.md)
+- [Outer Fortress (Castle Town)](Outer%20Fortress%20(Castle%20Town)/README.md)
 
 ## Chapters
 27–36, 44, 45, 53, 77, 100, 102, 103, 105, 114, 117, 220, 257, 300, 315, 362, 374, 379, 404, 490, 510, 531, 537, 539, 583–585, 606, 614, 775, 803, 813

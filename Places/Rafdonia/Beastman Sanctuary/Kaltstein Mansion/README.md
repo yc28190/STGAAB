@@ -1,5 +1,7 @@
 # Kaltstein Mansion
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Beastman Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (mansion) |

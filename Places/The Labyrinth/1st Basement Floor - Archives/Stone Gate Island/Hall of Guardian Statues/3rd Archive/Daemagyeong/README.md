@@ -1,5 +1,7 @@
 # Daemagyeong
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Basement Floor - Archives](../../../../README.md) › [Stone Gate Island](../../../README.md) › [Hall of Guardian Statues](../../README.md) › [3rd Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | story scene (final trial) |
@@ -10,11 +12,11 @@
 The same terrain as the 5th floor's Daemagyeong, but cut by four canyons. Canyon paths drop away into the abyss, with flowers growing along the cliff edges. After the final explosion, everything collapses into ruins and debris, leaving a humid wasteland.
 
 ## Monsters
-- [[Half-demon]] — Grade 3, blocks one of the paths
+- [Half-demon](../../../../../../../Bestiary/half_demon_ch599.md) — Grade 3, blocks one of the paths
 - Grade 4+ monsters
-- [[Silriat]] — Lord of Silence, 5th-floor lord; can be spared
-- [[Soul Eater]] — the rift's guardian; uses [Soul Cavalry]
-- [[Tempted Priest]] — Karui's priest (the corrupted Eden Hestia)
+- [Silriat](../../../../../../../Bestiary/silriat_ch320.md) — Lord of Silence, 5th-floor lord; can be spared
+- [Soul Eater](../../../../../../../Bestiary/soul_eater_ch264.md) — the rift's guardian; uses [Soul Cavalry]
+- [Tempted Priest](../../../../../../../Bestiary/tempted_priest_ch604.md) — Karui's priest (the corrupted Eden Hestia)
 
 ## Mechanics
 - Field effect "Daemagyeong": Control steadily drops, bringing violent urges and loss of self-restraint (the witch role is immune). Eating the cliff flowers restores Control (ch. 600).

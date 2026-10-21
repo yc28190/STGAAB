@@ -1,5 +1,7 @@
 # Slave Pens
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Black Market](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (cages) |

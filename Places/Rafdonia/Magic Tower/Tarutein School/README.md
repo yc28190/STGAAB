@@ -1,5 +1,7 @@
 # Tarutein School
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Magic Tower](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (mage school) |

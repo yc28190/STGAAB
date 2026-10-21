@@ -1,5 +1,7 @@
 # Paladin Orders
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Grand Temple of Leathlas](../README.md)
+
 | | |
 |---|---|
 | **Type** | organisation (order) |

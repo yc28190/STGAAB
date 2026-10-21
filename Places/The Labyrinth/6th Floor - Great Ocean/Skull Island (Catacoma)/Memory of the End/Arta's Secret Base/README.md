@@ -1,5 +1,7 @@
 # Arta's Secret Base
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Skull Island (Catacoma)](../../README.md) › [Memory of the End](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (bunker) |
@@ -12,7 +14,7 @@ A dark, quiet facility like a giant submarine, bunker or research lab. Its floor
 The Arta family built it at the point closest to the Core of the Earth to seal the Beast with the Divine Relic, a duty passed down for generations until a monster broke into the lab. Arta, the only NPC in the labyrinth, speaks to visitors through a static-filled speaker in the ancient tongue; later he appears as a 190 cm robot with an exposed metal frame, red lens eyes and a disturbingly human face.
 
 ## Monsters
-- [[Mechanical Behemoth Arta]] — optional raid boss, roughly as hard as a 9th-floor Floor Lord
+- [Mechanical Behemoth Arta](../../../../../../Bestiary/mechanical_behemoth_arta_ch803.md) — optional raid boss, roughly as hard as a 9th-floor Floor Lord
 
 ## Mechanics
 - Reached by the portal from Arta Island's altar (ch. 799).
@@ -25,6 +27,10 @@ The Arta family built it at the point closest to the Core of the Earth to seal t
 - ch. 800–801: The party passes Arta's questioning and learns the base's history.
 - ch. 802: Arta seals the party inside when they try to retreat.
 - ch. 815: Bjorn returns and tells the mechanical Arta that "the you of the past" sent him; Arta keeps asking whether visitors are Pilgrims, traitors who sided with the witches.
+
+## Sub-places
+- [Control Room](Control%20Room/README.md)
+- [Destroyed Nuclear Laboratory](Destroyed%20Nuclear%20Laboratory/README.md)
 
 ## Chapters
 800, 801, 805, 806, 811, 815

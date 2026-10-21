@@ -1,5 +1,7 @@
 # Rainwales Bar
 
+> **Location** : [Places](../../../README.md) › [Noark](../../README.md) › [Lord's Castle](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (bar) |

@@ -1,5 +1,7 @@
 # Checkpoint
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [7th District](../../README.md) › [Dimensional Plaza](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (checkpoint) |

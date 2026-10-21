@@ -1,5 +1,7 @@
 # Hikurod's Forge (Carsia Lomne)
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (blacksmith) |

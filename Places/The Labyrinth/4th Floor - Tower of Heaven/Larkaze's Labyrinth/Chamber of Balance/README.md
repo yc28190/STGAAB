@@ -1,5 +1,7 @@
 # Chamber of Balance
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [4th Floor - Tower of Heaven](../../README.md) › [Larkaze's Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space |

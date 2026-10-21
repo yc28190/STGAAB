@@ -1,5 +1,7 @@
 # 9th Floor - Star Grave
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,15 +14,15 @@ The last floor before the 10th, where the Abyss Gate lies. Meteor showers fall p
 Few have explored it — Titana Akuraba's legendary team and the Golden Generation among them — and Noark has begun conquering it. A sealed replica of the floor exists outside the city walls (see Star Grave Replica).
 
 ## Monsters
-- [[Deep Sea Giant]] — roam in packs; hidden hearts.
-- [[Brakiaistel]]
-- [[Gigazerros]]
-- [[Reditrous]]
-- [[Bayon]]
-- [[Bone Dragon]] — one of the "Three Star Graves".
-- [[Dryzen]]
-- [[Lamansis]] — rare grade 3, only in a rift via a hidden piece.
-- [[Primeval Dragon]] — can be summoned at the center under certain conditions ("game over").
+- [Deep Sea Giant](../../../Bestiary/deep_sea_giant_ch381.md) — roam in packs; hidden hearts.
+- [Brakiaistel](../../../Bestiary/brakiaistel_ch669.md)
+- [Gigazerros](../../../Bestiary/gigazerros_ch670.md)
+- [Reditrous](../../../Bestiary/reditrous_ch671.md)
+- [Bayon](../../../Bestiary/bayon_ch556.md)
+- [Bone Dragon](../../../Bestiary/bone_dragon_ch683.md) — one of the "Three Star Graves".
+- [Dryzen](../../../Bestiary/dryzen_ch674.md)
+- [Lamansis](../../../Bestiary/lamansis_ch639.md) — rare grade 3, only in a rift via a hidden piece.
+- [Primeval Dragon](../../../Bestiary/primeval_dragon_ch671.md) — can be summoned at the center under certain conditions ("game over").
 - Real dragons appear from the 9th floor on.
 
 ## Mechanics
@@ -40,6 +42,9 @@ Few have explored it — Titana Akuraba's legendary team and the Golden Generati
 - ch. 639: Bjorn explains the Lamansis hidden piece to Raven.
 - ch. 671–687: The party explores the sealed replica outside the walls; the dream game recalls entering the Star Grave.
 - ch. 775: Amelia borrows a Crimson Formalwear from Astarotta for Bjorn.
+
+## Sub-places
+- [Hell Fortress](Hell%20Fortress/README.md)
 
 ## Chapters
 198–199, 340, 381–382, 392, 406, 436, 471, 488, 492, 499, 539, 545, 639, 669–671, 674, 679, 683, 685–687, 775, 780, 785

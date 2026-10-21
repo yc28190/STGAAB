@@ -1,5 +1,7 @@
 # Human Village
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Human Island (Chief's Island)](../README.md)
+
 | | |
 |---|---|
 | **Type** | village (underground settlement) |
@@ -29,6 +31,16 @@ The villagers call themselves "humans": blue-skinned creatures with big eyes, fa
 - ch. 531–535: Amelia is caught in the Hidden Corpse House. Bjorn strikes the chief and the party breaks out through the gate, burning the village. The chief does not pursue and repairs it.
 - ch. 543, 549: A fake Madderkin, apparently possessed, is suspected to be the chief's doing. Hamsik reveals the chief once flew to Library Island on a dragon with followers, so he had lied about being unable to leave.
 - ch. 563–568: The chief, now in Jerome's body, orders his warriors to fight half-heartedly and die. The expedition wipes them out and plunders the village.
+
+## Sub-places
+- [Blacksmith](Blacksmith/README.md)
+- [Chief's House](Chief's%20House/README.md)
+- [Dimensional Stele Mansion](Dimensional%20Stele%20Mansion/README.md)
+- [Entrance Square](Entrance%20Square/README.md)
+- [Expedition Lodging](Expedition%20Lodging/README.md)
+- [Guarded House](Guarded%20House/README.md)
+- [Hidden Corpse House](Hidden%20Corpse%20House/README.md)
+- [Underground Warehouse](Underground%20Warehouse/README.md)
 
 ## Chapters
 513–518, 526, 529–535, 543, 549, 553, 562–569

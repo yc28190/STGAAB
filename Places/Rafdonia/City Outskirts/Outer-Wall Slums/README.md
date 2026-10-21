@@ -1,5 +1,7 @@
 # Outer-Wall Slums
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [City Outskirts](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (slum) |

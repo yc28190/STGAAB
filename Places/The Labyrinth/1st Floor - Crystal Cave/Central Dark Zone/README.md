@@ -1,5 +1,7 @@
 # Central Dark Zone
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (central zone / safe zone) |
@@ -12,8 +14,8 @@ A pitch-black maze at the heart of the Crystal Cave, reached by dark passages wi
 During the Noark war, it was turned into a fortified plaza. Mages collapsed the surrounding walls until the cavern was hundreds of times bigger (Bjorn compares it to Gwanghwamun Plaza). It was lit with torches and packed with clan tents, with a large tent flying the Lafdonia royal flag at the centre where leaders met around a round table. Explorers rested shoulder to shoulder in the narrow outer passages.
 
 ## Monsters
-- [[Goblin]], [[Ghoul]], [[Gnome]], [[Blade Wolf]] — all four of the floor's monster types appear here
-- [[Dreadfear]] — Lord of Fear, summoned nearby (e.g. in the south passage) and raided at the monument
+- [Goblin](../../../../Bestiary/goblin_ch4.md), [Ghoul](../../../../Bestiary/ghoul_ch11.md), [Gnome](../../../../Bestiary/gnome_ch25.md), [Blade Wolf](../../../../Bestiary/blade_wolf_ch11.md) — all four of the floor's monster types appear here
+- [Dreadfear](../../../../Bestiary/dreadfear_ch212.md) — Lord of Fear, summoned nearby (e.g. in the south passage) and raided at the monument
 
 ## Mechanics
 - All four 1st-floor monster types mix in this zone (ch. 27).
@@ -27,6 +29,10 @@ During the Noark war, it was turned into a fortified plaza. Mages collapsed the 
 - ch. 217–218: On the night of Day 5, the royal army secretly leaves by Dimensional Gate. Abandoned explorers riot and lynch the knights left behind until a gigantified Bjorn shouts "Stop!", echoed by the barbarians.
 - ch. 218–219: Leaders such as Melter Pend (Nartel Clan), Lacey Naret (Heindel Church) and military mage Kyle Pebrosk rally around Bjorn; survivors split into groups of 300, and the Noark blockers withdraw.
 - ch. 503: High-level clan explorers crowd the zone as their first stop when hunting for the hidden area.
+
+## Sub-places
+- [Great Sage Monument](Great%20Sage%20Monument/README.md)
+- [Passages to the Monument](Passages%20to%20the%20Monument/README.md)
 
 ## Chapters
 27, 207, 210–212, 214–219, 484, 503

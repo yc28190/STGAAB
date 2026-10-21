@@ -1,5 +1,7 @@
 # Statue Rift - Crimson Fortress
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,8 +12,8 @@
 Brick walls like a medieval castle, candleholders along the walls and old bloodstains on the floor. It resembles the Blood Castle's final chapter (the Demon Worship Room), but instead of a square loop it is a straight corridor leading to a boss room behind a door.
 
 ## Monsters
-- [[Cambormier]] — Vampire Duke, unknown (hidden) guardian
-- [[Blatter]] — Cursed Knight; has his own separate statue in the hall
+- [Cambormier](../../../../../../Bestiary/cambormere_ch32.md) — Vampire Duke, unknown (hidden) guardian
+- [Blatter](../../../../../../Bestiary/blatter_ch584.md) — Cursed Knight; has his own separate statue in the hall
 
 ## Mechanics
 - Solo rift (ch. 586).

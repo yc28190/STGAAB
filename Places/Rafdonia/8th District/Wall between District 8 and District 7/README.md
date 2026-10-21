@@ -1,5 +1,7 @@
 # Wall between District 8 and District 7
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [8th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (city wall) |

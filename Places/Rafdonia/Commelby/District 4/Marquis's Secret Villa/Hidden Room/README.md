@@ -1,5 +1,7 @@
 # Hidden Room
 
+> **Location** : [Places](../../../../../README.md) › [Rafdonia](../../../../README.md) › [Commelby](../../../README.md) › [District 4](../../README.md) › [Marquis's Secret Villa](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden room (bunker) |

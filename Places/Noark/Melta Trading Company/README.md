@@ -1,5 +1,7 @@
 # Melta Trading Company
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (trading company) |

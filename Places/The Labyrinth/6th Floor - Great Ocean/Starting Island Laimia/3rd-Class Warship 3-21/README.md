@@ -1,5 +1,7 @@
 # 3rd-Class Warship 3-21
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Starting Island Laimia](../README.md)
+
 | | |
 |---|---|
 | **Type** | ship (galleon) |

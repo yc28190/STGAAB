@@ -1,5 +1,7 @@
 # Red Rock Islands (Mermal Nests)
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Grand Rock](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -10,11 +12,11 @@
 Flat red rock islands, partly submerged and large enough for about twenty people. A crevice at the centre of each holds neatly arranged eggs the size of ostrich eggs. Three are generated at random in the Grand Rock each time the labyrinth opens.
 
 ## Monsters
-- [[Mermal]] — hundreds rise from beneath the rock when the nest is destroyed (average level below 6)
-- [[Mermal Warrior]] — part of the swarm
-- [[Mermal Archer]] — part of the swarm
-- [[Mermal Shaman]] — part of the swarm
-- [[Mermal Great Warrior]] — part of the swarm
+- [Mermal](../../../../../Bestiary/mermal_ch380.md) — hundreds rise from beneath the rock when the nest is destroyed (average level below 6)
+- [Mermal Warrior](../../../../../Bestiary/mermal_warrior_ch380.md) — part of the swarm
+- [Mermal Archer](../../../../../Bestiary/mermal_archer_ch380.md) — part of the swarm
+- [Mermal Shaman](../../../../../Bestiary/mermal_shaman_ch380.md) — part of the swarm
+- [Mermal Great Warrior](../../../../../Bestiary/mermal_great_warrior_ch380.md) — part of the swarm
 
 ## Mechanics
 - Smashing the eggs ("The character has destroyed the Mermal's nest") makes hundreds of Mermals rise from under the rock (ch. 380).

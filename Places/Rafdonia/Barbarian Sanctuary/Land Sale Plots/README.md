@@ -1,5 +1,7 @@
 # Land Sale Plots
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (land plots) |

@@ -1,5 +1,7 @@
 # Royal Palace
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building complex (royal palace) |
@@ -31,6 +33,21 @@ None recorded.
 - ch. 432: Victory parade through the open palace gates.
 - ch. 552–553: A royal decree drafts Bjorn into the expedition.
 - ch. 715–725: During the war an Urae strike destroys the Palace of Glory. Bjorn is taken into the Apocalypse Palace and meets the King.
+
+## Sub-places
+- [Apocalypse Palace](Apocalypse%20Palace/README.md)
+- [Basement Portals](Basement%20Portals/README.md)
+- [Golden Treasury](Golden%20Treasury/README.md)
+- [Investiture Hall](Investiture%20Hall/README.md)
+- [Lee Baekho's Sealed Prison Room](Lee%20Baekho's%20Sealed%20Prison%20Room/README.md)
+- [Palace of Glory](Palace%20of%20Glory/README.md)
+- [Palace of Immortality](Palace%20of%20Immortality/README.md)
+- [Palace of Wisdom](Palace%20of%20Wisdom/README.md)
+- [Prime Minister's Study](Prime%20Minister's%20Study/README.md)
+- [Royal Garden](Royal%20Garden/README.md)
+- [Royal Underground Prison](Royal%20Underground%20Prison/README.md)
+- [Secret Chamber (Revival Ring)](Secret%20Chamber%20(Revival%20Ring)/README.md)
+- [Silver Treasury](Silver%20Treasury/README.md)
 
 ## Chapters
 231–233, 235, 241–244, 252, 254, 256–257, 293, 295, 310, 326, 385, 387, 390–391, 432, 491, 552–553, 562, 566, 725

@@ -1,5 +1,7 @@
 # Witch's Cabin
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [3rd Floor - Pilgrim's Path](../../README.md) › [Witch's Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden field (safe zone) |

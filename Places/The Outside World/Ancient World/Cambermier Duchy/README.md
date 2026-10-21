@@ -1,5 +1,7 @@
 # Cambermier Duchy
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Ancient World](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (historical state, fortress) |

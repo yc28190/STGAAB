@@ -1,5 +1,7 @@
 # Passages to the Monument
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Central Dark Zone](../README.md)
+
 | | |
 |---|---|
 | **Type** | passages |

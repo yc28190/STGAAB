@@ -1,5 +1,7 @@
 # Marquis's Secret Villa
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Commelby](../../README.md) › [District 4](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (villa / hideout) |
@@ -22,6 +24,9 @@ None recorded.
 - ch. 763–764: Hyeonbyeol, posted here to watch the sleeping Ragna, gives Bjorn the Marquis's diary. Eltora had found the villa through the diary of his body's original owner.
 - ch. 765: The diary reveals the villa as Princess Mayrin's hiding place.
 - ch. 766: After waiting several days, Bjorn smashes the whole villa in Giant Form in under ten minutes, sparing only the portal wall, to bait the Marquis.
+
+## Sub-places
+- [Hidden Room](Hidden%20Room/README.md)
 
 ## Chapters
 762, 763, 764, 765, 766

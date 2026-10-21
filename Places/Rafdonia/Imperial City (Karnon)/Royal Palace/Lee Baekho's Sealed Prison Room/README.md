@@ -1,5 +1,7 @@
 # Lee Baekho's Sealed Prison Room
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Royal Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (prison cell) |

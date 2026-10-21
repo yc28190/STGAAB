@@ -1,5 +1,7 @@
 # Statue Rift - Glacier Cave
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -12,9 +14,9 @@ Cold seeps up through your soles, and the ice walls shine white like glass. A na
 It is the unknown-guardian (hidden boss) version of the 1st floor's Glacier Cave rift.
 
 ## Monsters
-- [[Kirdyu]] — Corrupted Beast, a black guardian troll over 5 m tall; high-level mutant
-- [[Tyrant Tarunbas]] — the regular guardian (has its own statue); present as a corpse
-- [[Ice Orc]], [[Frost Wolf]], [[Yeti]] — present only as corpses
+- [Kirdyu](../../../../../../Bestiary/kirdyu_ch587.md) — Corrupted Beast, a black guardian troll over 5 m tall; high-level mutant
+- [Tyrant Tarunbas](../../../../../../Bestiary/tyrant_tarunbas_ch104.md) — the regular guardian (has its own statue); present as a corpse
+- [Ice Orc](../../../../../../Bestiary/ice_orc_ch105.md), [Frost Wolf](../../../../../../Bestiary/frost_wolf_ch103.md), [Yeti](../../../../../../Bestiary/yeti_ch102.md) — present only as corpses
 
 ## Mechanics
 - Solo rift (ch. 587).

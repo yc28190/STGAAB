@@ -1,5 +1,7 @@
 # Inner Fortress
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Crimson Fortress (Blood Citadel)](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift area (ruined fortress) |

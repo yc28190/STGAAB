@@ -1,5 +1,7 @@
 # Bjorn's Second Inn
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [13th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn) |

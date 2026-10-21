@@ -1,5 +1,7 @@
 # Unknown Floor
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | category (Labyrinth places of unknown floor) |
@@ -17,6 +19,10 @@ None recorded.
 
 ## Notable events
 None recorded.
+
+## Sub-places
+- [Dreadpier Reward Chamber](Dreadpier%20Reward%20Chamber/README.md)
+- [Hell](Hell/README.md)
 
 ## Chapters
 —

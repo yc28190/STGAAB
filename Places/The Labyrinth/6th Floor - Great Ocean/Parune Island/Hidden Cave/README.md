@@ -1,5 +1,7 @@
 # Hidden Cave
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Parune Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave |

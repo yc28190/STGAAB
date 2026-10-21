@@ -1,5 +1,7 @@
 # Dragon Sanctuary (Dragon Temple)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | sanctuary / temple |
@@ -28,6 +30,9 @@ None recorded.
 - ch. 430: Bjorn keeps the preserved heart as a bargaining chip.
 - ch. 474–475: He delivers Regal Vagos's heart and wins the Dragonkin's support in any conflict that does not involve the King. Pen must stay hidden here; Raviyen distances herself from the revenge plan. The Elder Council meets here.
 - ch. 642–643: Lapir warns Bjorn of the royal plan to marry him to Ragna and of the coming labyrinth seal. Bjorn sees Pen, who has started growing again, and stays the night.
+
+## Sub-places
+- [Blessing Cavern](Blessing%20Cavern/README.md)
 
 ## Chapters
 159, 160, 200–203, 425, 430, 473–475, 642, 643, 662

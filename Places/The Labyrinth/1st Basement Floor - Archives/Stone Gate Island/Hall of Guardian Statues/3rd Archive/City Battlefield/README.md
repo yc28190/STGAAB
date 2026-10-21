@@ -1,5 +1,7 @@
 # City Battlefield
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Basement Floor - Archives](../../../../README.md) › [Stone Gate Island](../../../README.md) › [Hall of Guardian Statues](../../README.md) › [3rd Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | story scene (rift chapter 1) |
@@ -10,7 +12,7 @@
 The heart of a city reduced to ruins, its streets piled with human and monster corpses while soldiers carry off the wounded. The scene is set in the Year of the Sun, before the witches.
 
 ## Monsters
-- [[Troll]] — part of the attacking horde
+- [Troll](../../../../../../../Bestiary/troll_ch33.md) — part of the attacking horde
 - Monster horde
 
 ## Mechanics

@@ -1,5 +1,7 @@
 # Royal Underground Prison
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Royal Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (underground prison) |
@@ -22,6 +24,10 @@ None recorded.
 - ch. 716: Unnamed knights free the Orculis members, who escape while Banonzant's [Green Mana] barrier holds Bjorn back. The floor collapses under Bjorn and Raven.
 - ch. 754: The Witch of Screams, Liranne Vivian, is held here after coming to the capital with Astarotta, kept alive just in case.
 - ch. 783: Bjorn recalls Saintred's cryptic warning in the prison.
+
+## Sub-places
+- [Forbidden Chamber (Basement 6)](Forbidden%20Chamber%20(Basement%206)/README.md)
+- [Noble Special Cell](Noble%20Special%20Cell/README.md)
 
 ## Chapters
 714–717, 754, 783

@@ -1,5 +1,7 @@
 # Goblin Forest
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [2nd Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (forest) |
@@ -12,12 +14,12 @@ A dark forest under what looks like a night sky strewn with Milky-Way lights, th
 It is the usual fastest route up from the 1st floor and the site of the famous Goblin Forest battle that ended Noark's great ambush.
 
 ## Monsters
-- [[Goblin]] — groups of about ten (eight to twelve)
-- [[Goblin Swordsman]] — scimitars, mixed into groups
-- [[Goblin Archer]] — poisoned arrows and stealth
-- [[Hobgoblin]] — appear in the outer area
+- [Goblin](../../../../Bestiary/goblin_ch4.md) — groups of about ten (eight to twelve)
+- [Goblin Swordsman](../../../../Bestiary/goblin_swordsman_ch12.md) — scimitars, mixed into groups
+- [Goblin Archer](../../../../Bestiary/goblin_archer_ch12.md) — poisoned arrows and stealth
+- [Hobgoblin](../../../../Bestiary/hobgoblin_ch163.md) — appear in the outer area
 - Corpse Collector's corpse army — a 500 kg+ corpse monster, suicide-bomber corpses and elite corpses (ch. 224–229)
-- [[Flame Giant]] — summoned from meteor fragments during the battle
+- [Flame Giant](../../../../Bestiary/flame_giant_ch226.md) — summoned from meteor fragments during the battle
 
 ## Mechanics
 - Reached from the 1st floor's northern portal; arrivals are thrown about 3 m into the air, and the trip back down throws people hard (ch. 12, 15, 222).

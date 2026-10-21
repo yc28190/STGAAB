@@ -1,5 +1,7 @@
 # Garden Fountain
 
+> **Location** : [Places](../../../../../README.md) › [Rafdonia](../../../../README.md) › [Imperial City (Karnon)](../../../README.md) › [Royal Palace](../../README.md) › [Palace of Wisdom](../README.md)
+
 | | |
 |---|---|
 | **Type** | garden |

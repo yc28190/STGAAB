@@ -1,5 +1,7 @@
 # Earth (Korea)
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Spiritual Realm](../README.md)
+
 | | |
 |---|---|
 | **Type** | world (memory / dream / parallel world) |
@@ -26,6 +28,13 @@ None recorded.
 - ch. 500–501: Lee Baekho wants to go back to Earth; Bjorn does not.
 - ch. 675–679: The dream-Korea episode: arrest, psychiatric hospital, Auril Gavis's visit, and over 60 days playing the game on five laptops until he reaches the Gate of the Abyss; Hyunbyul, his mother and Team Leader Kang appear as kind versions of themselves.
 - ch. 722–763: Memories of the Stone Eben forum, where "Elfnuna" posted guides, the New York financial district and his past with Hyeonbyeol.
+
+## Sub-places
+- [Childhood Places](Childhood%20Places/README.md)
+- [Lee Hansu's Apartment](Lee%20Hansu's%20Apartment/README.md)
+- [Police Station](Police%20Station/README.md)
+- [Psychiatric Hospital](Psychiatric%20Hospital/README.md)
+- [Stone Iven Forum](Stone%20Iven%20Forum/README.md)
 
 ## Chapters
 89, 93, 205, 219, 222, 499–500, 675–680, 722, 732, 735, 737, 763

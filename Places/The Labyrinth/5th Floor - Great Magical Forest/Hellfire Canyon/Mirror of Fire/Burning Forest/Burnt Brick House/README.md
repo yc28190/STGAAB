@@ -1,5 +1,7 @@
 # Burnt Brick House
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [5th Floor - Great Magical Forest](../../../../README.md) › [Hellfire Canyon](../../../README.md) › [Mirror of Fire](../../README.md) › [Burning Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | building |

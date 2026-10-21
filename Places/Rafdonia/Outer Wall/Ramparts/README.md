@@ -1,5 +1,7 @@
 # Ramparts
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Outer Wall](../README.md)
+
 | | |
 |---|---|
 | **Type** | wall-top road |

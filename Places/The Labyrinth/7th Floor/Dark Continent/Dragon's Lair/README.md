@@ -1,5 +1,7 @@
 # Dragon's Lair
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (region) |
@@ -12,7 +14,7 @@ A region of total darkness in the latter half of the Dark Continent. Giant verte
 It is where the 8th-floor portal from Dawn Land comes out, and Noark hunting parties roam it.
 
 ## Monsters
-- [[Bon Dragonian]] — 3rd grade; drops an essence.
+- [Bon Dragonian](../../../../../Bestiary/bon_dragonian_ch407.md) — 3rd grade; drops an essence.
 
 ## Mechanics
 - The portal from the 8th floor (Dawn Land) arrives here; its five-colored light illuminates the surroundings (ch. 414).
@@ -21,6 +23,9 @@ It is where the 8th-floor portal from Dawn Land comes out, and Noark hunting par
 ## Notable events
 - ch. 406–407: The expedition arrives from the 8th floor, wipes out 10 Noark parties of about 15 each and captures survivors for questioning; Regal Vagos calls a captured man's message stone.
 - ch. 414: On day 62 the expedition races 40 of Vagos's men to the 8th-floor portal; Erwen summons Dicloe.
+
+## Sub-places
+- [Loser's Rest](Loser's%20Rest/README.md)
 
 ## Chapters
 406–407, 409, 413–414

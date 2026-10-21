@@ -1,5 +1,7 @@
 # Sculpture Temple
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,7 +12,7 @@
 A field of ruined stone buildings resembling the Pantelion Ruins of the 7th floor, but filled with statues that are all headless, giving it a creepy feel. It is the least popular field on the 3rd floor: badly placed, since the neighbouring fields reach the 4th floor faster, and troublesome to hunt.
 
 ## Monsters
-- [[Nameless Statue]] — 7th grade, the only monster here; like a smaller, faster Stone Golem
+- [Nameless Statue](../../../../Bestiary/nameless_statue_ch505.md) — 7th grade, the only monster here; like a smaller, faster Stone Golem
 
 ## Mechanics
 - The Nameless Statue's [Unanswered Prayer] costs a lot of MP and rarely succeeds; on success the statue briefly gains a random essence below 5th grade, so every fight differs. Its essence is junk (ch. 505).

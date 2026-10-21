@@ -1,5 +1,7 @@
 # Outer District
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -17,6 +19,9 @@ None recorded.
 
 ## Notable events
 None recorded.
+
+## Sub-places
+- [Cemetery](Cemetery/README.md)
 
 ## Chapters
 —

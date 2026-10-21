@@ -1,5 +1,7 @@
 # Witch's Forest
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (special area) |
@@ -12,20 +14,20 @@ A huge, eerie forest at the heart of the 3rd floor. Barren thorn bushes are wrap
 Its monsters are mostly rank 7–8 and largely spirit-type and immune to physical damage, so it is a poor hunting ground and mainly a place to pass through; it is nicknamed "the graveyard of warriors". Residents are few and meeting other teams is rare. When the Floor Master is summoned, the forest falls silent and bright under a red ceiling.
 
 ## Monsters
-- [[Fairy]] — forest monster
-- [[Half-Troll]] — the only monster here without an elemental ability
-- [[Snetri]] — forest monster
-- [[Wraith]] — incorporeal, evil-attribute
-- [[Witch's Lamp]] — summons copies of itself
-- [[Diroter]] — forest monster
-- [[Mutated Lesser Spirit]] — spirit-type
-- [[Woodman]] — forest monster
-- [[Homunculus]] — 8th grade, slime-like humanoid
-- [[Owlbear]] — forest monster
-- [[Dryad]] — forest monster
-- [[Cannibalo]] — rank 7, spawned by [Witch's Eye] together with its hounds
-- [[Chaos Spirit]] — appear while Riakis is active
-- [[Riakis]] — the Floor Master, summoned via the Witch's Cabin
+- [Fairy](../../../../Bestiary/fairy_ch57.md) — forest monster
+- [Half-Troll](../../../../Bestiary/half_troll_ch57.md) — the only monster here without an elemental ability
+- [Snetri](../../../../Bestiary/snetri_ch59.md) — forest monster
+- [Wraith](../../../../Bestiary/wraith_ch60.md) — incorporeal, evil-attribute
+- [Witch's Lamp](../../../../Bestiary/witch_s_lamp_ch60.md) — summons copies of itself
+- [Diroter](../../../../Bestiary/diroter_ch60.md) — forest monster
+- [Mutated Lesser Spirit](../../../../Bestiary/mutated_lesser_spirit_ch60.md) — spirit-type
+- [Woodman](../../../../Bestiary/woodman_ch60.md) — forest monster
+- [Homunculus](../../../../Bestiary/homunculus_ch60.md) — 8th grade, slime-like humanoid
+- [Owlbear](../../../../Bestiary/owlbear_ch60.md) — forest monster
+- [Dryad](../../../../Bestiary/dryad_ch61.md) — forest monster
+- [Cannibalo](../../../../Bestiary/cannibalo_ch61.md) — rank 7, spawned by [Witch's Eye] together with its hounds
+- [Chaos Spirit](../../../../Bestiary/chaos_spirit_ch65.md) — appear while Riakis is active
+- [Riakis](../../../../Bestiary/riakis_ch65.md) — the Floor Master, summoned via the Witch's Cabin
 
 ## Mechanics
 - Surrounds the 4th-floor portal; about 5 hours' hurried march from the edge of the Orc Colony, and about 1 hour from the eastern outskirts to an open plain (ch. 53, 56, 65).
@@ -48,6 +50,10 @@ Its monsters are mostly rank 7–8 and largely spirit-type and immune to physica
 - ch. 163: Apple Nark crosses roped together behind its Guide.
 - ch. 457–462: Riakis is summoned again; his howls echo through the forest.
 - ch. 790: Dozens of top teams queue at the portal on Day 6 of the reopening.
+
+## Sub-places
+- [Thornreed Field](Thornreed%20Field/README.md)
+- [Witch's Cabin](Witch's%20Cabin/README.md)
 
 ## Chapters
 53, 54, 56–65, 73, 104, 113–116, 149, 163, 167, 301, 313, 314, 457, 458, 462, 611, 616, 790

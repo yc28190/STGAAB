@@ -1,5 +1,7 @@
 # Bifron (14th District)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -37,6 +39,15 @@ None recorded.
 - ch. 633: On the fifth day the ground shakes and the protective circle turns black, closing over the district like a dome.
 - ch. 706–715: Noark-held Befron sallies toward Ecliptic Karnon and is beaten back by the royal war machines. Military Command plans an all-out purge.
 - ch. 773–789: Noark occupies and fortifies Viphron, causing the year-long labyrinth shutdown. Bjorn takes in its refugees (ch. 783).
+
+## Sub-places
+- [Bifron Inn](Bifron%20Inn/README.md)
+- [Bifron Library](Bifron%20Library/README.md)
+- [Dimensional Plaza](Dimensional%20Plaza/README.md)
+- [Distribution Centers](Distribution%20Centers/README.md)
+- [Old Administrative Office](Old%20Administrative%20Office/README.md)
+- [Wall and Checkpoint](Wall%20and%20Checkpoint/README.md)
+- [Western District](Western%20District/README.md)
 
 ## Chapters
 127, 191–195, 198, 200, 203, 216, 235, 245, 248, 292, 296, 355, 624, 627–633, 635, 638, 642, 645, 662, 706, 708, 709, 715, 767, 773, 777, 783, 789

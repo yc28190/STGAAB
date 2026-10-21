@@ -1,5 +1,7 @@
 # Outer Wall
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | city wall |
@@ -18,6 +20,9 @@ None recorded.
 ## Notable events
 - ch. 661–662: Bjorn and the GM travel along the wall and its barrier.
 - ch. 768: While exploring beyond the wall, Bjorn learns royal secrets, including the claim that the ancient chieftain ran off with one of the two Hearts of Karui.
+
+## Sub-places
+- [Ramparts](Ramparts/README.md)
 
 ## Chapters
 661–662, 768

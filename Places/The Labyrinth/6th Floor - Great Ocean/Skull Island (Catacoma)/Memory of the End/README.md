@@ -1,5 +1,7 @@
 # Memory of the End
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Skull Island (Catacoma)](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden field |
@@ -12,11 +14,11 @@ A version of Skull Island at the moment of its destruction. The cave has the sam
 It is a hidden field tied to the ancient Empire and the Arta family's attempt to seal a primordial Beast, and to an apocalypse described as a dimensional collapse of the 6th floor.
 
 ## Monsters
-- [[Fanatic Gatekeeper]] — field monster
-- [[Haunting Memory]] — field monster
-- [[Enchanting Bloom]] — field monster
-- [[Mirror Hound]] — field monster
-- [[The Beast]] — the Ancient Beast (End Serpent Sniktura), the field's boss in its central territory
+- [Fanatic Gatekeeper](../../../../../Bestiary/fanatic_gatekeeper_ch809.md) — field monster
+- [Haunting Memory](../../../../../Bestiary/haunting_memory_ch809.md) — field monster
+- [Enchanting Bloom](../../../../../Bestiary/enchanting_bloom_ch809.md) — field monster
+- [Mirror Hound](../../../../../Bestiary/mirror_hound_ch809.md) — field monster
+- [The Beast](../../../../../Bestiary/ancient_beast_ch800.md) — the Ancient Beast (End Serpent Sniktura), the field's boss in its central territory
 - Random monsters from [The Last Day] portals — up to 2nd tier
 
 ## Mechanics
@@ -36,6 +38,11 @@ It is a hidden field tied to the ancient Empire and the Arta family's attempt to
 - ch. 808: Amelia flees here when a 6th-floor Floor Lord is summoned and accidentally activates [The Last Day].
 - ch. 809–810: A past Arta, a human researcher, arrives through a black portal.
 - ch. 811–814: The party confronts the Beast; the human Arta says today is the "Last Day" because the 6th floor's dimensional collapse is beginning.
+
+## Sub-places
+- [Arta's Secret Base](Arta's%20Secret%20Base/README.md)
+- [Beast's Territory](Beast's%20Territory/README.md)
+- [Cave with Crimson Portal](Cave%20with%20Crimson%20Portal/README.md)
 
 ## Chapters
 798, 799, 803, 806–814

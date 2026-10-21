@@ -1,5 +1,7 @@
 # Erwen's Inn (Fairy Dormitory)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (inn / dormitory) |

@@ -1,5 +1,7 @@
 # Kiarbys
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Gnometree (6th District)](../README.md)
+
 | | |
 |---|---|
 | **Type** | village (resort) |
@@ -22,6 +24,9 @@ None recorded.
 - ch. 250: Misha, Erwen and Ainar get drunk.
 - ch. 251: The boat capsizes when a fish bites Ainar, and Bjorn learns that barbarians cannot swim.
 - ch. 252: Lee Baekho, as "Confucius", gambles in the masked house and feels the shockwave of the barrier breaking.
+
+## Sub-places
+- [Lignaracia Cave](Lignaracia%20Cave/README.md)
 
 ## Chapters
 249, 250, 251, 252

@@ -1,5 +1,7 @@
 # Prison Branch
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [7th District](../../README.md) › [Explorers' Guild](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (guild branch) |
@@ -23,6 +25,11 @@ None recorded.
 - ch. 119–123: Karon is cleared as acting in self-defense; Peta passes on Julian Urbans's request for a meeting.
 - ch. 442–446: Clan Anabada registers with Bjorn as leader (Emily Raines, Ainar Frenelin, Auyen Lokrob; Erwen joins later).
 - ch. 467: The branch manager handles the raid request on Dreadfear, the 1st-floor Floor Lord; a five-man clear would be only the tenth in history.
+
+## Sub-places
+- [Branch Manager's Office](Branch%20Manager's%20Office/README.md)
+- [Guild Prison](Guild%20Prison/README.md)
+- [Interrogation Room](Interrogation%20Room/README.md)
 
 ## Chapters
 36–41, 119, 442, 446, 467

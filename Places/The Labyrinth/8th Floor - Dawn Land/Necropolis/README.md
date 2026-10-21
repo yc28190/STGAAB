@@ -1,5 +1,7 @@
 # Necropolis
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [8th Floor - Dawn Land](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |

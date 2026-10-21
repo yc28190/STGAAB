@@ -1,5 +1,7 @@
 # Ghostly Canyon
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (canyon, special area) |
@@ -12,18 +14,18 @@ A narrow canyon thick with an ominous, gloomy fog, so tight that ships must pass
 It is the required entrance to the Dark Continent from the sea and leads to the Blood-Red Lake.
 
 ## Monsters
-- [[Deadburn]]
-- [[Redeye]]
-- [[Banshee Queen]]
-- [[Teeth Skeleton]]
-- [[Cliff Ghost]]
-- [[Chaos Seaman]]
-- [[Mud Elephant]]
-- [[Skeleton Mermaid Queen]]
-- [[Ghosties]]
-- [[Souldrinker]]
-- [[Canyon Wraith]]
-- [[Deadlect]] — can break a ship's magic barrier and sink it.
+- [Deadburn](../../../../../Bestiary/deadburn_ch352.md)
+- [Redeye](../../../../../Bestiary/redeye_ch352.md)
+- [Banshee Queen](../../../../../Bestiary/banshee_ch23.md)
+- [Teeth Skeleton](../../../../../Bestiary/teeth_skeleton_ch352.md)
+- [Cliff Ghost](../../../../../Bestiary/cliff_ghost_ch352.md)
+- [Chaos Seaman](../../../../../Bestiary/chaos_seaman_ch352.md)
+- [Mud Elephant](../../../../../Bestiary/mud_elephant_ch352.md)
+- [Skeleton Mermaid Queen](../../../../../Bestiary/skeleton_mermaid_queen_ch352.md)
+- [Ghosties](../../../../../Bestiary/ghosties_ch352.md)
+- [Souldrinker](../../../../../Bestiary/souldrinker_ch352.md)
+- [Canyon Wraith](../../../../../Bestiary/canyon_wraith_ch352.md)
+- [Deadlect](../../../../../Bestiary/deadlect_ch352.md) — can break a ship's magic barrier and sink it.
 
 ## Mechanics
 - Field effect "Ghostly Canyon": all healing and regeneration disabled, divine power sealed (ch. 352).

@@ -1,5 +1,7 @@
 # Coming-of-Age Clearing
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | clearing |

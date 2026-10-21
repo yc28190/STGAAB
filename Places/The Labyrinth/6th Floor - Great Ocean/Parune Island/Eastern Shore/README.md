@@ -1,5 +1,7 @@
 # Eastern Shore
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Parune Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | shore |
@@ -10,12 +12,12 @@
 The eastern coast of Parune Island, where reefs jut up at random and waves crash against them. As the tide rises during the event, the beach sinks half underwater.
 
 ## Monsters
-- [[Siren Queen]] — 4th-grade wave 1 boss, arrives on a tsunami-like wave
-- [[Siren]] — 5th grade, summoned in fifteens by the Siren Queen
-- [[Lanemut Warrior]] — wave monster
-- [[Lanemut Shaman]] — wave monster
-- [[Conch Shell Horn]] — spits venom
-- [[Garvel]] — splits up to three times when killed
+- [Siren Queen](../../../../../Bestiary/siren_queen_ch272.md) — 4th-grade wave 1 boss, arrives on a tsunami-like wave
+- [Siren](../../../../../Bestiary/siren_ch272.md) — 5th grade, summoned in fifteens by the Siren Queen
+- [Lanemut Warrior](../../../../../Bestiary/lanemut_warrior_ch271.md) — wave monster
+- [Lanemut Shaman](../../../../../Bestiary/lanemut_shaman_ch272.md) — wave monster
+- [Conch Shell Horn](../../../../../Bestiary/conch_shell_horn_ch271.md) — spits venom
+- [Garvel](../../../../../Bestiary/garvel_ch271.md) — splits up to three times when killed
 
 ## Mechanics
 - The first boss appears here, riding the wave 1 tsunami (ch. 271–272).

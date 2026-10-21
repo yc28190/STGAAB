@@ -1,5 +1,7 @@
 # Hall of Record Fragments
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Auril Gavis's Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden chamber (altar) |

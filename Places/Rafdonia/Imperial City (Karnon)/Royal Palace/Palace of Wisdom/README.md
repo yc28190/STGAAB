@@ -1,5 +1,7 @@
 # Palace of Wisdom
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Royal Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (palace) |
@@ -19,6 +21,10 @@ None recorded.
 - ch. 643: A steady stream of nobles visits Bjorn's room: social callers, business peddlers and matchmakers. A note slipped under his door reads "Midnight, garden fountain".
 - ch. 644: Ragna comes to his door early on the morning of the meeting.
 - ch. 646: Hyunbyul, as Black Mask, waits in an alley outside the palace.
+
+## Sub-places
+- [Garden Fountain](Garden%20Fountain/README.md)
+- [Royal Meeting Chamber](Royal%20Meeting%20Chamber/README.md)
 
 ## Chapters
 643–646

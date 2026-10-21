@@ -1,5 +1,7 @@
 # Amelia's House
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (house) |

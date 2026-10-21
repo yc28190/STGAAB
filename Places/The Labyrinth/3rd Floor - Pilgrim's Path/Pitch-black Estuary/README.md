@@ -1,5 +1,7 @@
 # Pitch-black Estuary
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -12,8 +14,8 @@ A tangle of dozens of shallow ditches and streams flowing in every direction, wi
 It is the 3rd-floor starting point for those coming up the Land of the Dead route.
 
 ## Monsters
-- [[Frogman]] — 8th grade, bipedal frogs with harpoons, very agile; [Slimy Mucus] makes blunt weapons nearly useless
-- [[Frogman Shaman]] — its eyeballs are a valuable collection item
+- [Frogman](../../../../Bestiary/frogman_ch115.md) — 8th grade, bipedal frogs with harpoons, very agile; [Slimy Mucus] makes blunt weapons nearly useless
+- [Frogman Shaman](../../../../Bestiary/frogman_shaman_ch115.md) — its eyeballs are a valuable collection item
 
 ## Mechanics
 - Starting point of the Land of the Dead route; the party headed northeast from here (ch. 115).

@@ -1,5 +1,7 @@
 # 8th District
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -12,8 +14,8 @@ A district of Rafdonia next to the 7th District, across the wall from it, with c
 During the war the district, held by the rebels, was garrisoned by corpse armies; Bjorn's party turned it into a sea of fire, with whole streets ablaze, burning corpses and thick smoke. Afterwards it was completely incinerated, and the stench of smoke hung over the whole city even during the festival.
 
 ## Monsters
-- [[Corpse army]] — stationed throughout the district by the rebels; burned as fuel
-- [[Modified corpses]] — part of the Corpse Collector's forces defending the district
+- Corpse army — stationed throughout the district by the rebels; burned as fuel
+- Modified corpses — part of the Corpse Collector's forces defending the district
 
 ## Mechanics
 - Exit point of the secret passage from Bifron (ch. 203).
@@ -28,6 +30,10 @@ During the war the district, held by the rebels, was garrisoned by corpse armies
 - ch. 729–733: Bjorn burns the district to draw attention from Amelia in District 4, taunting Ricardo Luhenpraha over Vivian's radio; the Marquis contacts him on the same channel. Bjorn and Astarotta fight about twenty Orculus elites under field commander Nortia, plus the Corpse Collector.
 - ch. 738: Returning from the Underworld, Bjorn runs over half an hour through smoke to reach a wall.
 - ch. 775–788: The district lies in ashes after the war; restoration is planned.
+
+## Sub-places
+- [Gathering Bar](Gathering%20Bar/README.md)
+- [Wall between District 8 and District 7](Wall%20between%20District%208%20and%20District%207/README.md)
 
 ## Chapters
 72, 74, 203, 376, 725, 726, 729–733, 738, 775, 776, 778, 781, 783, 788

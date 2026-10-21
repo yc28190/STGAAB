@@ -1,5 +1,7 @@
 # Banquet Venue
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Count Perdehilt's Mansion](../README.md)
+
 | | |
 |---|---|
 | **Type** | arena (banquet grounds) |

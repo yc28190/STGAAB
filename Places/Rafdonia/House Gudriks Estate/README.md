@@ -1,5 +1,7 @@
 # House Gudriks Estate
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (estate) |

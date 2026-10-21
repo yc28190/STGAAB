@@ -1,5 +1,7 @@
 # Fairy Sanctuary (Barharrium)
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | sanctuary (holy land) |
@@ -28,6 +30,12 @@ None recorded.
 - ch. 662: A young silver-haired fairy touches the barrier from inside, frustrated, wondering what lies beyond.
 - ch. 778: Fairies openly insult Elwen as a traitor for leaving the Pureblood Order. Bjorn uses [Savage Eruption] and makes an embarrassing public oath.
 - ch. 784: Beleg looks after Mei here.
+
+## Sub-places
+- [Daria's Grave](Daria's%20Grave/README.md)
+- [Divine Tree](Divine%20Tree/README.md)
+- [Fairy Hero's House](Fairy%20Hero's%20House/README.md)
+- [Fortified Woods](Fortified%20Woods/README.md)
 
 ## Chapters
 138, 231, 234, 240, 286, 341, 343, 346, 347, 350, 366, 408, 428, 434, 442, 443, 446, 642, 662, 778–780, 784

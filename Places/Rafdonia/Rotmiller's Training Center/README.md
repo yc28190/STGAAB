@@ -1,5 +1,7 @@
 # Rotmiller's Training Center
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (training center) |

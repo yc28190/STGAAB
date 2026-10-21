@@ -1,5 +1,7 @@
 # Leathlas Church Eastern Branch
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [7th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (church branch) |
@@ -22,6 +24,9 @@ None recorded.
 - ch. 745–746: Sven and others reach it through the fire under [Prayer of Protection]; 37 refugees shelter inside under a retired rank-7 explorer.
 - ch. 747: Over 100 Noark soldiers douse the fire and climb in through the 2nd-floor windows; Marone's [Iron Wall] briefly seals the stairs.
 - ch. 750: Sven sends everyone down the passage and stays to fight; he rejects the evil god Karui, the Star Goddess erases Karui's mark and grants [Agent of the Stars], and he sets white [Unquenchable Flame] inside. Avman Urikfrit bursts out of the passage on the giant bear Chulwoong Iradoon and rescues him; the statue is shattered.
+
+## Sub-places
+- [Secret Passage Well](Secret%20Passage%20Well/README.md)
 
 ## Chapters
 744–747, 750, 752

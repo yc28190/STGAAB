@@ -1,5 +1,7 @@
 # Eastern Great Forest
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (forest) |
@@ -19,6 +21,10 @@ None recorded.
 
 ## Notable events
 - ch. 661–665: Bjorn emerges here from the underground passage and later identifies the region with Ibaekho's help.
+
+## Sub-places
+- [Cave Mouth (Ibaekho Graffiti)](Cave%20Mouth%20(Ibaekho%20Graffiti)/README.md)
+- [Return Circle Corridor](Return%20Circle%20Corridor/README.md)
 
 ## Chapters
 661–662, 665

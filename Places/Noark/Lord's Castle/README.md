@@ -1,5 +1,7 @@
 # Lord's Castle
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (fortress) |
@@ -25,6 +27,15 @@ None recorded.
 ## Notable events
 - ch. 318: On D-Day the gate is locked; Bjorn leaps the wall with [Leap] and crushes the knights on the inner castle's 1st floor with a spinning "Whirlwind" attack.
 - ch. 339–340: At its door Erwen's [Rupture] arrow shatters Amelia's clone; Erwen and Bjorn then escape to the surface through the secret passage.
+
+## Sub-places
+- [Alchemist's Workshop](Alchemist's%20Workshop/README.md)
+- [Ancient Shelter](Ancient%20Shelter/README.md)
+- [Audience Chamber](Audience%20Chamber/README.md)
+- [Barker Clan House](Barker%20Clan%20House/README.md)
+- [Grand Hall](Grand%20Hall/README.md)
+- [Labyrinth Management Office](Labyrinth%20Management%20Office/README.md)
+- [Rainwales Bar](Rainwales%20Bar/README.md)
 
 ## Chapters
 294, 295, 302, 304, 316–318, 321, 322, 329, 336, 339, 340, 355

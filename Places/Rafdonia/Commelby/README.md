@@ -1,5 +1,7 @@
 # Commelby
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (commercial city) |
@@ -32,6 +34,21 @@ None recorded.
 - ch. 649–654: After Districts 7 and 13 fall and the labyrinth is sealed, rents soar as explorers open shops while gear prices slump.
 - ch. 725–773: District 4 becomes the main front of the Noark war.
 - ch. 781: Prices go wild with inflation.
+
+## Sub-places
+- [Alminus Bank](Alminus%20Bank/README.md)
+- [Alminus Central Exchange](Alminus%20Central%20Exchange/README.md)
+- [Anabada Clan House](Anabada%20Clan%20House/README.md)
+- [Bersil's Rented Meeting Building](Bersil's%20Rented%20Meeting%20Building/README.md)
+- [Blacksmith](Blacksmith/README.md)
+- [Business District](Business%20District/README.md)
+- [Central Administrative Office](Central%20Administrative%20Office/README.md)
+- [Commelby Inn](Commelby%20Inn/README.md)
+- [District 3](District%203/README.md)
+- [District 4](District%204/README.md)
+- [District 5](District%205/README.md)
+- [Famous Stew Restaurant](Famous%20Stew%20Restaurant/README.md)
+- [Zone 2 (Northern Commelby)](Zone%202%20(Northern%20Commelby)/README.md)
 
 ## Chapters
 18, 21, 43, 44, 47, 72, 74, 119, 122, 149, 150, 155, 162, 172, 192, 193, 204, 205, 256, 257, 287, 391, 432, 446, 449, 473, 476, 490, 492, 494, 632, 649, 654, 781

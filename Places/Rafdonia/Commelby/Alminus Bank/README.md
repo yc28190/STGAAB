@@ -1,5 +1,7 @@
 # Alminus Bank
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Commelby](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (bank) |

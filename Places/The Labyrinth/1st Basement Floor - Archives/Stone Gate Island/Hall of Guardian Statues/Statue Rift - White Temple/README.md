@@ -1,5 +1,7 @@
 # Statue Rift - White Temple
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 A boss-only copy of the 3rd floor's White Temple rift, opened from its statue in the Hall of Guardian Statues.
 
 ## Monsters
-- [[End Knight]] — guardian (Knight of the End)
+- [End Knight](../../../../../../Bestiary/end_knight_ch584.md) — guardian (Knight of the End)
 
 ## Mechanics
 - Solo rift. Here the End Knight charges straight in without his usual lines (ch. 587).

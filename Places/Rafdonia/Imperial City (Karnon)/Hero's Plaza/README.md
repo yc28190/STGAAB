@@ -1,5 +1,7 @@
 # Hero's Plaza
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | plaza |
@@ -17,6 +19,9 @@ None recorded.
 
 ## Notable events
 - ch. 491: Royal photographers take Bjorn's picture in front of the Stone of Honor.
+
+## Sub-places
+- [Stone of Honor](Stone%20of%20Honor/README.md)
 
 ## Chapters
 491

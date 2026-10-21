@@ -1,5 +1,7 @@
 # Hidden Passage with the Stone Tablet
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden area (passage) |
@@ -10,7 +12,7 @@
 A small crevice in a passage wall, too narrow for a barbarian until Bjorn broke the wall open with his hammer. Behind it a passage about 10 m long ends at a stone tablet that looks like a portal stone. An ancient-language inscription buried in the ground beneath it repeats the words on the Witch statue and in the Witch's Cabin: all are equal under one star, one sun and one moon.
 
 ## Monsters
-- [[Abyssal Watcher]] — present while Verzak is on the floor
+- [Abyssal Watcher](../../../../Bestiary/abyssal_watcher_ch222.md) — present while Verzak is on the floor
 
 ## Mechanics
 - The broken wall does not regrow, which marks the spot as a hidden piece (ch. 504).

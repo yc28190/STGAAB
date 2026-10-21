@@ -1,5 +1,7 @@
 # Pilgrim's Cave
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Floor - Crystal Cave](../../../README.md) › [Central Dark Zone](../../README.md) › [Great Sage Monument](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden field (memory space) |
@@ -13,8 +15,8 @@ It replays the memory of a pilgrim who sided with the Witch in the Witch's War, 
 
 ## Monsters
 - Imperial soldiers — hunt the pilgrims; can always spot one, even in disguise
-- [[Centurion Argarsil Dreadfear]] — the pursuing commander and final boss
-- [[Goblin]] and other cave monsters — friendly to pilgrims and protect them
+- Centurion Argarsil Dreadfear — the pursuing commander and final boss
+- [Goblin](../../../../../../Bestiary/goblin_ch4.md) and other cave monsters — friendly to pilgrims and protect them
 
 ## Mechanics
 - Reached through Special Condition "Distorted Memories" during the phase-4 transition of a raid of five or fewer, triggered by Goblin Paralyzing Poison (ch. 482).
@@ -33,6 +35,10 @@ It replays the memory of a pilgrim who sided with the Witch in the Witch's War, 
 - ch. 486–488: Erwen dies as a decoy; Ainar carries the downed Bjorn and dies at the entrance.
 - ch. 488–489: Bjorn, alone, slays the Centurion.
 - ch. 490: Bjorn chooses revival, and all three companions come back in the plaza.
+
+## Sub-places
+- [Nameless Pilgrim's Chamber](Nameless%20Pilgrim's%20Chamber/README.md)
+- [Pilgrim's Altar](Pilgrim's%20Altar/README.md)
 
 ## Chapters
 482–490, 595

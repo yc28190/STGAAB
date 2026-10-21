@@ -1,5 +1,7 @@
 # Count Perdehilt's Mansion
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Imperial City (Karnon)](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (estate) |
@@ -22,6 +24,9 @@ None recorded.
 - ch. 210, 220: Bjorn recalls meeting the knight Kars Erimore at an earlier banquet here.
 - ch. 234: The Count offers Bjorn his daughter Arabella and his patronage.
 - ch. 445: Bjorn's last banquet before his disappearance was held here.
+
+## Sub-places
+- [Banquet Venue](Banquet%20Venue/README.md)
 
 ## Chapters
 94, 95, 96, 210, 220, 234, 445

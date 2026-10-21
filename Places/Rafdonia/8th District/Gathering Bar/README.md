@@ -1,5 +1,7 @@
 # Gathering Bar
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [8th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (bar) |

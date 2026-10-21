@@ -1,5 +1,7 @@
 # 13th District
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -21,6 +23,9 @@ None recorded.
 - ch. 623–628: Noark occupies the district together with District 7; the Orculus leader is believed to be there.
 - ch. 633–645: The royal army retakes it on the third day and rebuilds it.
 - ch. 725: It is occupied by Ravigion along with Districts 7 and 8.
+
+## Sub-places
+- [Bjorn's Second Inn](Bjorn's%20Second%20Inn/README.md)
 
 ## Chapters
 43, 47, 127, 130, 623, 624, 627, 628, 632–634, 645, 725

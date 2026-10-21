@@ -1,5 +1,7 @@
 # 8th Floor - Dawn Land
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,8 +14,8 @@ A peaceful land of lush green hills and meadows opening onto a vast plain, with 
 Outside its rifts it has no monsters; the floor's real content is the single rift that is always open. Noark held the floor alone for over a year, using it to raise high-level fighters. It shares its name with the witch pilgrims' paradise, the Land of Dawn.
 
 ## Monsters
-- [[Floor Lord]] — the 8th-floor Floor Lord, killed by Noark on its last expedition.
-- [[Dragon]]s — appear as Rift Guardians.
+- Floor Lord — the 8th-floor Floor Lord, killed by Noark on its last expedition.
+- [Dragon](../../../Bestiary/dragon_ch137.md)s — appear as Rift Guardians.
 
 ## Mechanics
 - Achievement "Reached 8th Floor": Soul Power +50 permanently, a "Baptism" from the Tower (ch. 406).
@@ -29,6 +31,12 @@ Outside its rifts it has no monsters; the floor's real content is the single rif
 - ch. 502: Clown reports at the Round Table that Noark killed the Floor Lord.
 - ch. 618: Hamsik wishes to live in the pilgrims' Land of Dawn reading books.
 - ch. 777–789: Noark's year-long push here is recalled; Anabada sets the 8th-floor rift as its expedition goal.
+
+## Sub-places
+- [City of Light Kalheum](City%20of%20Light%20Kalheum/README.md)
+- [Eblus's Rift](Eblus's%20Rift/README.md)
+- [Frostlord's Palace](Frostlord's%20Palace/README.md)
+- [Necropolis](Necropolis/README.md)
 
 ## Chapters
 406, 414–415, 502, 586, 618, 624, 627, 777, 785, 789, 797

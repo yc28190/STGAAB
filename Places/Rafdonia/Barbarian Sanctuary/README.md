@@ -1,5 +1,7 @@
 # Barbarian Sanctuary
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (sacred site / tribal territory) |
@@ -42,6 +44,24 @@ None recorded.
 - ch. 633–651: The Sanctuary shelters 8,712 refugees; house-building contests turn warriors into a workforce, and the Yandel Trading Company is founded, the first company ever founded by barbarians.
 - ch. 739–746: Refugee clans shelter here during the war. When the barrier fails, a Noark magic cannon destroys the gate; the defenders feign a retreat and collapse the wall at the gate to cut off the attackers. Bjorn saves Rotmiller, then leads out 207 explorers and 800 handpicked warriors.
 - ch. 773–774: After the war the dead are brought back; warriors are buried in the forest with a memorial stone for the missing, and humans with headstones.
+
+## Sub-places
+- [Administrative Office](Administrative%20Office/README.md)
+- [Chieftain's Tent](Chieftain's%20Tent/README.md)
+- [Coming-of-Age Clearing](Coming-of-Age%20Clearing/README.md)
+- [Forest Path](Forest%20Path/README.md)
+- [Forest Square](Forest%20Square/README.md)
+- [Graveyard](Graveyard/README.md)
+- [Grounds of Proof](Grounds%20of%20Proof/README.md)
+- [Land Sale Plots](Land%20Sale%20Plots/README.md)
+- [Protective Barrier](Protective%20Barrier/README.md)
+- [Quiet Zone](Quiet%20Zone/README.md)
+- [Residential Area](Residential%20Area/README.md)
+- [Sanctuary Gate](Sanctuary%20Gate/README.md)
+- [Shaman's Tent](Shaman's%20Tent/README.md)
+- [Tribal Council](Tribal%20Council/README.md)
+- [Vekta's House Site](Vekta's%20House%20Site/README.md)
+- [Warrior's Forest](Warrior's%20Forest/README.md)
 
 ## Chapters
 2, 3, 19–21, 43, 77–79, 100, 127, 131, 150–154, 174, 204, 205, 210, 232, 235, 240, 246–248, 257, 259, 260, 262, 286, 287, 291, 295, 312, 332, 334, 367, 390–392, 434, 449–455, 465, 466, 468, 478, 494, 497, 498, 502, 581, 586, 623, 633, 634, 637–639, 642, 647, 650, 651, 662, 722, 724, 725, 738, 739, 741–743, 745, 746, 773–775, 777, 780–782, 785, 787, 788

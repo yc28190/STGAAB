@@ -1,5 +1,7 @@
 # Tree Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -24,6 +26,9 @@ A single gigantic tree rising out of the silver sea, far bigger and taller than 
 - ch. 523: The climb shows how fast difficulty rises with height.
 - ch. 529: The party hits a dead end.
 - ch. 607: The chief's notebook gives advice about the top of the tree.
+
+## Sub-places
+- [Root Tunnels](Root%20Tunnels/README.md)
 
 ## Chapters
 518, 520, 521, 523, 529, 538, 553, 607, 615

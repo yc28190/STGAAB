@@ -1,5 +1,7 @@
 # Gatehouse (Outer Checkpoint)
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Crimson Fortress (Blood Citadel)](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift area (gatehouse) |
@@ -10,8 +12,8 @@
 At the end of the mountain road, two winged demon statues guard an old wooden door. Inside is a windowless inspection post once used to check wagons and travellers, with a shared bunk room upstairs and a ladder to the roof.
 
 ## Monsters
-- [[Gargoyle Statue]] — petrifies anyone in view
-- [[Deadman]], [[Deadman Soldier]], [[Deadman Commander]] — rise from holes in the walls and from under furniture; the commander waits on the roof
+- [Gargoyle Statue](../../../../../Bestiary/gargoyle_ch29.md) — petrifies anyone in view
+- [Deadman](../../../../../Bestiary/deadman_ch29.md), [Deadman Soldier](../../../../../Bestiary/deadman_soldier_ch29.md), [Deadman Commander](../../../../../Bestiary/deadman_commander_ch29.md) — rise from holes in the walls and from under furniture; the commander waits on the roof
 
 ## Mechanics
 - The gargoyle statues petrify anyone who comes into view; the usual tactic is to sacrifice one member or have a wizard lift the curse (ch. 29).

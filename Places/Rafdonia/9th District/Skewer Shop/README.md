@@ -1,5 +1,7 @@
 # Skewer Shop
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [9th District](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (food stall) |

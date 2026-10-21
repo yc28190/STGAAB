@@ -1,5 +1,7 @@
 # Divine Tree
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Fairy Sanctuary (Barharrium)](../README.md)
+
 | | |
 |---|---|
 | **Type** | landmark (tree) |

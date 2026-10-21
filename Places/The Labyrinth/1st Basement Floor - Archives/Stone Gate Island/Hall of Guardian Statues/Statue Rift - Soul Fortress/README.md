@@ -1,5 +1,7 @@
 # Statue Rift - Soul Fortress
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Stone Gate Island](../../README.md) › [Hall of Guardian Statues](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (statue rift, boss-only) |
@@ -10,7 +12,7 @@
 A four-phase rift. Phase 1 is a dark maze hall branching left, right and straight, with seamless walls that fire magic cannons, leading to a square stone chamber holding a watermelon-sized magic stone. Phase 2 is an elegant mansion hallway mirrored endlessly, its rooms full of boxes. Phase 3 takes place inside a giant worm's body, with a slippery, writhing floor and acid oozing up from every surface. Phase 4 is a void like outer space around a transparent glass pyramid staircase, with a giant eyeball-shaped magic stone at the top.
 
 ## Monsters
-- [[Spirit Guardian Housiel]] — the guardian, which is the maze itself
+- [Spirit Guardian Housiel](../../../../../../Bestiary/housiel_ch591.md) — the guardian, which is the maze itself
 - Monsters that pop out of picture frames
 - Monster legion — hundreds to 1,000+ on the final staircase
 

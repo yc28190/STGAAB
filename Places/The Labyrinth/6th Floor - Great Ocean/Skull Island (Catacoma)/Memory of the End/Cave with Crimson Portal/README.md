@@ -1,5 +1,7 @@
 # Cave with Crimson Portal
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Skull Island (Catacoma)](../../README.md) › [Memory of the End](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave (portal site) |

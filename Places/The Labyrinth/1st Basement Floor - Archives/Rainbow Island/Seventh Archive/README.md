@@ -1,5 +1,7 @@
 # Seventh Archive
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Rainbow Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (temple / research facility) |
@@ -12,8 +14,8 @@ A diamond-shaped pyramid temple at the heart of the Rainbow Island jungle. A cen
 According to its director, Panthelion was a secret underground Empire laboratory built to produce loyal biological weapons. It boomed during the witch war, when thousands of monsters were brought in each day. Hamsik (once called Marx) was a test subject who died there during a witch's attack.
 
 ## Monsters
-- [[Drone]] — patrols the corridors and repairs rails
-- [[Mechanical Wolf]] — sleeps in a prison hall; raided by the expedition
+- [Drone](../../../../../Bestiary/drone_ch610.md) — patrols the corridors and repairs rails
+- [Mechanical Wolf](../../../../../Bestiary/mechanical_wolf_ch615.md) — sleeps in a prison hall; raided by the expedition
 - Dazed monsters — led around the prison and onto the rails
 - Synthetic monsters — combined monsters built in the Underground Factory
 
@@ -30,6 +32,10 @@ According to its director, Panthelion was a secret underground Empire laboratory
 - ch. 622: The expedition accepts the director's pact and leaves.
 - ch. 723: A test tube like the king's giant one is compared to those of the lab.
 - ch. 810: The B1 facility is distinguished from Arta's First Magi-Tech Research Institute.
+
+## Sub-places
+- [Control Room](Control%20Room/README.md)
+- [Underground Factory](Underground%20Factory/README.md)
 
 ## Chapters
 611, 615–622, 723, 810

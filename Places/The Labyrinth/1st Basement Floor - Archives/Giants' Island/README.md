@@ -1,5 +1,7 @@
 # Giants' Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Basement Floor - Archives](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -10,14 +12,14 @@
 An island about ten times the size of the Human (Chief's) Island, with cliffs to the north and a southern coast where ships can land. Trees almost ten stories tall, like apartment blocks, stand everywhere. After a rainy season, thousands of magic stones cover its silver-sand coast. A colossal giant over 40 m tall lives at the island's center and rises to roar at ships as they leave.
 
 ## Monsters
-- [[Goblin]] — enlarged by the island's [Gigantism]
-- [[Troll]] — enlarged
-- [[Werewolf]] — enlarged
-- [[Iron Golem]] — enlarged
-- [[Nelphardon]]
-- [[Balksus]] — seen torn apart by the giant
-- [[Hippermachant]] — also written Hiphramagent / Hipramagent. Cowardly, roughly rank 2.7. Skills [Gigantification], [Crouch], [Roar of Doom], [Gravity Field], [Body Compression]. Farmable for its essence
-- [[Mirayel]] — came out of the sea on day 75 and dropped No. 7 Verdant Spear
+- [Goblin](../../../../Bestiary/goblin_ch4.md) — enlarged by the island's [Gigantism]
+- [Troll](../../../../Bestiary/troll_ch33.md) — enlarged
+- [Werewolf](../../../../Bestiary/werewolf_ch50.md) — enlarged
+- [Iron Golem](../../../../Bestiary/iron_golem_ch524.md) — enlarged
+- [Nelphardon](../../../../Bestiary/nelphardon_ch526.md)
+- [Balksus](../../../../Bestiary/balksus_ch525.md) — seen torn apart by the giant
+- [Hippermachant](../../../../Bestiary/hiphramagent_ch517.md) — also written Hiphramagent / Hipramagent. Cowardly, roughly rank 2.7. Skills [Gigantification], [Crouch], [Roar of Doom], [Gravity Field], [Body Compression]. Farmable for its essence
+- Mirayel — came out of the sea on day 75 and dropped No. 7 Verdant Spear
 - Colossal giant (40 m+) — island boss at the center
 
 ## Mechanics
@@ -32,6 +34,9 @@ An island about ten times the size of the Human (Chief's) Island, with cliffs to
 - ch. 526–528: Bjorn's group, the Hex survivors and the Armin team map over 90% of the south in 3 days.
 - ch. 538–541: The party collects about 1 billion stones' worth of magic stones. Mirayel is killed in 6 min 17 s and drops No. 7 Verdant Spear.
 - ch. 560, 622: The island is considered for Hippermachant farming and for the giant boss, but Bjorn judges the expedition too weak.
+
+## Sub-places
+- [Portal Stele Cave (Hex Hideout)](Portal%20Stele%20Cave%20(Hex%20Hideout)/README.md)
 
 ## Chapters
 519, 523–529, 538–540, 542, 551, 553, 560, 607, 615, 622

@@ -1,5 +1,7 @@
 # Verzak's Domain (Abyssal Fog)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | field effect zone (hidden boss domain) |
@@ -10,10 +12,10 @@
 Black fog that limits sight to about 2 m in every direction. Within roughly 2 km of Verzak, hundreds of disembodied eyes float in the darkness. Verzak himself is about 2 m tall, wrapped in a ragged robe like burial clothes, with dark blue smoke where skin should be and a single huge crimson eye filling the space under his hood.
 
 ## Monsters
-- [[Verzak]] — Lord of the Abyss, hidden field boss
-- [[Abyssal Watcher]] — floating eyes that share his vision
-- [[Abyssal Goblin]]
-- [[Abyssal Blade Wolf]]
+- [Verzak](../../../../Bestiary/verzak_ch219.md) — Lord of the Abyss, hidden field boss
+- [Abyssal Watcher](../../../../Bestiary/abyssal_watcher_ch222.md) — floating eyes that share his vision
+- [Abyssal Goblin](../../../../Bestiary/abyssal_goblin_ch222.md)
+- [Abyssal Blade Wolf](../../../../Bestiary/abyssal_blade_wolf_ch221.md)
 
 ## Mechanics
 - Appears after the 9th Lord of Fear is killed (special condition "Nine Fears") (ch. 217, 219).

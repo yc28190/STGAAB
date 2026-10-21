@@ -1,5 +1,7 @@
 # Lignaracia Cave
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Gnometree (6th District)](../../README.md) › [Kiarbys](../README.md)
+
 | | |
 |---|---|
 | **Type** | cave (hidden piece) |

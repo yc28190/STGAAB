@@ -1,5 +1,7 @@
 # City Outskirts
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | region |
@@ -18,6 +20,9 @@ None recorded.
 ## Notable events
 - ch. 340: Lee Baekho offers Misha new identities and a hidden life here if his plan fails.
 - ch. 349: The small Tovera church is mentioned here.
+
+## Sub-places
+- [Outer-Wall Slums](Outer-Wall%20Slums/README.md)
 
 ## Chapters
 340, 349

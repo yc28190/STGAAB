@@ -1,5 +1,7 @@
 # Boss Room
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Skull Island (Catacoma)](../../README.md) › [Catacoma Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (boss room) |
@@ -10,8 +12,8 @@
 The final chamber of the Catacoma Cave. Like the rest of the dungeon its walls, ceiling and floor are bone, lit by candles in skull sconces, but here the floor is a sea of skulls and a massive skull, far larger than the one at the cave entrance, is mounted on the front wall.
 
 ## Monsters
-- [[Gravekeeper Alleton]] — gatekeeper standing before the door
-- [[Skull King]] — Grade 3 boss that rises from the skulls
+- [Gravekeeper Alleton](../../../../../../Bestiary/gravekeeper_alleton_ch796.md) — gatekeeper standing before the door
+- [Skull King](../../../../../../Bestiary/skull_king_ch795.md) — Grade 3 boss that rises from the skulls
 
 ## Mechanics
 - Normally, when Gravekeeper Alleton dies, the curses of the most-cursed character spread to the party, so kills are rotated; hidden piece: if the Cursed One kills it, the curse does not spread (ch. 796).

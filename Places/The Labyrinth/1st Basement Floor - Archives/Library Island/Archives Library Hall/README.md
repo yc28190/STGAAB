@@ -1,5 +1,7 @@
 # Archives Library Hall
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Library Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (library hall / hunting ground) |
@@ -12,20 +14,20 @@ A vast cylindrical hall whose lights switch on all at once when someone enters. 
 The hall is effectively a self-service monster arena. Certain books are bestiary entries, and placing one on the slab summons the monsters it describes. Because there are no respawn waits and plenty of time to prepare, it became one of the richest hunting grounds on the floor for those who reached it first.
 
 ## Monsters
-- [[Wall Mole]] — summoned from a bestiary book on the lower levels
-- [[Nightfla]] — summoned from a bestiary book
-- [[McGuffin]] — summoned from a bestiary book
-- [[Frost Wolf]] — summoned from a bestiary book
-- [[Ice Golem]] — summoned from a bestiary book
-- [[Death Knight]] — summoned from a bestiary book
-- [[Wyvern]] — summoned from a bestiary book
-- [[Minotaur]] — summoned from a bestiary book
-- [[Tentakulan]] — new species; its entry exists only because Matherkin Lillgrams discovered it
-- [[Steel Giant]] — summoned from a higher-level book
-- [[Phoenix]] — summoned from a higher-level book
-- [[Earth Wyrm]] — summoned from a higher-level book
-- [[Garcian]] — summoned from a higher-level book
-- [[Abyssal Skeleton]] — summoned from a higher-level book
+- [Wall Mole](../../../../../Bestiary/wall_mole_ch510.md) — summoned from a bestiary book on the lower levels
+- [Nightfla](../../../../../Bestiary/nightfla_ch510.md) — summoned from a bestiary book
+- [McGuffin](../../../../../Bestiary/mcguffin_ch509.md) — summoned from a bestiary book
+- [Frost Wolf](../../../../../Bestiary/frost_wolf_ch103.md) — summoned from a bestiary book
+- [Ice Golem](../../../../../Bestiary/ice_golem_ch103.md) — summoned from a bestiary book
+- [Death Knight](../../../../../Bestiary/death_knight_ch32.md) — summoned from a bestiary book
+- [Wyvern](../../../../../Bestiary/wyvern_ch110.md) — summoned from a bestiary book
+- [Minotaur](../../../../../Bestiary/minotaur_ch136.md) — summoned from a bestiary book
+- [Tentakulan](../../../../../Bestiary/tentakulan_ch511.md) — new species; its entry exists only because Matherkin Lillgrams discovered it
+- [Steel Giant](../../../../../Bestiary/steel_giant_ch139.md) — summoned from a higher-level book
+- [Phoenix](../../../../../Bestiary/phoenix_ch511.md) — summoned from a higher-level book
+- [Earth Wyrm](../../../../../Bestiary/earth_wyrm_ch511.md) — summoned from a higher-level book
+- [Garcian](../../../../../Bestiary/garcian_ch511.md) — summoned from a higher-level book
+- [Abyssal Skeleton](../../../../../Bestiary/abyssal_skeleton_ch511.md) — summoned from a higher-level book
 
 ## Mechanics
 - Some books are encyclopedia entries: a picture plus ancient-language text giving the monster's name, habitat, exact base stats, every essence color with its skills, the origin of its name, and who named it on which floor (ch. 510).

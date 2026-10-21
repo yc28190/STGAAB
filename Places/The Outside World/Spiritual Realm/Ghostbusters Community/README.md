@@ -1,5 +1,7 @@
 # Ghostbusters Community
 
+> **Location** : [Places](../../../README.md) › [The Outside World](../../README.md) › [Spiritual Realm](../README.md)
+
 | | |
 |---|---|
 | **Type** | spiritual space (players' community) |
@@ -40,6 +42,13 @@ None recorded.
 - ch. 569–579: A GM notice announces closure with GP refunds; the board floods with panic; Hyunbyeol messages Bjorn "See you outside"; the server shuts down for good. Auril Gavis says players had grown too comfortable to seek home; Bjorn suspects the aim was to cut off Ibaekho.
 - ch. 582: Versil passes on the rumor that the evil spirits' assembly has been disbanded.
 - ch. 792–795: Recalled as the place where Bjorn once sold Skull Island boss information.
+
+## Sub-places
+- [Customization Room](Customization%20Room/README.md)
+- [GM's Study](GM's%20Study/README.md)
+- [Lee Hansu's Room](Lee%20Hansu's%20Room/README.md)
+- [Long Live Korean Independence (Chat Room)](Long%20Live%20Korean%20Independence%20(Chat%20Room)/README.md)
+- [Round Table](Round%20Table/README.md)
 
 ## Chapters
 75–76, 78, 86, 90–93, 98, 100, 123–126, 135, 155–156, 174–175, 195–200, 235–236, 239–240, 341–345, 347, 367–372, 387–390, 544–545, 551, 569–579, 582, 792–793, 795

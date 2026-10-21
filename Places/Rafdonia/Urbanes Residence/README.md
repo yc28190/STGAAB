@@ -1,5 +1,7 @@
 # Urbanes Residence
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (residence) |

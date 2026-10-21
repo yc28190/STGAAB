@@ -1,5 +1,7 @@
 # Pione Island
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [6th Floor - Great Ocean](../README.md)
+
 | | |
 |---|---|
 | **Type** | island |
@@ -12,7 +14,7 @@ A relatively flat island, unlike its neighbours with their central mountains, sm
 Its fame comes from its single, rare monster, which always drops a Numbered Item. Clans have informally carved the island into six territories.
 
 ## Monsters
-- [[Lafremimic]] — 4th-grade rare, non-aggressive chest monster; always drops a Numbered Item
+- [Lafremimic](../../../../Bestiary/lafremimic_ch375.md) — 4th-grade rare, non-aggressive chest monster; always drops a Numbered Item
 
 ## Mechanics
 - The seventh island on the eastern route, about 10 days from the start (ch. 375).
@@ -24,6 +26,9 @@ Its fame comes from its single, rare monster, which always drops a Numbered Item
 - ch. 376: The Huntsman Clan under Eksher Melik demands the party leave; Erwen kills a Lafremimic, which drops No. 6111 Fate Tracker ("Traffic Light Ring").
 - ch. 377–378: The clan ambushes the party at sea.
 - ch. 379: The party returns to repair the captured ships for two days and disposes of the useless prisoners.
+
+## Sub-places
+- [Pione Waters](Pione%20Waters/README.md)
 
 ## Chapters
 375–377, 379

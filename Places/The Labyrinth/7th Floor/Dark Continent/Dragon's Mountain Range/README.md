@@ -1,5 +1,7 @@
 # Dragon's Mountain Range
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (mountain range) |
@@ -12,7 +14,7 @@ The mountain range at the heart of the Dark Continent. For years it has been the
 It is also the habitat of Bellarios, but because it is a battlefield no one has hunted it there.
 
 ## Monsters
-- [[Bellarios]] — native monster; its essence would give Bjorn late-game Magic Resistance.
+- [Bellarios](../../../../../Bestiary/bellarios_ch242.md) — native monster; its essence would give Bjorn late-game Magic Resistance.
 
 ## Mechanics
 - Has its own heavy field effects (ch. 547).
@@ -22,6 +24,9 @@ It is also the habitat of Bellarios, but because it is a battlefield no one has 
 - ch. 420: Eltora Terserion, 3rd Corps commander, is stationed here with secret orders to ignore the expedition's rescue call and quietly eliminate any survivors.
 - ch. 521: Lafdonia's forces push beyond the range; the Royal Military Strategy Department suspects Noark staged the defeat, as Noark's core members have vanished.
 - ch. 546: Bellarios remains unhunted because the area is a battlefield.
+
+## Sub-places
+- [Deadwood](Deadwood/README.md)
 
 ## Chapters
 365, 409–410, 420, 521, 546–547

@@ -1,5 +1,7 @@
 # Life-Support Chamber
 
+> **Location** : [Places](../../../../../README.md) › [Rafdonia](../../../../README.md) › [Imperial City (Karnon)](../../../README.md) › [Royal Palace](../../README.md) › [Apocalypse Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (underground facility) |

@@ -1,5 +1,7 @@
 # Specter Canyon
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [5th Floor - Great Magical Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (special area) |
@@ -12,13 +14,13 @@ A dark canyon of cliffs, ledges and ravines that trembles periodically and echoe
 It is the shortest route through the 5th floor to the 6th, but a poor hunting ground.
 
 ## Monsters
-- [[Curse Stone]] — canyon monster
-- [[Corrupted Creature]] — canyon monster
-- [[Blood Ghoul]] — canyon monster
-- [[Dakyrion]] — canyon monster
-- [[Ancient Dusk]] — canyon monster
-- [[Soul Eater]] — rare 5th grade; one per opening, summons Soul Knights
-- [[Soul Knight]] — summoned by the Soul Eater
+- [Curse Stone](../../../../Bestiary/curse_stone_ch264.md) — canyon monster
+- [Corrupted Creature](../../../../Bestiary/corrupted_creature_ch264.md) — canyon monster
+- [Blood Ghoul](../../../../Bestiary/blood_ghoul_ch264.md) — canyon monster
+- [Dakyrion](../../../../Bestiary/dakyrion_ch264.md) — canyon monster
+- [Ancient Dusk](../../../../Bestiary/ancient_dusk_ch264.md) — canyon monster
+- [Soul Eater](../../../../Bestiary/soul_eater_ch264.md) — rare 5th grade; one per opening, summons Soul Knights
+- [Soul Knight](../../../../Bestiary/soul_knight_ch264.md) — summoned by the Soul Eater
 
 ## Mechanics
 - Field effect "Specter Canyon" (Canyon of Wraiths): the ground shakes violently every few minutes, and the status [Bound Spirit] / [Earthbound Spirit] gives −100 Darkness and Physical Resistance (ch. 264, 790).

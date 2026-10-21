@@ -1,5 +1,7 @@
 # Magic Tower
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (mage tower / institution) |
@@ -35,6 +37,12 @@ None recorded.
 - ch. 494–497: Bjorn leads over a thousand barbarians and civilians to occupy the Tower, with the royal army reaching only the 4th floor. Tower Master Teschlun Lengman Keallunus bans barbarian-heart research, dismisses 36 mages and wins immunity for Lurendel Galinbaret of the Triten School.
 - ch. 638: Noark seizes the Tower, the second time in recent years that its boast of never being taken has been broken. The exterior is battered but the interior is mostly intact.
 - ch. 776–777: Tower mages are drafted for the war. Raven's master dies, leaving the Master seat vacant, and Raven resigns from the Mage Corps to join Anabada.
+
+## Sub-places
+- [Artemion School](Artemion%20School/README.md)
+- [Elfnunalove's Personal Lab](Elfnunalove's%20Personal%20Lab/README.md)
+- [Magic Tower Plaza](Magic%20Tower%20Plaza/README.md)
+- [Tarutein School](Tarutein%20School/README.md)
 
 ## Chapters
 37, 39–42, 44, 52, 56, 76–78, 98–100, 141, 154–155, 172–173, 176, 193, 198, 200, 204, 235, 237–238, 240–241, 244–245, 253, 259–260, 262–263, 292, 306, 334, 361, 363, 365, 390, 396, 411, 417, 493–499, 546, 556–557, 628, 638–639, 641, 660–661, 663, 776–777

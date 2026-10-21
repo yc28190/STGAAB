@@ -1,5 +1,7 @@
 # Land of the Dead
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [2nd Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -12,15 +14,15 @@ A dark, oppressive undead field with the shortest line of sight of any 2nd-floor
 It is the southern field of the 2nd floor, linked to the ghoul district of the 1st floor, and is considered the easiest 2nd-floor route to the 3rd floor's Pilgrim's Path. It is home to undead monsters and is a known haunt of pillagers. Bjorn later wondered whether Erwen's ancient village became this place.
 
 ## Monsters
-- [[Skeleton]] — common undead, including warrior, archer and mage types
-- [[Ghoul]] — 9th grade, near the start; also raised by Deathfiends
-- [[Elder Ghoul]] — stronger ghoul variant
-- [[Ghoul Lord]] — recorded in the northern area
-- [[Banshee]] — wailing ghosts; attacking one brings the "mark of grief" curse
-- [[Deathfiend]] — 8th grade, in the northern territory; roam in groups from day 3
-- [[Chimera Wolf]] — has an incapacitating skill
-- [[Dullahan]] — midboss
-- [[Death Knight]] — 6th grade, summoned by a stele on Day 7
+- [Skeleton](../../../../Bestiary/skeleton_ch23.md) — common undead, including warrior, archer and mage types
+- [Ghoul](../../../../Bestiary/ghoul_ch11.md) — 9th grade, near the start; also raised by Deathfiends
+- [Elder Ghoul](../../../../Bestiary/elder_ghoul_ch23.md) — stronger ghoul variant
+- [Ghoul Lord](../../../../Bestiary/ghoul_lord_ch30.md) — recorded in the northern area
+- [Banshee](../../../../Bestiary/banshee_ch23.md) — wailing ghosts; attacking one brings the "mark of grief" curse
+- [Deathfiend](../../../../Bestiary/deathfiend_ch23.md) — 8th grade, in the northern territory; roam in groups from day 3
+- [Chimera Wolf](../../../../Bestiary/chimeric_wolf_ch30.md) — has an incapacitating skill
+- [Dullahan](../../../../Bestiary/dullahan_ch23.md) — midboss
+- [Death Knight](../../../../Bestiary/death_knight_ch32.md) — 6th grade, summoned by a stele on Day 7
 
 ## Mechanics
 - Reached through the southern 1st-floor portal tied to the ghoul district; Bjorn once arrived via a dark-zone portal whose message misleadingly said Goblin Forest (ch. 22–23, 110, 296).
@@ -41,6 +43,9 @@ It is the southern field of the 2nd floor, linked to the ghoul district of the 1
 - ch. 113–114: Hans Krisen's party kills the Death Knight at the stele; Bjorn lands a hit for EXP.
 - ch. 296: Recollection of Bjorn and Amelia crossing the field as a pair, guarded by her [Self-Replication] clone.
 - ch. 595: Bjorn wonders whether Erwen's ancient village became this field.
+
+## Sub-places
+- [Deathfiend Territory](Deathfiend%20Territory/README.md)
 
 ## Chapters
 22–26, 33, 51, 110–115, 194, 207, 296, 398, 484, 595

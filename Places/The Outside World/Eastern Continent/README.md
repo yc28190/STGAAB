@@ -1,5 +1,7 @@
 # Eastern Continent
 
+> **Location** : [Places](../../README.md) › [The Outside World](../README.md)
+
 | | |
 |---|---|
 | **Type** | region (continent) |

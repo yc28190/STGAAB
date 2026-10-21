@@ -1,5 +1,7 @@
 # Explorer Shelter (Base Camp)
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | camp |
@@ -10,7 +12,7 @@
 A makeshift refuge set up by Bjorn on the 3rd floor during the Riakis crisis, where stranded lower-level explorers were gathered and protected. Its perimeter was guarded by barbarian warriors and volunteers.
 
 ## Monsters
-- [[Chaos Spirit]] — roamed the floor while Riakis was active and threatened the camp
+- [Chaos Spirit](../../../../Bestiary/chaos_spirit_ch65.md) — roamed the floor while Riakis was active and threatened the camp
 
 ## Mechanics
 - The perimeter was held by barbarian warriors and volunteers (ch. 459).

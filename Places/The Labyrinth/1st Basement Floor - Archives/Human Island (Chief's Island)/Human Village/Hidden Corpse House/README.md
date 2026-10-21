@@ -1,5 +1,7 @@
 # Hidden Corpse House
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [1st Basement Floor - Archives](../../../README.md) › [Human Island (Chief's Island)](../../README.md) › [Human Village](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (house with basement) |
@@ -19,6 +21,9 @@ A normal-looking, fenced and heavily guarded house about 15 minutes from the chi
 - ch. 531–532: Amelia is caught sneaking in.
 - ch. 533: Bjorn hits the chief, throws a Molotov onto the corpses and brings down the stairs and ceiling as he escapes.
 - ch. 565: The cave beneath the basement is revealed (see Hidden Stele Cave).
+
+## Sub-places
+- [Hidden Stele Cave](Hidden%20Stele%20Cave/README.md)
 
 ## Chapters
 531–534, 565

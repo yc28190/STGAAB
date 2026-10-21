@@ -1,5 +1,7 @@
 # Morgue 7
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (morgue) |

@@ -1,5 +1,7 @@
 # Administrative Office
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Ravigion](../README.md)
+
 | | |
 |---|---|
 | **Type** | building (government office) |

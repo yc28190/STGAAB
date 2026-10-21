@@ -1,5 +1,7 @@
 # Doppelganger Forest
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [4th Floor - Tower of Heaven](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -12,11 +14,11 @@ One of the two rifts of the 4th floor, entered through a violently shimmering gr
 Its theme is mistrust: doppelgangers copy expedition members' skills and personalities, the sealed "marauder" secretly possesses a participant, and teams must decide whom to trust. Its guardian is the only source of the rare [Self-Replication] essence.
 
 ## Monsters
-- [[Doppelganger]] — low-level clones copying expedition members; in chapter 4 disguised as imperial soldiers; drop nothing
-- [[Manticore]] — mid-boss; can drop the Manticore essence ([Inheritance], [Leap])
-- [[Bicorn]] — mid-boss
-- [[Culbeth]] — mid-boss
-- [[Nameless Marauder]] — 4th-grade Doppelganger guardian (boss) in the Marauder's Hideout
+- [Doppelganger](../../../../Bestiary/doppelganger_ch177.md) — low-level clones copying expedition members; in chapter 4 disguised as imperial soldiers; drop nothing
+- [Manticore](../../../../Bestiary/manticore_ch182.md) — mid-boss; can drop the Manticore essence ([Inheritance], [Leap])
+- [Bicorn](../../../../Bestiary/bicorn_ch183.md) — mid-boss
+- [Culbeth](../../../../Bestiary/culbeth_ch183.md) — mid-boss
+- [Nameless Marauder](../../../../Bestiary/doppelganger_ch177.md) — 4th-grade Doppelganger guardian (boss) in the Marauder's Hideout
 
 ## Mechanics
 - Up to 3 teams (15 people) enter through three portals; each team starts in a giant cage that opens once the rift is full (about 5 hours here) (ch. 179).
@@ -36,6 +38,12 @@ Its theme is mistrust: doppelgangers copy expedition members' skills and persona
 - ch. 360: Raven obtained No. 7234 Distorted Trust here from Parteian.
 - ch. 449, 460: Source of Bjorn's Idium greaves; remembered as the party's toughest raid to that point.
 - ch. 792: Anabada Team 2 clears it, taking five days for safety.
+
+## Sub-places
+- [Crossroads of Fate](Crossroads%20of%20Fate/README.md)
+- [Marauder's Hideout](Marauder's%20Hideout/README.md)
+- [Shadow Altar](Shadow%20Altar/README.md)
+- [Shadow Cave](Shadow%20Cave/README.md)
 
 ## Chapters
 83, 179–191, 202–204, 226, 242, 246, 275, 291, 303, 315, 347, 360, 423, 449, 456, 460, 483, 490, 543, 790, 792

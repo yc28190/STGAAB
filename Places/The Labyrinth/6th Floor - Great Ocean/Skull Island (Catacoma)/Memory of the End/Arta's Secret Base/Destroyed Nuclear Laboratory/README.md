@@ -1,5 +1,7 @@
 # Destroyed Nuclear Laboratory
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [6th Floor - Great Ocean](../../../../README.md) › [Skull Island (Catacoma)](../../../README.md) › [Memory of the End](../../README.md) › [Arta's Secret Base](../README.md)
+
 | | |
 |---|---|
 | **Type** | boss room (laboratory) |
@@ -12,7 +14,7 @@ A spacious dome-shaped laboratory inside Arta's Secret Base, full of machines co
 It houses the failing mana core of the base and serves as the arena for the battle against Sniktura, the Serpent of the End.
 
 ## Monsters
-- [[Sniktura]] — "End Serpent / Serpent of the End", First Class boss; ejected from the central pit; uses [All-Poison Physiology], [Seed of Destruction], [Venom Spray], [Form Shift] (changes size and morphs into other Grade One monsters), [Life Leech], [Will of the Undying], [Execution], [Fatal Poisoning] and the Cryptid skill [Harbinger of Corruption].
+- [Sniktura](../../../../../../../Bestiary/sniktura_ch800.md) — "End Serpent / Serpent of the End", First Class boss; ejected from the central pit; uses [All-Poison Physiology], [Seed of Destruction], [Venom Spray], [Form Shift] (changes size and morphs into other Grade One monsters), [Life Leech], [Will of the Undying], [Execution], [Fatal Poisoning] and the Cryptid skill [Harbinger of Corruption].
 
 ## Mechanics
 - Field effect "Destroyed Nuclear Laboratory": all resources (MP, soul power) of both sides are fixed at 0 (ch. 800).

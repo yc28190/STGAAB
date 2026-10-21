@@ -1,5 +1,7 @@
 # Loser's Rest
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [7th Floor](../../../README.md) › [Dark Continent](../../README.md) › [Dragon's Lair](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |

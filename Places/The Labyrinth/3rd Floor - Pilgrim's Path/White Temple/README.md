@@ -1,5 +1,7 @@
 # White Temple
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [3rd Floor - Pilgrim's Path](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift |
@@ -12,14 +14,14 @@ The only rift of the 3rd floor, a temple whose first impression is overwhelmingl
 The hut is an exact copy of the Witch's Cabin in the Witch's Forest, down to the furniture; its books are blank but carry titles in the ancient language. The rift is prized for its huge experience rewards, and its talking boss believed the labyrinth was the real world and called explorers "dogs of the Empire".
 
 ## Monsters
-- [[Corpse Golem]] — elite-type stage monster
-- [[Blue Armored Giant Soldier]] — elite stage monster
-- [[White Armored Guardian]] — elite stage monster
-- [[Green Armored Scout]] — elite stage monster
-- [[Silver Thread Prophet]] — elite stage monster
-- [[Blue-White Palace Judge]] — elite stage monster
-- [[Knight of Doom]] — boss (Guardian), 5th-grade high variant with one random extra essence; also called Knight of the Apocalypse / Doom Knight
-- [[Spirit Horse]] — the boss's mount, summoned by [Servant]
+- [Corpse Golem](../../../../Bestiary/corpse_golem_ch30.md) — elite-type stage monster
+- [Blue Armored Giant Soldier](../../../../Bestiary/blue_armored_giant_soldier_ch299.md) — elite stage monster
+- [White Armored Guardian](../../../../Bestiary/white_armored_guardian_ch300.md) — elite stage monster
+- [Green Armored Scout](../../../../Bestiary/green_armored_scout_ch300.md) — elite stage monster
+- [Silver Thread Prophet](../../../../Bestiary/silver_thread_prophet_ch300.md) — elite stage monster
+- [Blue-White Palace Judge](../../../../Bestiary/blue_white_palace_judge_ch300.md) — elite stage monster
+- [Knight of Doom](../../../../Bestiary/knight_of_doom_ch300.md) — boss (Guardian), 5th-grade high variant with one random extra essence; also called Knight of the Apocalypse / Doom Knight
+- [Spirit Horse](../../../../Bestiary/spirit_horse_ch300.md) — the boss's mount, summoned by [Servant]
 
 ## Mechanics
 - When it opens the ground rumbles; a Guide can sense where (ch. 298, 790).

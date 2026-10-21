@@ -1,5 +1,7 @@
 # Exit Room
 
+> **Location** : [Places](../../../../../../README.md) › [The Labyrinth](../../../../../README.md) › [1st Basement Floor - Archives](../../../../README.md) › [Stone Gate Island](../../../README.md) › [Hall of Guardian Statues](../../README.md) › [3rd Archive](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (reward / exit room) |

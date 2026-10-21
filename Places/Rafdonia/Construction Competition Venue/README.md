@@ -1,5 +1,7 @@
 # Construction Competition Venue
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | arena (stage) |

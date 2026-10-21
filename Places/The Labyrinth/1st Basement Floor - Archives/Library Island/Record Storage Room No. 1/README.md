@@ -1,5 +1,7 @@
 # Record Storage Room No. 1
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Library Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | hidden room (reward room) |
@@ -12,8 +14,8 @@ A small circular chamber hidden behind the library's shelves. When the right boo
 It is the reward room for the library's hidden piece, the "legacy of Gavrilius". After the battle with Kashan, it was seen through the light of the shattered stone gate looking as if a typhoon had swept through, and royal soldiers later stripped it bare.
 
 ## Monsters
-- [[Kashan]] — grade 1 guardian of the official route, summoned from the top-shelf book; luck-manipulating boss
-- [[Hamsik]] — the room's keeper, who opens the secret door
+- [Kashan](../../../../../Bestiary/kashan_ch551.md) — grade 1 guardian of the official route, summoned from the top-shelf book; luck-manipulating boss
+- [Hamsik](../../../../../Bestiary/hamsik_ch548.md) — the room's keeper, who opens the secret door
 
 ## Mechanics
 - Hamsik's door is a hidden shortcut: it opens only through Hamsik, you leave by the same glowing door, and it closes once Hamsik steps out (ch. 550–551, 559).

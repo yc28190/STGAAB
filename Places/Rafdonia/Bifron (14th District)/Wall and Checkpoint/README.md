@@ -1,5 +1,7 @@
 # Wall and Checkpoint
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Bifron (14th District)](../README.md)
+
 | | |
 |---|---|
 | **Type** | wall / checkpoint |

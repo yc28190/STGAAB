@@ -1,5 +1,7 @@
 # Nebiswolf Clan Mirror Field
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [5th Floor - Great Magical Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -11,7 +13,7 @@ A 5th-floor field arranged around a giant mirror glowing red, through which mons
 
 ## Monsters
 - Monsters from the mirror world — pour out of the mirror
-- [[Veritas]] — rare 5th-grade demon that can come through
+- [Veritas](../../../../Bestiary/veritas_ch169.md) — rare 5th-grade demon that can come through
 
 ## Mechanics
 - Monsters from the other world enter the labyrinth through this mirror (ch. 170).

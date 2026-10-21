@@ -1,5 +1,7 @@
 # Stone of Honor
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Hero's Plaza](../README.md)
+
 | | |
 |---|---|
 | **Type** | monument |

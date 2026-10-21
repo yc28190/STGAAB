@@ -1,5 +1,7 @@
 # Trap Room
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [7th Floor](../../../README.md) › [Ice Rock](../../README.md) › [Ice Cave Maze](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (trap encounter) |
@@ -13,7 +15,7 @@ Once triggered it becomes a sealed arena, and it was the scene of the final, blo
 
 ## Monsters
 - Undead summoned by a Karui priest.
-- [[Executioner]] — summoned.
+- [Executioner](../../../../../../Bestiary/executioner_ch428.md) — summoned.
 
 ## Mechanics
 - A random encounter in the ice cave: using any skill inside triggers it (James Kala's [Nimble Fingers] did) (ch. 425).

@@ -1,5 +1,7 @@
 # Quiet Zone
 
+> **Location** : [Places](../../../README.md) › [Rafdonia](../../README.md) › [Barbarian Sanctuary](../README.md)
+
 | | |
 |---|---|
 | **Type** | district (tent area) |

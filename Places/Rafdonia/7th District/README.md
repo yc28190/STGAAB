@@ -1,5 +1,7 @@
 # 7th District
 
+> **Location** : [Places](../../README.md) › [Rafdonia](../README.md)
+
 | | |
 |---|---|
 | **Type** | district |
@@ -30,6 +32,32 @@ None recorded.
 - ch. 708–717: Anabada is assigned here under the 3rd Legion; Urae strikes the city.
 - ch. 726–751: As Ravigion territory, the district becomes a battlefield; Bjorn's force wipes out Noark units, joins a pincer with the District 5 army, and escapes the second Urae strike via the ancient summoning circle.
 - ch. 783–788: Bjorn admits he set Districts 7 and 8 on fire during the war; Sanctuary warriors are assigned to restoration work.
+
+## Sub-places
+- [24-Hour Bar](24-Hour%20Bar/README.md)
+- [3rd Legion Command](3rd%20Legion%20Command/README.md)
+- [7-2 Commercial District](7-2%20Commercial%20District/README.md)
+- [7th District Central Plaza](7th%20District%20Central%20Plaza/README.md)
+- [Avman's Bar](Avman's%20Bar/README.md)
+- [Bjorn's House](Bjorn's%20House/README.md)
+- [Bjorn's Inn](Bjorn's%20Inn/README.md)
+- [Cheap Explorers' Tavern](Cheap%20Explorers'%20Tavern/README.md)
+- [City Walls](City%20Walls/README.md)
+- [Dimensional Plaza](Dimensional%20Plaza/README.md)
+- [Erwen's Mansion](Erwen's%20Mansion/README.md)
+- [Explorers' Guild](Explorers'%20Guild/README.md)
+- [High-Class Restaurant](High-Class%20Restaurant/README.md)
+- [Hikurod's Forge (Carsia Lomne)](Hikurod's%20Forge%20(Carsia%20Lomne)/README.md)
+- [Kerman Magic Workshop](Kerman%20Magic%20Workshop/README.md)
+- [Leathlas Church Eastern Branch](Leathlas%20Church%20Eastern%20Branch/README.md)
+- [Magic Tower Branch](Magic%20Tower%20Branch/README.md)
+- [Military Transfer Station](Military%20Transfer%20Station/README.md)
+- [Old Leathlas Temple](Old%20Leathlas%20Temple/README.md)
+- [Security Office](Security%20Office/README.md)
+- [Sven's Wardrobe House](Sven's%20Wardrobe%20House/README.md)
+- [Training Center](Training%20Center/README.md)
+- [Urae Impact Site](Urae%20Impact%20Site/README.md)
+- [Yandel Estate](Yandel%20Estate/README.md)
 
 ## Chapters
 127, 161, 162, 173, 174, 203, 205, 385, 387, 391, 392, 490, 576, 622–624, 626–629, 632–634, 637, 638, 648–650, 654, 657, 706, 708, 709, 715, 717, 725, 726, 730, 738–742, 744–746, 748, 749, 751, 775, 776, 781, 783, 788

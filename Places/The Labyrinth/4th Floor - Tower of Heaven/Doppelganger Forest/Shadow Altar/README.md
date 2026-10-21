@@ -1,5 +1,7 @@
 # Shadow Altar
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [4th Floor - Tower of Heaven](../../README.md) › [Doppelganger Forest](../README.md)
+
 | | |
 |---|---|
 | **Type** | zone (rift chapter 3) |
@@ -10,7 +12,7 @@
 The hidden altar of the Doppelganger Forest. When it is found, a black shadow envelops everyone and a giant barrier with a radius of about 500 m rises around it. It is the stage for the rift's trust game: unmasking the expedition member possessed by the sealed marauder.
 
 ## Monsters
-- [[Doppelganger]] — the sealed marauder, hidden inside one expedition member
+- [Doppelganger](../../../../../Bestiary/doppelganger_ch177.md) — the sealed marauder, hidden inside one expedition member
 
 ## Mechanics
 - "The sealed marauder" secretly possesses one expedition member; offering the right person at the altar destroys it, while offering the wrong person seals their soul above the altar until the rift is cleared (ch. 184).

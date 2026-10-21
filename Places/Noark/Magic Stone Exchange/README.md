@@ -1,5 +1,7 @@
 # Magic Stone Exchange
 
+> **Location** : [Places](../../README.md) › [Noark](../README.md)
+
 | | |
 |---|---|
 | **Type** | shop (exchange) |

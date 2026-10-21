@@ -1,5 +1,7 @@
 # Root Tunnels
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Basement Floor - Archives](../../README.md) › [Tree Island](../README.md)
+
 | | |
 |---|---|
 | **Type** | tunnels (cave) |

@@ -1,5 +1,7 @@
 # Blackrock Mountain
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [2nd Floor](../README.md)
+
 | | |
 |---|---|
 | **Type** | field |
@@ -10,9 +12,9 @@
 The 2nd-floor field reached by the southern route from the Crystal Cave. Its appearance has not been recorded in detail.
 
 ## Monsters
-- [[Gnome]]
-- [[Kobold]]
-- [[Stone Golem]] — uses Suppression
+- [Gnome](../../../../Bestiary/gnome_ch25.md)
+- [Kobold](../../../../Bestiary/kobold_ch27.md)
+- [Stone Golem](../../../../Bestiary/stone_golem_ch25.md) — uses Suppression
 
 ## Mechanics
 - Reached through the 1st floor's southern portal (ch. 27).

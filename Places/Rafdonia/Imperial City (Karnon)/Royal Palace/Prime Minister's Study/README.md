@@ -1,5 +1,7 @@
 # Prime Minister's Study
 
+> **Location** : [Places](../../../../README.md) › [Rafdonia](../../../README.md) › [Imperial City (Karnon)](../../README.md) › [Royal Palace](../README.md)
+
 | | |
 |---|---|
 | **Type** | room (study) |

@@ -1,5 +1,7 @@
 # Hidden Corridor (44-Torch Dead End)
 
+> **Location** : [Places](../../../../../README.md) › [The Labyrinth](../../../../README.md) › [6th Floor - Great Ocean](../../../README.md) › [Skull Island (Catacoma)](../../README.md) › [Catacoma Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | corridor (hidden passage) |

@@ -1,5 +1,7 @@
 # The Labyrinth
 
+> **Location** : [Places](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (dimension) |
@@ -32,6 +34,21 @@ The royal family presents the labyrinth as a passage to another dimension that t
 - ch. 645–657: After Noark's invasion the labyrinth is sealed. Prices crash, explorers can't pay their taxes, and protests follow.
 - ch. 773–774: It stays closed for about a year after Viphron's fall.
 - ch. 789–790: The labyrinth reopens. The royal force aims to take all three prime farming islands on the 6th Floor, while Anabada targets the 8th-floor rift.
+
+## Sub-places
+- [10th Floor - Abyss](10th%20Floor%20-%20Abyss/README.md)
+- [1st Basement Floor - Archives](1st%20Basement%20Floor%20-%20Archives/README.md)
+- [1st Floor - Crystal Cave](1st%20Floor%20-%20Crystal%20Cave/README.md)
+- [2nd Basement Floor](2nd%20Basement%20Floor/README.md)
+- [2nd Floor](2nd%20Floor/README.md)
+- [3rd Floor - Pilgrim's Path](3rd%20Floor%20-%20Pilgrim's%20Path/README.md)
+- [4th Floor - Tower of Heaven](4th%20Floor%20-%20Tower%20of%20Heaven/README.md)
+- [5th Floor - Great Magical Forest](5th%20Floor%20-%20Great%20Magical%20Forest/README.md)
+- [6th Floor - Great Ocean](6th%20Floor%20-%20Great%20Ocean/README.md)
+- [7th Floor](7th%20Floor/README.md)
+- [8th Floor - Dawn Land](8th%20Floor%20-%20Dawn%20Land/README.md)
+- [9th Floor - Star Grave](9th%20Floor%20-%20Star%20Grave/README.md)
+- [Unknown Floor](Unknown%20Floor/README.md)
 
 ## Chapters
 3–5, 12–13, 19, 22, 27, 33, 146, 162, 166, 177–178, 182, 350, 366, 370, 373, 381, 384, 645, 647, 657–658, 731, 737, 741, 773–774, 779, 785–786, 789–790

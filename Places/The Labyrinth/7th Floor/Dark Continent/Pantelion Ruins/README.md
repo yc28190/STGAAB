@@ -1,5 +1,7 @@
 # Pantelion Ruins
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [7th Floor](../../README.md) › [Dark Continent](../README.md)
+
 | | |
 |---|---|
 | **Type** | field (ruins) |
@@ -12,11 +14,11 @@ Nearly abandoned ruins of stone temple buildings set in jungle, west of the Rive
 The ruins were once an Empire laboratory, which explains their mechanical and magic-engineered monsters. The jungle of Rainbow Island looks like their intact prototype.
 
 ## Monsters
-- [[Gigawolf]]
+- [Gigawolf](../../../../../Bestiary/gigawolf_ch365.md)
 - Modified metallic beasts
 - Giant magic-engineering golems
 - Mechanical flying (drone-like) monsters
-- [[Mechanical Giant]] — Grade 3; [Magic Beam], [Support Request], [Reactor]; essence passive [Mechanization] turns magic stones into MP.
+- [Mechanical Giant](../../../../../Bestiary/mechanical_giant_ch612.md) — Grade 3; [Magic Beam], [Support Request], [Reactor]; essence passive [Mechanization] turns magic stones into MP.
 
 ## Mechanics
 - Low-level monsters for the 7th floor at the entrance, with many unique species (more than 20 new types in one patrol) (ch. 365).

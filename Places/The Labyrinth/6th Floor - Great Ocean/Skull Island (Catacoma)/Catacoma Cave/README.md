@@ -1,5 +1,7 @@
 # Catacoma Cave
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [6th Floor - Great Ocean](../../README.md) › [Skull Island (Catacoma)](../README.md)
+
 | | |
 |---|---|
 | **Type** | dungeon (special area) |
@@ -10,8 +12,8 @@
 A winding maze, like the Crystal Cave, whose walls, ceiling and floor are all made of bone. Sconces fashioned from skulls hold candles that ignite when the door shuts behind visitors, but everything beyond about 10 m is pitch black.
 
 ## Monsters
-- [[Skull-head monster]] — average Grade 7
-- [[Gravekeeper Alleton]] — recorded
+- Skull-head monster — average Grade 7
+- [Gravekeeper Alleton](../../../../../Bestiary/gravekeeper_alleton_ch796.md) — recorded
 
 ## Mechanics
 - Field effect "Catacoma": the debuff Severe Wound Aggravation; each monster kill lowers a random sub-stat by 1 (mages lose mana instead); the countdown timer is removed (ch. 796).
@@ -23,6 +25,10 @@ A winding maze, like the Crystal Cave, whose walls, ceiling and floor are all ma
 ## Notable events
 - ch. 796: Raven's light orb fails to pierce the darkness.
 - ch. 796–798: Anabada fights through the cave toward its boss room.
+
+## Sub-places
+- [Boss Room](Boss%20Room/README.md)
+- [Hidden Corridor (44-Torch Dead End)](Hidden%20Corridor%20(44-Torch%20Dead%20End)/README.md)
 
 ## Chapters
 796–798

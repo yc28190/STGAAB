@@ -1,5 +1,7 @@
 # Steel Tomb
 
+> **Location** : [Places](../../../README.md) › [The Labyrinth](../../README.md) › [1st Floor - Crystal Cave](../README.md)
+
 | | |
 |---|---|
 | **Type** | rift (1st-floor rift) |
@@ -10,13 +12,13 @@
 Narrow passages like the inside of a pyramid, except the walls are metal rather than stone, inscribed in an unknown language. It is dark enough to need a light spirit and full of traps.
 
 ## Monsters
-- [[Mummy]]
-- [[Ironclad Soldier]]
-- [[Buried One]]
-- [[Guardian's Eye]]
-- [[Iron Lizardman]]
-- [[Riddlekeeper]]
-- [[Iron Golem Ildium]] — guardian, high variant (also called Iron Man Ildium)
+- [Mummy](../../../../Bestiary/mummy_ch456.md)
+- [Ironclad Soldier](../../../../Bestiary/ironclad_soldier_ch456.md)
+- [Buried One](../../../../Bestiary/buried_one_ch456.md)
+- [Guardian's Eye](../../../../Bestiary/guardian_s_eye_ch456.md)
+- [Iron Lizardman](../../../../Bestiary/iron_lizardman_ch456.md)
+- [Riddlekeeper](../../../../Bestiary/riddlekeeper_ch456.md)
+- [Iron Golem Ildium](../../../../Bestiary/iron_golem_ildium_ch456.md) — guardian, high variant (also called Iron Man Ildium)
 
 ## Mechanics
 - A 1st-floor rift, opened here at the Great Sage Monument (ch. 456).

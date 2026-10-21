@@ -1,5 +1,7 @@
 # 5th Floor - Great Magical Forest
 
+> **Location** : [Places](../../README.md) › [The Labyrinth](../README.md)
+
 | | |
 |---|---|
 | **Type** | floor |
@@ -12,18 +14,18 @@ An open-world floor shaped like a flat, tray-like rock (the starting point) with
 The starting area is a safe zone used as a campsite, at times as large as a village and crowded with clan tents. From this floor explorers work in clans; most fields used to be held by clans that charged for hunts, until the war with Noark wiped most of them out.
 
 ## Monsters
-- [[Ifrit]] — Hellfire Canyon
-- [[Hell Hound]] — Hellfire Canyon
-- [[Millarodden]] — rare 7th-grade squirrel whose mirror opens the Mirror of Fire
-- [[Salamander]] — recorded
-- [[Redwood]] — recorded
-- [[Veritas]] — 5th-grade rare demon of the mirror world
-- [[Doomfire Fairy]] — recorded
-- [[Istoltos]] — recorded
-- [[Soul Eater]] — Grade 5 rare; one spawns per opening, 100–200 EXP, normally no essence
-- [[Half-demon]] — rare, with spawn conditions
-- [[Harmonizer Gregory]] — rare hidden boss
-- [[Lord of Silence]] — Floor Master (Silriat)
+- [Ifrit](../../../Bestiary/ifrit_ch136.md) — Hellfire Canyon
+- [Hell Hound](../../../Bestiary/hell_hound_ch168.md) — Hellfire Canyon
+- [Millarodden](../../../Bestiary/millarodden_ch168.md) — rare 7th-grade squirrel whose mirror opens the Mirror of Fire
+- [Salamander](../../../Bestiary/salamander_ch169.md) — recorded
+- [Redwood](../../../Bestiary/redwood_ch169.md) — recorded
+- [Veritas](../../../Bestiary/veritas_ch169.md) — 5th-grade rare demon of the mirror world
+- [Doomfire Fairy](../../../Bestiary/doomfire_fairy_ch169.md) — recorded
+- [Istoltos](../../../Bestiary/istoltos_ch263.md) — recorded
+- [Soul Eater](../../../Bestiary/soul_eater_ch264.md) — Grade 5 rare; one spawns per opening, 100–200 EXP, normally no essence
+- [Half-demon](../../../Bestiary/half_demon_ch599.md) — rare, with spawn conditions
+- [Harmonizer Gregory](../../../Bestiary/harmonizer_gregory_ch503.md) — rare hidden boss
+- [Lord of Silence](../../../Bestiary/silriat_ch320.md) — Floor Master (Silriat)
 
 ## Mechanics
 - Reaching the floor grants a "Baptism": +20 Soul Power for the achievement, plus mana for mages and divine power for priests (ch. 166, 406).
@@ -47,6 +49,12 @@ The starting area is a safe zone used as a campsite, at times as large as a vill
 - ch. 324: Bjorn says he killed the Lord of Silence about 300 times in the game.
 - ch. 599: 5th-floor explorers are described as the most sought-after grooms.
 - ch. 790–791: Anabada reaches the 6th floor on Day 16–17, a record pace; the Meiruta Clan's leader is executed here for an attempted raid.
+
+## Sub-places
+- [Frost Canyon](Frost%20Canyon/README.md)
+- [Hellfire Canyon](Hellfire%20Canyon/README.md)
+- [Nebiswolf Clan Mirror Field](Nebiswolf%20Clan%20Mirror%20Field/README.md)
+- [Specter Canyon](Specter%20Canyon/README.md)
 
 ## Chapters
 165–171, 173, 174, 176, 191, 205, 263, 264, 296, 320, 324, 325, 350, 380, 383, 397, 398, 406, 503, 505, 599, 601, 602, 790, 791

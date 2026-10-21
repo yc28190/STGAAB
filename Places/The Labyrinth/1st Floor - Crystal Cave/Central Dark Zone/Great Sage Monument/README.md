@@ -1,5 +1,7 @@
 # Great Sage Monument
 
+> **Location** : [Places](../../../../README.md) › [The Labyrinth](../../../README.md) › [1st Floor - Crystal Cave](../../README.md) › [Central Dark Zone](../README.md)
+
 | | |
 |---|---|
 | **Type** | monument chamber (raid site) |
@@ -12,7 +14,7 @@ A rare open chamber about 30 m across in the middle of the Crystal Cave, reached
 It is both a hidden-piece shrine for opening the 1st-floor rift and the arena where the Floor Lord Dreadfear is raided.
 
 ## Monsters
-- [[Dreadfear]] — Lord of Terror, Floor Lord summoned here as a raid boss
+- [Dreadfear](../../../../../Bestiary/dreadfear_ch212.md) — Lord of Terror, Floor Lord summoned here as a raid boss
 
 ## Mechanics
 - Rift hidden piece: place mana stones from all four 1st-floor monsters (goblin, gnome, ghoul, blade wolf) plus one 8th-grade stone (e.g. from the Rocky Desert) on the altar, and a black portal to a 1st-floor rift opens if none is on cooldown. The 8th-grade stone decides which rift: a deathfiend stone opens the Blood Citadel. Cooldown is at least 3 cycles (3 months); the rift usually opens on its own every 5–6 cycles, and at most about 8 (ch. 27, 218, 456).
@@ -31,6 +33,10 @@ It is both a hidden-piece shrine for opening the 1st-floor rift and the arena wh
 - ch. 486: An old man with a floating book tells how Dreadfear was born.
 - ch. 503: Explorers inspect the monument for the hidden area in vain.
 - ch. 595: The Witch's Altar of the Pilgrim's Cave is noted to stand in the same spot.
+
+## Sub-places
+- [Bottomless Pit of Solitude](Bottomless%20Pit%20of%20Solitude/README.md)
+- [Pilgrim's Cave](Pilgrim's%20Cave/README.md)
 
 ## Chapters
 27, 162, 210, 218, 456, 479, 481, 482, 484–486, 503, 595
