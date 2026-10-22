@@ -36,14 +36,17 @@
 | 346-349 | Retire Manticore, absorbe **Gachabon** ; alias « Lihen Schuitz » |
 | 363-367 | Niveau 7 |
 | 382-386 | Essence **Deep Sea Giant** |
+| 392 | *Undying Imprint* niv. 7 (Physique +120, nouvelle stat Recovery Power) |
 | 430-438 | Reprend publiquement son nom au défilé de la victoire |
 | 439-451 | Baron ; bat Gudnulf Olga et devient **chef des barbares** ; fonde le clan **Anabada** |
 | 528-533 | Niveau 8 ; bouclier n° 3 *Wall of Aegis* (ch. 534-538) |
 | 552-555 | Essence **Bellarios** |
 | 618-622 | Retire Orc Hero, essence sur mesure (stats d'Arbet, [Soul Link], Gigantification) |
-| 660-680 | *Undying Imprint* niv. 7 ; Aegis Dragon Armor et n° 687 Siege Slayer (ch. 681-721) |
+| 681-721 | Aegis Dragon Armor et n° 687 Siege Slayer |
 | 766-782 | Tue le marquis Terserion, hérite d'Urae ; décide de devenir roi |
 | 783-788 | Promu vicomte ; *Undying Engraving* niv. 8 (le niv. 9 exige un cœur de dragon) |
+
+Detailed stat reconstruction: [bjorn_yandel_stats.md](bjorn_yandel_stats.md)
 
 ## Objectifs
 - Survivre ; atteindre le 6e étage pour s'assurer une retraite (ch. 18).
